@@ -26,7 +26,7 @@ class BoxScoreTrABC(object):
 
 
 class BoxScoreTr(BoxScoreTrABC):
-    """Box score table row for player's that played.
+    """Box score table row for members of the team that played.
     """
 
     @property
@@ -138,7 +138,7 @@ class TeamBoxScore(tuple):
 
     def __new__(cls, tag):
         """Must be instantiated with `tag` representing box score table."""
-        lst = [box.as_dict for box in \
+        lst = [box_score_tr.as_dict for box_score_tr in \
                [BoxScoreTr(tds) if len(tds) > 2 else DNPBoxScoreTr(tds) \
                 for tds in [tr.find_all('td') \
                             for tr in tag.find_all(_is_player_tr)]]]
