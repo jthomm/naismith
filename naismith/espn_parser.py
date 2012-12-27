@@ -51,22 +51,22 @@ class MatchProgram(object):
 
 class ProgramSet(object):
     """Ordered set of `MatchProgram` instances to be run consecutively until
-    a match is found.  If no match is found, return a generic result to indicate 
+    a match is found.  If no match is found, return a default result to indicate 
     unknown or missing information.
     """
 
-    def __init__(self, programs=None, generic_result=None):
-        self.programs = list() if programs is None else programs
-        self.generic_result = generic_result
+    def __init__(self, match_programs=None, default=None):
+        self.match_programs = match_programs or list()
+        self.default = default or dict()
 
     def __call__(self, string):
-        for program in self.programs:
+        for match_program in self.match_programs:
             try:
-                return program(string)
+                return match_program(string)
             except MatchError:
                 pass
         else:
-            return self.generic_result
+            return self.default
 
 
 
@@ -257,11 +257,11 @@ program_parameters_set = (
 
 
 
-programs = [MatchProgram(pattern=params[0], post_proc=params[1]) \
-            for params in program_parameters_set]
+match_programs = [MatchProgram(pattern=params[0], post_proc=params[1]) \
+                  for params in program_parameters_set]
 
-resolve_play_type = ProgramSet(programs=programs,
-                               generic_result={'type': u'UNKNOWN'})
+resolve_play_type = ProgramSet(match_programs=match_programs,
+                               default={'type': u'UNKNOWN'})
 
 
 
