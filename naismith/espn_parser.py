@@ -3,7 +3,7 @@ import re
 
 
 class MatchError(Exception):
-    """Indicates the string provided to a `Program` instance does not match
+    """Indicates the string provided to a `MatchProgram` instance does not match
     the instance's pattern.
     """
 
@@ -33,13 +33,6 @@ class MatchProgram(object):
     >>>
     >>> traveling('LeBron James discontinued dribble')
     {'type': u'turnover', 'tov_type': u'traveling', 'player': u'LeBron James'}
-    >>>
-    >>> traveling('Kevin Garnett loose ball foul')
-    Traceback (most recent call last):
-      File "<stdin>", line 1, in <module>
-      File "match_program.py", line 46, in __call__
-        raise MatchError(string, compiled_pattern.pattern)
-    match_program.MatchError: 'Kevin Garnett loose ball foul' does not match pattern '(?P<player_name>.+?) (?:traveling|discontinued dribble)'
     """
 
     def __init__(self, pattern=r'.*', post_proc=lambda group: group):
