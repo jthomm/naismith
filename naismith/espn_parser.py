@@ -18,7 +18,7 @@ class MatchError(Exception):
 
 
 
-class Program(object):
+class MatchProgram(object):
     """Combination of regular expression pattern and post procedure to be 
     called on match object's `groupdict`.  If no match object is found, calling 
     the program raises a `MatchError`.  Otherwise, the object returns the result 
@@ -29,10 +29,17 @@ class Program(object):
     ...                            'tov_type': u'traveling',
     ...                            'player': unicode(group['player_name']),}
     >>>
-    >>> prog = Program(pattern=pattern, post_proc=post_proc))
+    >>> traveling = MatchProgram(pattern=pattern, post_proc=post_proc))
     >>>
-    >>> prog('LeBron James discontinued dribble')
+    >>> traveling('LeBron James discontinued dribble')
     {'type': u'turnover', 'tov_type': u'traveling', 'player': u'LeBron James'}
+    >>>
+    >>> traveling('Kevin Garnett loose ball foul')
+    Traceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+      File "match_program.py", line 46, in __call__
+        raise MatchError(string, compiled_pattern.pattern)
+    match_program.MatchError: 'Kevin Garnett loose ball foul' does not match pattern '(?P<player_name>.+?) (?:traveling|discontinued dribble)'
     """
 
     def __init__(self, pattern=r'.*', post_proc=lambda group: group):
@@ -50,7 +57,7 @@ class Program(object):
 
 
 class ProgramSet(object):
-    """Ordered set of `Program` instances to be run consecutively until
+    """Ordered set of `MatchProgram` instances to be run consecutively until
     a match is found.  If no match is found, return a generic result to indicate 
     unknown or missing information.
     """
@@ -257,7 +264,7 @@ program_parameters_set = (
 
 
 
-programs = [Program(pattern=params[0], post_proc=params[1]) \
+programs = [MatchProgram(pattern=params[0], post_proc=params[1]) \
             for params in program_parameters_set]
 
 resolve_play_type = ProgramSet(programs=programs,
