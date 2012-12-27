@@ -17,7 +17,7 @@ def json_default(obj):
 
 class GameDate(object):
     """Collects all game data for a given day and saves as json."""
-    
+
     def __init__(self, date):
         self._date = date
         self._scrape_game_urls()

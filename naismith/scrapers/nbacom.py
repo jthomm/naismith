@@ -233,10 +233,18 @@ class GameMetaData(object):
     def city(self):
         return self._location.split(', ', 1)[1]
 
+    @property
+    def as_dict(self):
+        return {attr_name: getattr(self, attr_name) for attr_name in \
+                ('away_abbr',
+                 'home_abbr',
+                 'datetime',
+                 'arena',
+                 'city',)}
 
 
 
-class NBACom(object):
+class NBACom(dict):
     """Top-level API for accessing NBA.com game page data.
     """
 
@@ -250,31 +258,13 @@ class NBACom(object):
         >>> tag = bs4.BeautifulSoup(html)
         >>> game = NBACom(tag)
         """
-        # Set metadata
+        dict.__init__(self)
         _metadata = GameMetaData(tag)
-        self.away_abbr = _metadata.away_abbr
-        self.home_abbr = _metadata.home_abbr
-        self.datetime = _metadata.datetime
-        self.arena = _metadata.arena
-        self.city = _metadata.city
-        # Set box score data
+        self.update(_metadata.as_dict)
         _box_tables = tag.find_all(id='nbaGITeamStats')
-        self.away_box = TeamBoxScore(_box_tables[0])
-        self.home_box = TeamBoxScore(_box_tables[1])
-        # Set play-by-play
-        self.plays = PlayByPlay(tag.find(id='nbaGIPlay').find('table'))
-
-    @property
-    def as_dict(self):
-        return {attr_name: getattr(self, attr_name) for attr_name in \
-                ('away_abbr',
-                 'home_abbr',
-                 'datetime',
-                 'arena',
-                 'city',
-                 'away_box',
-                 'home_box',
-                 'plays',)}
+        self['box_score'] = {'away': TeamBoxScore(_box_tables[0]),
+                             'home': TeamBoxScore(_box_tables[1]),}
+        self['plays'] = PlayByPlay(tag.find(id='nbaGIPlay').find('table'))
 
 
 
