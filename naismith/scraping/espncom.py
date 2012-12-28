@@ -3,7 +3,7 @@ import re
 
 
 
-class Plays(tuple):
+class PlayByPlay(tuple):
     """Tuple of dictionaries containing information about each play. 
     Table headers and rows denoting quarter summary (one cell) are ommitted.
     """
@@ -12,7 +12,7 @@ class Plays(tuple):
         """Must be instantiated with `tag` representing play-by-play table:
                
         >>> tag = entire_page.find('table', {'class': 'mod-data'})
-        >>> plays = Plays(tag)
+        >>> plays = PlayByPlay(tag)
         """
         lst = list()
         for tr in tag.find_all('tr'):
@@ -35,7 +35,7 @@ class Plays(tuple):
                             'clock': data[0],
                             'team': team,
                             'score': data[2],})
-        return super(Plays, cls).__new__(cls, lst)
+        return super(PlayByPlay, cls).__new__(cls, lst)
 
 
 
@@ -77,7 +77,7 @@ class GameVitals(dict):
 
 
 
-class PlayByPlay(dict):
+class ESPNCom(dict):
     """Top-level API for accessing ESPN.com play-by-play page data.
     """
 
@@ -89,14 +89,14 @@ class PlayByPlay(dict):
         >>> 
         >>> html = requests.get(pbp_page_url).text
         >>> tag = bs4.BeautifulSoup(html)
-        >>> pbp = PlayByPlay(tag)
+        >>> game = ESPNCom(tag)
         """
         dict.__init__(self)
         self['away'] = TeamData(tag.find('div', {'class': 'team away'}))
         self['home'] = TeamData(tag.find('div', {'class': 'team home'}))
         vitals = GameVitals(tag.find('div', {'class': 'game-vitals'}))
         self.update(vitals)
-        self['plays'] = Plays(tag.find('table', {'class': 'mod-data'}))
+        self['plays'] = PlayByPlay(tag.find('table', {'class': 'mod-data'}))
 
 
 
