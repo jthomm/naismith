@@ -1,0 +1,3166 @@
+{
+  "arena": "Time Warner Cable Arena",
+  "box_score": {
+    "home": [
+      {
+        "blocked_shots": 2,
+        "three_pointers": "0-0",
+        "minutes_played": "25:48",
+        "field_goals": "11-14",
+        "plus_minus": 5,
+        "points": 22,
+        "free_throws": "0-2",
+        "player_url": "/playerfile/michael_kidd-gilchrist/index.html",
+        "defensive_rebounds": 7,
+        "total_rebounds": 9,
+        "player_abbr": "M. Kidd-Gilchrist",
+        "steals": 1,
+        "offensive_rebounds": 2,
+        "position": "F",
+        "assists": 1,
+        "personal_fouls": 4,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 2,
+        "three_pointers": "0-0",
+        "minutes_played": "29:50",
+        "field_goals": "4-9",
+        "plus_minus": -8,
+        "points": 12,
+        "free_throws": "4-6",
+        "player_url": "/playerfile/hakim_warrick/index.html",
+        "defensive_rebounds": 8,
+        "total_rebounds": 10,
+        "player_abbr": "H. Warrick",
+        "steals": 1,
+        "offensive_rebounds": 2,
+        "position": "F",
+        "assists": 2,
+        "personal_fouls": 1,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 2,
+        "three_pointers": "0-0",
+        "minutes_played": "26:22",
+        "field_goals": "0-4",
+        "plus_minus": 10,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/bismack_biyombo/index.html",
+        "defensive_rebounds": 5,
+        "total_rebounds": 7,
+        "player_abbr": "B. Biyombo",
+        "steals": 0,
+        "offensive_rebounds": 2,
+        "position": "C",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "2-3",
+        "minutes_played": "30:13",
+        "field_goals": "6-10",
+        "plus_minus": -7,
+        "points": 19,
+        "free_throws": "5-6",
+        "player_url": "/playerfile/gerald_henderson/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 5,
+        "player_abbr": "G. Henderson",
+        "steals": 1,
+        "offensive_rebounds": 1,
+        "position": "G",
+        "assists": 4,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-1",
+        "minutes_played": "39:52",
+        "field_goals": "7-15",
+        "plus_minus": 7,
+        "points": 15,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/kemba_walker/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 3,
+        "player_abbr": "K. Walker",
+        "steals": 2,
+        "offensive_rebounds": 1,
+        "position": "G",
+        "assists": 9,
+        "personal_fouls": 4,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "19:36",
+        "field_goals": "2-3",
+        "plus_minus": -13,
+        "points": 4,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/brendan_haywood/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 6,
+        "player_abbr": "B. Haywood",
+        "steals": 1,
+        "offensive_rebounds": 4,
+        "position": "\u00a0",
+        "assists": 2,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-2",
+        "minutes_played": "29:55",
+        "field_goals": "1-9",
+        "plus_minus": -8,
+        "points": 3,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/ramon_sessions/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "R. Sessions",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 5,
+        "personal_fouls": 0,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-2",
+        "minutes_played": "19:59",
+        "field_goals": "2-2",
+        "plus_minus": 2,
+        "points": 6,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jeff_taylor/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "J. Taylor",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 2,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-2",
+        "minutes_played": "18:25",
+        "field_goals": "6-13",
+        "plus_minus": -3,
+        "points": 14,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/ben_gordon/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "B. Gordon",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 3,
+        "personal_fouls": 1,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jeff_adrien/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "J. Adrien",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/desagana_diop/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "D. Diop",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/reggie_williams/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "R. Williams",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ],
+    "away": [
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "12:49",
+        "field_goals": "1-4",
+        "plus_minus": 10,
+        "points": 2,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/lance_thomas/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "L. Thomas",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "F",
+        "assists": 0,
+        "personal_fouls": 2,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 3,
+        "three_pointers": "0-1",
+        "minutes_played": "37:23",
+        "field_goals": "4-11",
+        "plus_minus": -4,
+        "points": 8,
+        "free_throws": "0-2",
+        "player_url": "/playerfile/anthony_davis/index.html",
+        "defensive_rebounds": 6,
+        "total_rebounds": 10,
+        "player_abbr": "A. Davis",
+        "steals": 0,
+        "offensive_rebounds": 4,
+        "position": "F-C",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 4,
+        "three_pointers": "0-0",
+        "minutes_played": "26:08",
+        "field_goals": "4-7",
+        "plus_minus": 13,
+        "points": 8,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/robin_lopez/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 7,
+        "player_abbr": "R. Lopez",
+        "steals": 0,
+        "offensive_rebounds": 4,
+        "position": "C",
+        "assists": 1,
+        "personal_fouls": 1,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-1",
+        "minutes_played": "12:46",
+        "field_goals": "0-2",
+        "plus_minus": -12,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/austin_rivers/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "A. Rivers",
+        "steals": 2,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 3,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-3",
+        "minutes_played": "42:02",
+        "field_goals": "7-13",
+        "plus_minus": 12,
+        "points": 16,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/greivis_vasquez/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 4,
+        "player_abbr": "G. Vasquez",
+        "steals": 4,
+        "offensive_rebounds": 1,
+        "position": "G",
+        "assists": 8,
+        "personal_fouls": 2,
+        "turnovers": 4
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "13:59",
+        "field_goals": "1-2",
+        "plus_minus": -5,
+        "points": 2,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/dominic_mcguire/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "D. McGuire",
+        "steals": 2,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-6",
+        "minutes_played": "24:52",
+        "field_goals": "5-13",
+        "plus_minus": 9,
+        "points": 24,
+        "free_throws": "12-14",
+        "player_url": "/playerfile/eric_gordon/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "E. Gordon",
+        "steals": 2,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 7,
+        "personal_fouls": 1,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "3-6",
+        "minutes_played": "27:41",
+        "field_goals": "6-14",
+        "plus_minus": -5,
+        "points": 19,
+        "free_throws": "4-6",
+        "player_url": "/playerfile/ryan_j_anderson/index.html",
+        "defensive_rebounds": 5,
+        "total_rebounds": 8,
+        "player_abbr": "R. Anderson",
+        "steals": 0,
+        "offensive_rebounds": 3,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 3,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "05:58",
+        "field_goals": "0-1",
+        "plus_minus": -9,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/brian_roberts/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "B. Roberts",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-1",
+        "minutes_played": "05:48",
+        "field_goals": "2-5",
+        "plus_minus": 5,
+        "points": 4,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jason_smith/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 2,
+        "player_abbr": "J. Smith",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 4,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-1",
+        "minutes_played": "09:14",
+        "field_goals": "1-5",
+        "plus_minus": -18,
+        "points": 2,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/xavier_henry/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "X. Henry",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "4-5",
+        "minutes_played": "21:20",
+        "field_goals": "4-5",
+        "plus_minus": 19,
+        "points": 13,
+        "free_throws": "1-1",
+        "player_url": "/playerfile/roger_mason-jr/index.html",
+        "defensive_rebounds": 6,
+        "total_rebounds": 6,
+        "player_abbr": "R. Mason Jr.",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 3,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/al-farouq_aminu/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "A. Aminu",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ]
+  },
+  "plays": [
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "(12:00) Jump Ball Biyombo vs Davis (Walker gains possession)"
+    },
+    {
+      "team": "home",
+      "clock": "11:43",
+      "score": null,
+      "desc": "Warrick Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:42",
+      "score": null,
+      "desc": "Vasquez Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "11:18",
+      "score": null,
+      "desc": "Lopez Turnaround Fadeaway shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:17",
+      "score": null,
+      "desc": "Warrick Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "11:04",
+      "score": "[CHA 2-0]",
+      "desc": "Kidd-Gilchrist Layup Shot: Made (2 PTS) Assist: Walker (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "10:54",
+      "score": null,
+      "desc": "Walker Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Thomas Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:36",
+      "score": null,
+      "desc": "Lopez Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "10:34",
+      "score": null,
+      "desc": "Lopez Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:33",
+      "score": null,
+      "desc": "Henderson Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "10:29",
+      "score": null,
+      "desc": "Henderson Layup Shot: Missed Block: Lopez (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "10:29",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "10:29",
+      "score": null,
+      "desc": "Biyombo Foul: Loose Ball (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "10:08",
+      "score": null,
+      "desc": "Vasquez Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:06",
+      "score": null,
+      "desc": "Lopez Rebound (Off:2 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "10:06",
+      "score": null,
+      "desc": "Lopez Layup Shot: Missed Block: Warrick (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "10:03",
+      "score": null,
+      "desc": "Warrick Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "09:59",
+      "score": "[CHA 4-0]",
+      "desc": "Walker Layup Shot: Made (2 PTS) Assist: Warrick (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:36",
+      "score": "[NOH 2-4]",
+      "desc": "Thomas Reverse Layup Shot: Made (2 PTS) Assist: Lopez (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:13",
+      "score": "[CHA 6-2]",
+      "desc": "Walker Jump Shot: Made (4 PTS) Assist: Henderson (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:50",
+      "score": null,
+      "desc": "Davis Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:49",
+      "score": null,
+      "desc": "Lopez Rebound (Off:3 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "08:49",
+      "score": "[NOH 4-6]",
+      "desc": "Lopez Tip Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:34",
+      "score": null,
+      "desc": "Thomas Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "08:26",
+      "score": null,
+      "desc": "Biyombo Turnover : Bad Pass (1 TO) Steal:Rivers (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:13",
+      "score": "[NOH 7-6]",
+      "desc": "Vasquez 3pt Shot: Made (3 PTS) Assist: Rivers (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:58",
+      "score": "[CHA 8-7]",
+      "desc": "Henderson Jump Shot: Made (2 PTS) Assist: Walker (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:47",
+      "score": "[NOH 9-8]",
+      "desc": "Davis Jump Hook Shot: Made (2 PTS) Assist: Vasquez (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:35",
+      "score": null,
+      "desc": "Thomas Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "07:35",
+      "score": "[CHA 9-9]",
+      "desc": "Henderson Free Throw 1 of 2 (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:35",
+      "score": null,
+      "desc": "Thomas Substitution replaced by McGuire"
+    },
+    {
+      "team": "home",
+      "clock": "07:35",
+      "score": null,
+      "desc": "Biyombo Substitution replaced by Haywood"
+    },
+    {
+      "team": "home",
+      "clock": "07:35",
+      "score": null,
+      "desc": "Kidd-Gilchrist Substitution replaced by Sessions"
+    },
+    {
+      "team": "home",
+      "clock": "07:35",
+      "score": "[CHA 10-9]",
+      "desc": "Henderson Free Throw 2 of 2 (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:19",
+      "score": "[NOH 11-10]",
+      "desc": "Davis Jump Shot: Made (4 PTS) Assist: Vasquez (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:55",
+      "score": null,
+      "desc": "Walker 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:54",
+      "score": null,
+      "desc": "Warrick Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "06:46",
+      "score": null,
+      "desc": "Warrick Turnover : Bad Pass (1 TO) Steal:McGuire (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:44",
+      "score": null,
+      "desc": "McGuire Turnover : Bad Pass (1 TO) Steal:Henderson (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:36",
+      "score": null,
+      "desc": "Walker Turnover : Bad Pass (1 TO) Steal:McGuire (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:29",
+      "score": null,
+      "desc": "Rivers Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:28",
+      "score": null,
+      "desc": "Walker Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "06:23",
+      "score": "[CHA 12-11]",
+      "desc": "Warrick Layup Shot: Made (2 PTS) Assist: Walker (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:16",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "06:16",
+      "score": null,
+      "desc": "Rivers Substitution replaced by Gordon"
+    },
+    {
+      "team": "home",
+      "clock": "06:15",
+      "score": null,
+      "desc": "Warrick Substitution replaced by Taylor"
+    },
+    {
+      "team": "home",
+      "clock": "06:15",
+      "score": null,
+      "desc": "Henderson Substitution replaced by Kidd-Gilchrist"
+    },
+    {
+      "team": "away",
+      "clock": "05:56",
+      "score": "[NOH 13-12]",
+      "desc": "McGuire Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:31",
+      "score": null,
+      "desc": "Kidd-Gilchrist Jump Shot: Missed Block: Davis (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "05:29",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "05:27",
+      "score": null,
+      "desc": "Team Turnover : Shot Clock Turnover"
+    },
+    {
+      "team": "home",
+      "clock": "05:13",
+      "score": null,
+      "desc": "Kidd-Gilchrist Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "05:13",
+      "score": null,
+      "desc": "Davis Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:13",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "05:13",
+      "score": null,
+      "desc": "Davis Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:12",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "04:51",
+      "score": null,
+      "desc": "Kidd-Gilchrist Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:50",
+      "score": null,
+      "desc": "Haywood Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "04:44",
+      "score": "[CHA 14-13]",
+      "desc": "Haywood Dunk Shot: Made (2 PTS) Assist: Sessions (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:29",
+      "score": null,
+      "desc": "Davis Hook Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:28",
+      "score": null,
+      "desc": "Haywood Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "04:21",
+      "score": "[CHA 16-13]",
+      "desc": "Kidd-Gilchrist Dunk Shot: Made (4 PTS) Assist: Walker (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:10",
+      "score": "[NOH 15-16]",
+      "desc": "Gordon Jump Bank Shot: Made (2 PTS) Assist: Vasquez (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:58",
+      "score": null,
+      "desc": "Haywood Hook Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:56",
+      "score": null,
+      "desc": "Haywood Rebound (Off:2 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "03:51",
+      "score": "[CHA 19-15]",
+      "desc": "Taylor 3pt Shot: Made (3 PTS) Assist: Haywood (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:41",
+      "score": null,
+      "desc": "Gordon Turnover : Bad Pass (1 TO) Steal:Sessions (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:34",
+      "score": null,
+      "desc": "Sessions Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:34",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "03:34",
+      "score": null,
+      "desc": "Vasquez Foul: Loose Ball (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "03:34",
+      "score": null,
+      "desc": "Lopez Substitution replaced by Anderson"
+    },
+    {
+      "team": "away",
+      "clock": "03:34",
+      "score": null,
+      "desc": "Vasquez Substitution replaced by Roberts"
+    },
+    {
+      "team": "home",
+      "clock": "03:13",
+      "score": "[CHA 21-15]",
+      "desc": "Kidd-Gilchrist Dunk Shot: Made (6 PTS) Assist: Haywood (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:00",
+      "score": null,
+      "desc": "Gordon Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:59",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "02:53",
+      "score": null,
+      "desc": "Sessions 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:51",
+      "score": null,
+      "desc": "Anderson Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Kidd-Gilchrist Foul: Personal (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Kidd-Gilchrist Substitution replaced by Warrick"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Walker Substitution replaced by Gordon"
+    },
+    {
+      "team": "away",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Davis Substitution replaced by Smith"
+    },
+    {
+      "team": "away",
+      "clock": "02:35",
+      "score": "[NOH 17-21]",
+      "desc": "Smith Jump Shot: Made (2 PTS) Assist: Anderson (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:10",
+      "score": null,
+      "desc": "Warrick Turnover : Lost Ball (2 TO) Steal:Gordon (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "02:01",
+      "score": "[NOH 19-21]",
+      "desc": "Smith Jump Shot: Made (4 PTS) Assist: Gordon (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:45",
+      "score": null,
+      "desc": "Gordon Turnover : Poss Lost Ball Turnover (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "01:33",
+      "score": null,
+      "desc": "Haywood Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "01:33",
+      "score": "[NOH 20-21]",
+      "desc": "Gordon Free Throw 1 of 2 (3 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:33",
+      "score": null,
+      "desc": "Haywood Substitution replaced by Biyombo"
+    },
+    {
+      "team": "away",
+      "clock": "01:33",
+      "score": null,
+      "desc": "Gordon Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:31",
+      "score": null,
+      "desc": "Warrick Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "01:26",
+      "score": null,
+      "desc": "Smith Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "01:17",
+      "score": null,
+      "desc": "Smith Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:17",
+      "score": null,
+      "desc": "Sessions Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:17",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "01:17",
+      "score": "[CHA 22-20]",
+      "desc": "Sessions Free Throw 2 of 2 (1 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:56.1",
+      "score": "[NOH 22-22]",
+      "desc": "Anderson Running Hook Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:43.3",
+      "score": null,
+      "desc": "Smith Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:43.3",
+      "score": null,
+      "desc": "Smith Substitution replaced by Davis"
+    },
+    {
+      "team": "home",
+      "clock": "00:43.3",
+      "score": null,
+      "desc": "Warrick Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:43.3",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "00:43.3",
+      "score": "[CHA 23-22]",
+      "desc": "Warrick Free Throw 2 of 2 (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:30.9",
+      "score": null,
+      "desc": "Roberts Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:27.9",
+      "score": null,
+      "desc": "Warrick Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "00:18.9",
+      "score": "[CHA 25-22]",
+      "desc": "Gordon Turnaround Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:03.3",
+      "score": null,
+      "desc": "Gordon Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:03.3",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.9",
+      "score": null,
+      "desc": "Anderson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 2nd QuarterBack to Top"
+    },
+    {
+      "team": "away",
+      "clock": "11:40",
+      "score": null,
+      "desc": "Rivers 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:39",
+      "score": null,
+      "desc": "Biyombo Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "11:34",
+      "score": "[CHA 27-22]",
+      "desc": "Warrick Alley Oop Dunk Shot: Made (5 PTS) Assist: Gordon (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "11:25",
+      "score": null,
+      "desc": "Roberts Turnover : Bad Pass (1 TO) Steal:Warrick (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:20",
+      "score": "[CHA 29-22]",
+      "desc": "Gordon Layup Shot: Made (4 PTS) Assist: Warrick (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "11:05",
+      "score": null,
+      "desc": "Roberts Turnover : Bad Pass (2 TO) Steal:Walker (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:00",
+      "score": "[CHA 31-22]",
+      "desc": "Walker Dunk Shot: Made (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Anderson 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:36",
+      "score": null,
+      "desc": "Warrick Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "10:14",
+      "score": "[CHA 33-22]",
+      "desc": "Henderson Jump Shot: Made (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:50",
+      "score": null,
+      "desc": "Henry 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:48",
+      "score": null,
+      "desc": "Davis Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "09:48",
+      "score": null,
+      "desc": "Davis Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:46",
+      "score": null,
+      "desc": "Henderson Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "09:40",
+      "score": "[CHA 35-22]",
+      "desc": "Gordon Layup Shot: Made (6 PTS) Assist: Henderson (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:36",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "09:36",
+      "score": null,
+      "desc": "Roberts Substitution replaced by Vasquez"
+    },
+    {
+      "team": "away",
+      "clock": "09:22",
+      "score": "[NOH 24-35]",
+      "desc": "Henry Driving Dunk Shot: Made (2 PTS) Assist: Rivers (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:05",
+      "score": null,
+      "desc": "Warrick Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:04",
+      "score": null,
+      "desc": "Anderson Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "09:02",
+      "score": null,
+      "desc": "Warrick Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "08:55",
+      "score": null,
+      "desc": "Vasquez Floating Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:54",
+      "score": null,
+      "desc": "Davis Rebound (Off:2 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "08:54",
+      "score": null,
+      "desc": "Davis Tip Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:52",
+      "score": null,
+      "desc": "Biyombo Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "08:47",
+      "score": null,
+      "desc": "Gordon Jump Shot: Missed Block: Rivers (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "08:46",
+      "score": null,
+      "desc": "Biyombo Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "08:46",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "home",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Henderson 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Anderson Foul: Loose Ball (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Warrick Substitution replaced by Kidd-Gilchrist"
+    },
+    {
+      "team": "away",
+      "clock": "08:28",
+      "score": null,
+      "desc": "Rivers Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "08:28",
+      "score": null,
+      "desc": "Gordon Substitution replaced by Sessions"
+    },
+    {
+      "team": "home",
+      "clock": "08:22",
+      "score": null,
+      "desc": "Henderson Turnover : Bad Pass (1 TO) Steal:Rivers (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:16",
+      "score": null,
+      "desc": "Henry Jump Shot: Missed Block: Henderson (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "08:13",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "08:10",
+      "score": "[CHA 37-24]",
+      "desc": "Kidd-Gilchrist Driving Layup Shot: Made (8 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "07:58",
+      "score": null,
+      "desc": "Biyombo Foul: Defense 3 Second (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "07:58",
+      "score": "[NOH 25-37]",
+      "desc": "Anderson Free Throw Technical (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:44",
+      "score": null,
+      "desc": "Henry Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:43",
+      "score": null,
+      "desc": "Anderson Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "07:43",
+      "score": null,
+      "desc": "Anderson Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:41",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "07:30",
+      "score": "[NOH 27-37]",
+      "desc": "Anderson Jump Shot: Made (5 PTS) Assist: Henry (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:20",
+      "score": null,
+      "desc": "Henry Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "07:08",
+      "score": "[CHA 39-27]",
+      "desc": "Kidd-Gilchrist Driving Layup Shot: Made (10 PTS) Assist: Henderson (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:57",
+      "score": null,
+      "desc": "Henry Driving Layup Shot: Missed Block: Kidd-Gilchrist (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "06:56",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "06:44",
+      "score": null,
+      "desc": "Walker Turnover : Bad Pass (2 TO) Steal:Vasquez (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:29",
+      "score": "[NOH 29-39]",
+      "desc": "Anderson Jump Shot: Made (7 PTS) Assist: Rivers (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:05",
+      "score": "[CHA 41-29]",
+      "desc": "Kidd-Gilchrist Driving Layup Shot: Made (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:43",
+      "score": "[NOH 31-41]",
+      "desc": "Vasquez Driving Layup Shot: Made (5 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:37",
+      "score": "[CHA 43-31]",
+      "desc": "Walker Driving Layup Shot: Made (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:13",
+      "score": null,
+      "desc": "Anderson Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:12",
+      "score": null,
+      "desc": "Biyombo Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "05:06",
+      "score": null,
+      "desc": "Sessions Driving Finger Roll Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:04",
+      "score": null,
+      "desc": "Walker Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "05:04",
+      "score": "[CHA 45-31]",
+      "desc": "Walker Tip Shot: Made (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:58",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "home",
+      "clock": "04:58",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "home",
+      "clock": "04:58",
+      "score": null,
+      "desc": "Biyombo Substitution replaced by Haywood"
+    },
+    {
+      "team": "home",
+      "clock": "04:58",
+      "score": null,
+      "desc": "Henderson Substitution replaced by Taylor"
+    },
+    {
+      "team": "away",
+      "clock": "04:58",
+      "score": null,
+      "desc": "Rivers Substitution replaced by Lopez"
+    },
+    {
+      "team": "away",
+      "clock": "04:58",
+      "score": null,
+      "desc": "Anderson Substitution replaced by Gordon"
+    },
+    {
+      "team": "away",
+      "clock": "04:42",
+      "score": null,
+      "desc": "Gordon 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:42",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "04:29",
+      "score": "[CHA 47-31]",
+      "desc": "Kidd-Gilchrist Driving Layup Shot: Made (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:18",
+      "score": null,
+      "desc": "Davis Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "04:18",
+      "score": null,
+      "desc": "Davis Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "03:58",
+      "score": "[CHA 50-31]",
+      "desc": "Taylor 3pt Shot: Made (6 PTS) Assist: Sessions (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:37",
+      "score": "[NOH 33-50]",
+      "desc": "Gordon Driving Layup Shot: Made (5 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:26",
+      "score": "[CHA 52-33]",
+      "desc": "Kidd-Gilchrist Jump Shot: Made (16 PTS) Assist: Walker (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:06",
+      "score": null,
+      "desc": "Vasquez Turnover : Lost Ball (1 TO) Steal:Walker (2 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:00",
+      "score": null,
+      "desc": "Walker Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:57",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:2 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "02:57",
+      "score": "[CHA 54-33]",
+      "desc": "Kidd-Gilchrist Layup Shot: Made (18 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Taylor Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Henry Substitution replaced by Thomas"
+    },
+    {
+      "team": "away",
+      "clock": "02:33",
+      "score": null,
+      "desc": "Thomas Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:31",
+      "score": null,
+      "desc": "Davis Rebound (Off:3 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "02:31",
+      "score": "[NOH 35-54]",
+      "desc": "Davis Dunk Shot: Made (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "02:00",
+      "score": null,
+      "desc": "Sessions Turnover : Poss Lost Ball Turnover (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "01:57",
+      "score": null,
+      "desc": "Davis Turnover : Step Out of Bounds Turnover (2 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "01:52",
+      "score": null,
+      "desc": "Kidd-Gilchrist Turnover : Lost Ball (1 TO) Steal:Vasquez (2 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:52",
+      "score": null,
+      "desc": "Jump Ball Kidd-Gilchrist vs Vasquez (Vasquez gains possession)"
+    },
+    {
+      "team": "home",
+      "clock": "01:43",
+      "score": null,
+      "desc": "Kidd-Gilchrist Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:43",
+      "score": null,
+      "desc": "Kidd-Gilchrist Substitution replaced by Warrick"
+    },
+    {
+      "team": "away",
+      "clock": "01:43",
+      "score": "[NOH 36-54]",
+      "desc": "Gordon Free Throw 1 of 2 (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:43",
+      "score": null,
+      "desc": "Davis Substitution replaced by Anderson"
+    },
+    {
+      "team": "away",
+      "clock": "01:43",
+      "score": "[NOH 37-54]",
+      "desc": "Gordon Free Throw 2 of 2 (7 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:28",
+      "score": "[CHA 56-37]",
+      "desc": "Walker Jump Shot: Made (12 PTS) Assist: Taylor (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:04",
+      "score": null,
+      "desc": "Gordon 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:03",
+      "score": null,
+      "desc": "Sessions Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "01:00",
+      "score": null,
+      "desc": "Vasquez Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:00",
+      "score": "[CHA 57-37]",
+      "desc": "Warrick Free Throw 1 of 2 (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:00",
+      "score": null,
+      "desc": "Thomas Substitution replaced by Davis"
+    },
+    {
+      "team": "home",
+      "clock": "01:00",
+      "score": null,
+      "desc": "Warrick Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:58.9",
+      "score": null,
+      "desc": "Anderson Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "00:45.7",
+      "score": "[NOH 40-57]",
+      "desc": "Anderson 3pt Shot: Made (10 PTS) Assist: Vasquez (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:29.9",
+      "score": null,
+      "desc": "Sessions Layup Shot: Missed Block: Lopez (2 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "00:27.9",
+      "score": null,
+      "desc": "Davis Rebound (Off:3 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "00:21.9",
+      "score": null,
+      "desc": "Gordon 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:17.9",
+      "score": null,
+      "desc": "Warrick Rebound (Off:1 Def:6)"
+    },
+    {
+      "team": "home",
+      "clock": "00:01.8",
+      "score": null,
+      "desc": "Warrick Layup Shot: Missed Block: Davis (2 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "00:01.0",
+      "score": null,
+      "desc": "Davis Rebound (Off:3 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.3",
+      "score": null,
+      "desc": "Davis 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 2nd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 3rd QuarterBack to Top"
+    },
+    {
+      "team": "away",
+      "clock": "11:40",
+      "score": null,
+      "desc": "Vasquez Turnover : Traveling (2 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "11:17",
+      "score": null,
+      "desc": "Biyombo Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:15",
+      "score": null,
+      "desc": "Vasquez Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "10:58",
+      "score": null,
+      "desc": "Vasquez Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:56",
+      "score": null,
+      "desc": "Davis Rebound (Off:4 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "10:56",
+      "score": null,
+      "desc": "Davis Layup Shot: Missed Block: Biyombo (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "10:53",
+      "score": null,
+      "desc": "Warrick Rebound (Off:1 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "10:43",
+      "score": null,
+      "desc": "Henderson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:42",
+      "score": null,
+      "desc": "Lopez Rebound (Off:3 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "10:22",
+      "score": "[NOH 43-57]",
+      "desc": "Mason Jr. 3pt Shot: Made (3 PTS) Assist: Vasquez (5 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:59",
+      "score": "[CHA 59-43]",
+      "desc": "Walker Driving Layup Shot: Made (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:47",
+      "score": null,
+      "desc": "Vasquez Floating Jump shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:44",
+      "score": null,
+      "desc": "Biyombo Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "09:22",
+      "score": null,
+      "desc": "Walker Floating Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:21",
+      "score": null,
+      "desc": "Davis Rebound (Off:4 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "09:04",
+      "score": null,
+      "desc": "Thomas Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:01",
+      "score": null,
+      "desc": "Lopez Rebound (Off:4 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "09:01",
+      "score": "[NOH 45-59]",
+      "desc": "Lopez Layup Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Walker Layup Shot: Missed Block: Thomas (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "08:26",
+      "score": null,
+      "desc": "Lopez Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "08:26",
+      "score": null,
+      "desc": "Lopez Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "08:26",
+      "score": null,
+      "desc": "Taylor Substitution replaced by Sessions"
+    },
+    {
+      "team": "home",
+      "clock": "08:06",
+      "score": null,
+      "desc": "Biyombo Layup Shot: Missed Block: Lopez (3 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "08:04",
+      "score": null,
+      "desc": "Mason Jr. Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "07:50",
+      "score": "[NOH 48-59]",
+      "desc": "Mason Jr. 3pt Shot: Made (6 PTS) Assist: Vasquez (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:45",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "07:45",
+      "score": null,
+      "desc": "Biyombo Substitution replaced by Haywood"
+    },
+    {
+      "team": "home",
+      "clock": "07:24",
+      "score": null,
+      "desc": "Haywood Turnover : Traveling (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "07:09",
+      "score": "[NOH 50-59]",
+      "desc": "Lopez Jump Shot: Made (6 PTS) Assist: Mason Jr. (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:03",
+      "score": null,
+      "desc": "Warrick Turnover : Bad Pass (3 TO) Steal:Vasquez (3 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:50",
+      "score": "[NOH 52-59]",
+      "desc": "Vasquez Jump Shot: Made (7 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:29",
+      "score": null,
+      "desc": "Sessions Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:27",
+      "score": null,
+      "desc": "Mason Jr. Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "06:18",
+      "score": null,
+      "desc": "Vasquez Turnover : Bad Pass (3 TO) Steal:Haywood (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:13",
+      "score": "[CHA 61-52]",
+      "desc": "Sessions Dunk Shot: Made (3 PTS) Assist: Henderson (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:57",
+      "score": "[NOH 54-61]",
+      "desc": "Vasquez Running Jump Shot: Made (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:37",
+      "score": null,
+      "desc": "Sessions Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:36",
+      "score": null,
+      "desc": "Lopez Rebound (Off:4 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "05:22",
+      "score": null,
+      "desc": "Mason Jr. Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "05:22",
+      "score": null,
+      "desc": "Warrick Substitution replaced by Kidd-Gilchrist"
+    },
+    {
+      "team": "home",
+      "clock": "05:22",
+      "score": null,
+      "desc": "Walker Substitution replaced by Gordon"
+    },
+    {
+      "team": "away",
+      "clock": "05:22",
+      "score": null,
+      "desc": "Thomas Substitution replaced by Gordon"
+    },
+    {
+      "team": "home",
+      "clock": "05:12",
+      "score": "[CHA 63-54]",
+      "desc": "Gordon Driving Layup Shot: Made (8 PTS) Assist: Sessions (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:03",
+      "score": "[NOH 57-63]",
+      "desc": "Gordon 3pt Shot: Made (10 PTS) Assist: Vasquez (7 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:45",
+      "score": null,
+      "desc": "Gordon Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:44",
+      "score": null,
+      "desc": "Mason Jr. Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "04:34",
+      "score": null,
+      "desc": "Haywood Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "04:34",
+      "score": "[NOH 58-63]",
+      "desc": "Gordon Free Throw 1 of 2 (11 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:34",
+      "score": "[NOH 59-63]",
+      "desc": "Gordon Free Throw 2 of 2 (12 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:24",
+      "score": null,
+      "desc": "Kidd-Gilchrist Driving Jump shot: Missed Block: Lopez (4 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "04:22",
+      "score": null,
+      "desc": "Davis Rebound (Off:4 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "04:13",
+      "score": null,
+      "desc": "Vasquez Running Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:11",
+      "score": null,
+      "desc": "Vasquez Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "03:57",
+      "score": "[NOH 62-63]",
+      "desc": "Mason Jr. 3pt Shot: Made (9 PTS) Assist: Gordon (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:35",
+      "score": null,
+      "desc": "Henderson Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:33",
+      "score": null,
+      "desc": "Haywood Rebound (Off:3 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "03:33",
+      "score": "[CHA 65-62]",
+      "desc": "Haywood Putback Dunk Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:22",
+      "score": null,
+      "desc": "Gordon Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "03:22",
+      "score": null,
+      "desc": "Dunlap Technical"
+    },
+    {
+      "team": "away",
+      "clock": "03:22",
+      "score": "[NOH 63-65]",
+      "desc": "Mason Jr. Free Throw Technical (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:22",
+      "score": null,
+      "desc": "Lopez Substitution replaced by Anderson"
+    },
+    {
+      "team": "home",
+      "clock": "03:22",
+      "score": null,
+      "desc": "Haywood Substitution replaced by Biyombo"
+    },
+    {
+      "team": "away",
+      "clock": "03:09",
+      "score": "[NOH 65-65]",
+      "desc": "Davis Dunk Shot: Made (8 PTS) Assist: Mason Jr. (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:01",
+      "score": null,
+      "desc": "Gordon Driving Reverse Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:00",
+      "score": null,
+      "desc": "Biyombo Rebound (Off:2 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "02:48",
+      "score": "[CHA 68-65]",
+      "desc": "Henderson 3pt Shot: Made (9 PTS) Assist: Sessions (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:29",
+      "score": null,
+      "desc": "Henderson Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "02:29",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "02:29",
+      "score": null,
+      "desc": "Mason Jr. Substitution replaced by McGuire"
+    },
+    {
+      "team": "away",
+      "clock": "02:29",
+      "score": "[NOH 66-68]",
+      "desc": "Gordon Free Throw 1 of 2 (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:29",
+      "score": "[NOH 67-68]",
+      "desc": "Gordon Free Throw 2 of 2 (14 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "02:14",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "home",
+      "clock": "02:05",
+      "score": "[CHA 70-67]",
+      "desc": "Henderson Driving Layup Shot: Made (11 PTS) Assist: Kidd-Gilchrist (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:49",
+      "score": "[NOH 69-70]",
+      "desc": "Vasquez Floating Jump shot: Made (11 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:35",
+      "score": "[CHA 72-69]",
+      "desc": "Kidd-Gilchrist Layup Shot: Made (20 PTS) Assist: Gordon (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:23",
+      "score": null,
+      "desc": "Gordon Layup Shot: Missed Block: Kidd-Gilchrist (2 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "01:21",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:2 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "01:17",
+      "score": null,
+      "desc": "McGuire Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:17",
+      "score": "[CHA 73-69]",
+      "desc": "Henderson Free Throw 1 of 2 (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:17",
+      "score": null,
+      "desc": "Davis Substitution replaced by Smith"
+    },
+    {
+      "team": "home",
+      "clock": "01:17",
+      "score": null,
+      "desc": "Henderson Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:16",
+      "score": null,
+      "desc": "Anderson Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "00:59.9",
+      "score": null,
+      "desc": "McGuire Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:57.7",
+      "score": null,
+      "desc": "Anderson Rebound (Off:2 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "00:57.7",
+      "score": null,
+      "desc": "Kidd-Gilchrist Foul: Shooting (4 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:57.7",
+      "score": "[NOH 70-73]",
+      "desc": "Anderson Free Throw 1 of 2 (11 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:57.7",
+      "score": null,
+      "desc": "Kidd-Gilchrist Substitution replaced by Warrick"
+    },
+    {
+      "team": "away",
+      "clock": "00:57.7",
+      "score": null,
+      "desc": "Anderson Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:56.7",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "00:45.0",
+      "score": "[NOH 73-73]",
+      "desc": "Vasquez 3pt Shot: Made (14 PTS) Assist: Gordon (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:31.4",
+      "score": null,
+      "desc": "Gordon Turnover : Step Out of Bounds Turnover (2 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "00:11.9",
+      "score": null,
+      "desc": "Gordon 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:09.9",
+      "score": null,
+      "desc": "Smith Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "00:09.9",
+      "score": null,
+      "desc": "Smith Layup Shot: Missed Block: Biyombo (2 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "00:07.6",
+      "score": null,
+      "desc": "Henderson Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "00:02.9",
+      "score": null,
+      "desc": "Gordon 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.9",
+      "score": null,
+      "desc": "Smith Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.3",
+      "score": null,
+      "desc": "Smith 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 3rd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 4th QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:35",
+      "score": "[CHA 75-73]",
+      "desc": "Gordon Step Back Jump shot: Made (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "11:17",
+      "score": null,
+      "desc": "Anderson 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:16",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "10:56",
+      "score": null,
+      "desc": "Warrick Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:55",
+      "score": null,
+      "desc": "Anderson Rebound (Off:2 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "10:40",
+      "score": null,
+      "desc": "Smith Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:39",
+      "score": null,
+      "desc": "Biyombo Rebound (Off:2 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "10:34",
+      "score": null,
+      "desc": "Walker Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:32",
+      "score": null,
+      "desc": "Mason Jr. Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "10:16",
+      "score": null,
+      "desc": "Vasquez Turnover : Bad Pass (4 TO) Steal:Taylor (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "10:11",
+      "score": null,
+      "desc": "Gordon Dunk Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:08",
+      "score": null,
+      "desc": "Mason Jr. Rebound (Off:0 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "10:07",
+      "score": null,
+      "desc": "Smith Foul: Offensive (4 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "10:07",
+      "score": null,
+      "desc": "Smith Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "09:51",
+      "score": "[CHA 77-73]",
+      "desc": "Gordon Driving Layup Shot: Made (12 PTS) Assist: Walker (6 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:32",
+      "score": null,
+      "desc": "Smith Substitution replaced by Lopez"
+    },
+    {
+      "team": "away",
+      "clock": "09:23",
+      "score": null,
+      "desc": "Anderson Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:22",
+      "score": null,
+      "desc": "Warrick Rebound (Off:1 Def:8)"
+    },
+    {
+      "team": "away",
+      "clock": "09:15",
+      "score": null,
+      "desc": "Anderson Foul: Personal (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "09:06",
+      "score": null,
+      "desc": "McGuire Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "09:06",
+      "score": "[CHA 78-73]",
+      "desc": "Gordon Free Throw 1 of 2 (13 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:06",
+      "score": "[CHA 79-73]",
+      "desc": "Gordon Free Throw 2 of 2 (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:50",
+      "score": null,
+      "desc": "Vasquez 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:49",
+      "score": null,
+      "desc": "Taylor Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "08:34",
+      "score": null,
+      "desc": "Gordon Step Back Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:33",
+      "score": null,
+      "desc": "McGuire Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "08:16",
+      "score": null,
+      "desc": "Taylor Foul: Shooting (2 PF) (3 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "08:16",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "away",
+      "clock": "08:16",
+      "score": null,
+      "desc": "McGuire Substitution replaced by Gordon"
+    },
+    {
+      "team": "away",
+      "clock": "08:16",
+      "score": "[NOH 74-79]",
+      "desc": "Anderson Free Throw 1 of 3 (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:16",
+      "score": null,
+      "desc": "Anderson Free Throw 2 of 3 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:16",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "08:16",
+      "score": "[NOH 75-79]",
+      "desc": "Anderson Free Throw 3 of 3 (13 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "07:55",
+      "score": null,
+      "desc": "Biyombo Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:54",
+      "score": null,
+      "desc": "Lopez Rebound (Off:4 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "07:46",
+      "score": null,
+      "desc": "Anderson Layup Shot: Missed Block: Warrick (2 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "07:46",
+      "score": null,
+      "desc": "Anderson Rebound (Off:3 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "07:46",
+      "score": null,
+      "desc": "Biyombo Substitution replaced by Haywood"
+    },
+    {
+      "team": "away",
+      "clock": "07:35",
+      "score": "[NOH 77-79]",
+      "desc": "Gordon Driving Layup Shot: Made (16 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "07:12",
+      "score": null,
+      "desc": "Walker Driving Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:11",
+      "score": null,
+      "desc": "Vasquez Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "06:55",
+      "score": "[NOH 79-79]",
+      "desc": "Lopez Layup Shot: Made (8 PTS) Assist: Gordon (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:48",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "06:48",
+      "score": null,
+      "desc": "Taylor Substitution replaced by Kidd-Gilchrist"
+    },
+    {
+      "team": "home",
+      "clock": "06:24",
+      "score": "[CHA 81-79]",
+      "desc": "Warrick Layup Shot: Made (8 PTS) Assist: Gordon (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:05",
+      "score": null,
+      "desc": "Mason Jr. 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:03",
+      "score": null,
+      "desc": "Haywood Rebound (Off:3 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "05:58",
+      "score": null,
+      "desc": "Gordon Turnover : Bad Pass (3 TO) Steal:Gordon (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:47",
+      "score": "[NOH 82-81]",
+      "desc": "Anderson 3pt Shot: Made (16 PTS) Assist: Gordon (5 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:26",
+      "score": null,
+      "desc": "Walker Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:26",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "05:26",
+      "score": null,
+      "desc": "Lopez Substitution replaced by Davis"
+    },
+    {
+      "team": "home",
+      "clock": "05:26",
+      "score": null,
+      "desc": "Warrick Substitution replaced by Henderson"
+    },
+    {
+      "team": "home",
+      "clock": "05:26",
+      "score": null,
+      "desc": "Gordon Substitution replaced by Sessions"
+    },
+    {
+      "team": "away",
+      "clock": "05:10",
+      "score": null,
+      "desc": "Anderson 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:09",
+      "score": null,
+      "desc": "Henderson Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "04:56",
+      "score": null,
+      "desc": "Sessions Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:55",
+      "score": null,
+      "desc": "Davis Rebound (Off:4 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "04:41",
+      "score": "[NOH 85-81]",
+      "desc": "Gordon 3pt Shot: Made (19 PTS) Assist: Vasquez (8 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:23",
+      "score": null,
+      "desc": "Mason Jr. Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "04:23",
+      "score": null,
+      "desc": "Kidd-Gilchrist Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:23",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "04:23",
+      "score": null,
+      "desc": "Kidd-Gilchrist Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:21",
+      "score": null,
+      "desc": "Haywood Rebound (Off:4 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "04:09",
+      "score": null,
+      "desc": "Anderson Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "04:09",
+      "score": "[CHA 82-85]",
+      "desc": "Walker Free Throw 1 of 2 (15 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:09",
+      "score": null,
+      "desc": "Walker Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:07",
+      "score": null,
+      "desc": "Mason Jr. Rebound (Off:0 Def:6)"
+    },
+    {
+      "team": "home",
+      "clock": "03:48",
+      "score": null,
+      "desc": "Walker Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "03:48",
+      "score": "[NOH 86-82]",
+      "desc": "Gordon Free Throw 1 of 2 (20 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:48",
+      "score": "[NOH 87-82]",
+      "desc": "Gordon Free Throw 2 of 2 (21 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:33",
+      "score": null,
+      "desc": "Mason Jr. Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "03:33",
+      "score": "[CHA 83-87]",
+      "desc": "Henderson Free Throw 1 of 2 (13 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:33",
+      "score": null,
+      "desc": "Haywood Substitution replaced by Biyombo"
+    },
+    {
+      "team": "home",
+      "clock": "03:33",
+      "score": "[CHA 84-87]",
+      "desc": "Henderson Free Throw 2 of 2 (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:17",
+      "score": null,
+      "desc": "Gordon Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:15",
+      "score": null,
+      "desc": "Kidd-Gilchrist Rebound (Off:2 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "02:54",
+      "score": "[CHA 86-87]",
+      "desc": "Henderson Jump Shot: Made (16 PTS) Assist: Walker (7 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "02:27",
+      "score": "[NOH 89-86]",
+      "desc": "Vasquez Driving Jump shot: Made (16 PTS) Assist: Mason Jr. (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:02",
+      "score": null,
+      "desc": "Biyombo Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:02",
+      "score": null,
+      "desc": "Davis Rebound (Off:4 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "02:02",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "02:02",
+      "score": null,
+      "desc": "Biyombo Substitution replaced by Warrick"
+    },
+    {
+      "team": "away",
+      "clock": "01:48",
+      "score": null,
+      "desc": "Davis Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:47",
+      "score": null,
+      "desc": "Walker Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "01:43",
+      "score": null,
+      "desc": "Kidd-Gilchrist Turnover : Traveling (2 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "01:31",
+      "score": "[NOH 92-86]",
+      "desc": "Anderson 3pt Shot: Made (19 PTS) Assist: Gordon (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:15",
+      "score": null,
+      "desc": "Warrick Jump Shot: Missed Block: Davis (3 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "01:15",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "01:15",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "01:08",
+      "score": null,
+      "desc": "Kidd-Gilchrist Turnover : Lost Ball (3 TO) Steal:Vasquez (4 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:47.4",
+      "score": "[NOH 95-86]",
+      "desc": "Mason Jr. 3pt Shot: Made (13 PTS) Assist: Gordon (7 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:42.4",
+      "score": "[CHA 89-95]",
+      "desc": "Henderson 3pt Shot: Made (19 PTS) Assist: Walker (8 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:33.9",
+      "score": null,
+      "desc": "Gordon Turnover : Lost Ball (2 TO) Steal:Kidd-Gilchrist (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:29.8",
+      "score": "[CHA 91-95]",
+      "desc": "Kidd-Gilchrist Layup Shot: Made (22 PTS) Assist: Walker (9 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:29.8",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "00:28.8",
+      "score": null,
+      "desc": "Henderson Foul: Personal Take (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "00:27.8",
+      "score": null,
+      "desc": "Walker Foul: Personal Take (3 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:27.8",
+      "score": null,
+      "desc": "Gordon Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:27.8",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "00:27.8",
+      "score": "[NOH 96-91]",
+      "desc": "Gordon Free Throw 2 of 2 (22 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:17.9",
+      "score": null,
+      "desc": "Walker Driving Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:16.6",
+      "score": null,
+      "desc": "Warrick Rebound (Off:2 Def:8)"
+    },
+    {
+      "team": "away",
+      "clock": "00:16.6",
+      "score": null,
+      "desc": "Gordon Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:16.6",
+      "score": "[CHA 92-96]",
+      "desc": "Warrick Free Throw 1 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:16.6",
+      "score": "[CHA 93-96]",
+      "desc": "Warrick Free Throw 2 of 2 (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:16.6",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "home",
+      "clock": "00:15.8",
+      "score": null,
+      "desc": "Walker Foul: Personal Take (4 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:15.8",
+      "score": "[NOH 97-93]",
+      "desc": "Gordon Free Throw 1 of 2 (23 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:15.8",
+      "score": "[NOH 98-93]",
+      "desc": "Gordon Free Throw 2 of 2 (24 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:15.8",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "home",
+      "clock": "00:12.9",
+      "score": "[CHA 95-98]",
+      "desc": "Warrick Driving Layup Shot: Made (12 PTS) Assist: Sessions (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:11.0",
+      "score": null,
+      "desc": "Davis Turnover : Bad Pass (3 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "00:11.0",
+      "score": null,
+      "desc": "Kidd-Gilchrist Substitution replaced by Gordon"
+    },
+    {
+      "team": "away",
+      "clock": "00:11.0",
+      "score": null,
+      "desc": "Mason Jr. Substitution replaced by McGuire"
+    },
+    {
+      "team": "home",
+      "clock": "00:05.1",
+      "score": null,
+      "desc": "Gordon 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:02.9",
+      "score": null,
+      "desc": "Henderson Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "00:01.0",
+      "score": null,
+      "desc": "Sessions 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 4th Quarter"
+    }
+  ],
+  "away_abbr": "NOH",
+  "city": "Charlotte, NC",
+  "datetime": "2012-12-29T19:00:00",
+  "home_abbr": "CHA"
+}

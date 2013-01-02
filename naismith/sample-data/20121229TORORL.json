@@ -1,0 +1,2957 @@
+{
+  "arena": "Amway Center",
+  "box_score": {
+    "home": [
+      {
+        "blocked_shots": 3,
+        "three_pointers": "0-0",
+        "minutes_played": "22:12",
+        "field_goals": "0-3",
+        "plus_minus": -4,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/maurice_harkless/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 2,
+        "player_abbr": "M. Harkless",
+        "steals": 1,
+        "offensive_rebounds": 2,
+        "position": "F",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "26:26",
+        "field_goals": "10-14",
+        "plus_minus": -10,
+        "points": 22,
+        "free_throws": "2-4",
+        "player_url": "/playerfile/andrew_nicholson/index.html",
+        "defensive_rebounds": 7,
+        "total_rebounds": 8,
+        "player_abbr": "A. Nicholson",
+        "steals": 1,
+        "offensive_rebounds": 1,
+        "position": "F",
+        "assists": 0,
+        "personal_fouls": 3,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "28:25",
+        "field_goals": "4-7",
+        "plus_minus": -4,
+        "points": 8,
+        "free_throws": "0-2",
+        "player_url": "/playerfile/nikola_vucevic/index.html",
+        "defensive_rebounds": 5,
+        "total_rebounds": 9,
+        "player_abbr": "N. Vucevic",
+        "steals": 1,
+        "offensive_rebounds": 4,
+        "position": "C",
+        "assists": 1,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-6",
+        "minutes_played": "37:41",
+        "field_goals": "5-15",
+        "plus_minus": -24,
+        "points": 14,
+        "free_throws": "3-4",
+        "player_url": "/playerfile/arron_afflalo/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 2,
+        "player_abbr": "A. Afflalo",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "G-F",
+        "assists": 6,
+        "personal_fouls": 3,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 2,
+        "three_pointers": "1-2",
+        "minutes_played": "33:23",
+        "field_goals": "6-12",
+        "plus_minus": -20,
+        "points": 13,
+        "free_throws": "0-2",
+        "player_url": "/playerfile/ish_smith/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 4,
+        "player_abbr": "I. Smith",
+        "steals": 2,
+        "offensive_rebounds": 3,
+        "position": "G",
+        "assists": 6,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-2",
+        "minutes_played": "23:11",
+        "field_goals": "3-8",
+        "plus_minus": -37,
+        "points": 8,
+        "free_throws": "2-4",
+        "player_url": "/playerfile/hidayet_turkoglu/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 5,
+        "player_abbr": "H. Turkoglu",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 3,
+        "personal_fouls": 0,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-6",
+        "minutes_played": "26:32",
+        "field_goals": "2-12",
+        "plus_minus": -30,
+        "points": 9,
+        "free_throws": "3-4",
+        "player_url": "/playerfile/jj_redick/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "J. Redick",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "1-1",
+        "minutes_played": "13:03",
+        "field_goals": "3-4",
+        "plus_minus": -21,
+        "points": 7,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/josh_mcroberts/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "J. McRoberts",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "04:08",
+        "field_goals": "0-1",
+        "plus_minus": -5,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/gustavo_ayon/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "G. Ayon",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-1",
+        "minutes_played": "16:40",
+        "field_goals": "2-4",
+        "plus_minus": -9,
+        "points": 5,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/dequan_jones/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 3,
+        "player_abbr": "D. Jones",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "08:19",
+        "field_goals": "1-2",
+        "plus_minus": -11,
+        "points": 2,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/kyle_oquinn/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "K. O'Quinn",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/etwaun_moore/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "E. Moore",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jameer_nelson/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "J. Nelson",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ],
+    "away": [
+      {
+        "blocked_shots": 0,
+        "three_pointers": "3-5",
+        "minutes_played": "21:36",
+        "field_goals": "3-6",
+        "plus_minus": 16,
+        "points": 9,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/mickael_pietrus/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 2,
+        "player_abbr": "M. Pietrus",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "G-F",
+        "assists": 3,
+        "personal_fouls": 2,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "33:38",
+        "field_goals": "7-11",
+        "plus_minus": 18,
+        "points": 18,
+        "free_throws": "4-6",
+        "player_url": "/playerfile/ed_davis/index.html",
+        "defensive_rebounds": 7,
+        "total_rebounds": 7,
+        "player_abbr": "E. Davis",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "F",
+        "assists": 2,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "11:57",
+        "field_goals": "0-2",
+        "plus_minus": 2,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/aaron_gray/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 5,
+        "player_abbr": "A. Gray",
+        "steals": 1,
+        "offensive_rebounds": 1,
+        "position": "C",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "32:38",
+        "field_goals": "7-14",
+        "plus_minus": 21,
+        "points": 21,
+        "free_throws": "7-8",
+        "player_url": "/playerfile/demar_derozan/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 3,
+        "player_abbr": "D. DeRozan",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 3,
+        "personal_fouls": 2,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-5",
+        "minutes_played": "24:20",
+        "field_goals": "6-10",
+        "plus_minus": 9,
+        "points": 15,
+        "free_throws": "1-1",
+        "player_url": "/playerfile/jose_calderon/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 3,
+        "player_abbr": "J. Calderon",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 10,
+        "personal_fouls": 0,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "23:16",
+        "field_goals": "2-4",
+        "plus_minus": 17,
+        "points": 6,
+        "free_throws": "2-4",
+        "player_url": "/playerfile/amir_johnson/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 6,
+        "player_abbr": "A. Johnson",
+        "steals": 0,
+        "offensive_rebounds": 2,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 3,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-5",
+        "minutes_played": "22:46",
+        "field_goals": "6-12",
+        "plus_minus": 21,
+        "points": 16,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/kyle_lowry/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 4,
+        "player_abbr": "K. Lowry",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 6,
+        "personal_fouls": 3,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "4-5",
+        "minutes_played": "22:15",
+        "field_goals": "6-10",
+        "plus_minus": 20,
+        "points": 16,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/terrence_ross/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 3,
+        "player_abbr": "T. Ross",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 2,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "3-6",
+        "minutes_played": "19:58",
+        "field_goals": "4-8",
+        "plus_minus": 13,
+        "points": 11,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/alan_anderson/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "A. Anderson",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 2,
+        "personal_fouls": 4,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "21:18",
+        "field_goals": "3-3",
+        "plus_minus": 20,
+        "points": 6,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/landry_fields/index.html",
+        "defensive_rebounds": 6,
+        "total_rebounds": 9,
+        "player_abbr": "L. Fields",
+        "steals": 0,
+        "offensive_rebounds": 3,
+        "position": "\u00a0",
+        "assists": 2,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "03:09",
+        "field_goals": "1-1",
+        "plus_minus": 9,
+        "points": 2,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/quincy_acy/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 1,
+        "player_abbr": "Q. Acy",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-1",
+        "minutes_played": "03:09",
+        "field_goals": "1-1",
+        "plus_minus": 9,
+        "points": 3,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/john_iii_lucas/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "J. Lucas III",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 3,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/linas_kleiza/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "L. Kleiza",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ]
+  },
+  "plays": [
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "(12:00) Jump Ball Vucevic vs Gray (Davis gains possession)"
+    },
+    {
+      "team": "away",
+      "clock": "11:39",
+      "score": "[TOR 2-0]",
+      "desc": "DeRozan Jump Shot: Made (2 PTS) Assist: Calderon (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:24",
+      "score": null,
+      "desc": "Nicholson Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:22",
+      "score": null,
+      "desc": "Gray Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "11:12",
+      "score": "[TOR 4-0]",
+      "desc": "Davis Jump Shot: Made (2 PTS) Assist: Calderon (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "10:53",
+      "score": null,
+      "desc": "Afflalo Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:52",
+      "score": null,
+      "desc": "Smith Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "10:49",
+      "score": null,
+      "desc": "Smith Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:47",
+      "score": null,
+      "desc": "Smith Rebound (Off:2 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "10:47",
+      "score": null,
+      "desc": "Smith Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:45",
+      "score": null,
+      "desc": "Davis Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "10:39",
+      "score": null,
+      "desc": "DeRozan Jump Shot: Missed Block: Harkless (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "10:38",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "10:26",
+      "score": "[ORL 2-4]",
+      "desc": "Nicholson Hook Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:07",
+      "score": null,
+      "desc": "Davis Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:07",
+      "score": null,
+      "desc": "Gray Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "10:04",
+      "score": null,
+      "desc": "Gray Layup Shot: Missed Block: Harkless (2 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "10:03",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "09:58",
+      "score": "[ORL 4-4]",
+      "desc": "Smith Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:38",
+      "score": "[TOR 6-4]",
+      "desc": "Davis Jump Bank Shot: Made (4 PTS) Assist: Calderon (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:14",
+      "score": "[ORL 6-6]",
+      "desc": "Nicholson Hook Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:01",
+      "score": "[TOR 8-6]",
+      "desc": "DeRozan Jump Shot: Made (4 PTS) Assist: Calderon (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:35",
+      "score": "[ORL 8-8]",
+      "desc": "Vucevic Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:17",
+      "score": "[TOR 11-8]",
+      "desc": "Pietrus 3pt Shot: Made (3 PTS) Assist: Davis (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:50",
+      "score": null,
+      "desc": "Nicholson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:48",
+      "score": null,
+      "desc": "Gray Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "07:34",
+      "score": null,
+      "desc": "DeRozan Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:33",
+      "score": null,
+      "desc": "Nicholson Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "07:23",
+      "score": "[ORL 10-11]",
+      "desc": "Nicholson Jump Shot: Made (6 PTS) Assist: Smith (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:07",
+      "score": null,
+      "desc": "Gray Turnover : Bad Pass (1 TO) Steal:Harkless (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:57",
+      "score": "[ORL 12-11]",
+      "desc": "Vucevic Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:38",
+      "score": null,
+      "desc": "Pietrus 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:35",
+      "score": null,
+      "desc": "Nicholson Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "06:28",
+      "score": "[ORL 15-11]",
+      "desc": "Afflalo 3pt Shot: Made (3 PTS) Assist: Smith (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:22",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "06:11",
+      "score": "[TOR 13-15]",
+      "desc": "Calderon Driving Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:43",
+      "score": "[ORL 17-13]",
+      "desc": "Smith Fadeaway Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:25",
+      "score": "[TOR 16-17]",
+      "desc": "Pietrus 3pt Shot: Made (6 PTS) Assist: Calderon (5 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:08",
+      "score": null,
+      "desc": "Harkless Substitution replaced by Turkoglu"
+    },
+    {
+      "team": "home",
+      "clock": "05:00",
+      "score": null,
+      "desc": "Afflalo Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:00",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "04:42",
+      "score": null,
+      "desc": "Gray Turnaround Hook Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:42",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "04:35",
+      "score": null,
+      "desc": "Turkoglu Turnover : Bad Pass (1 TO) Steal:Gray (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:32",
+      "score": null,
+      "desc": "Gray Turnover : Lost Ball (2 TO) Steal:Vucevic (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:27",
+      "score": "[ORL 19-16]",
+      "desc": "Turkoglu Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:21",
+      "score": "[TOR 19-19]",
+      "desc": "Pietrus 3pt Shot: Made (9 PTS) Assist: Calderon (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:01",
+      "score": null,
+      "desc": "Nicholson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:00",
+      "score": null,
+      "desc": "Davis Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "03:45",
+      "score": "[TOR 21-19]",
+      "desc": "Calderon Pullup Jump shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:36",
+      "score": null,
+      "desc": "Smith Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:35",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "03:25",
+      "score": null,
+      "desc": "Vucevic Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:25",
+      "score": null,
+      "desc": "Gray Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "03:20",
+      "score": null,
+      "desc": "Nicholson Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "03:20",
+      "score": "[TOR 22-19]",
+      "desc": "Davis Free Throw 1 of 2 (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:20",
+      "score": null,
+      "desc": "Gray Substitution replaced by Johnson"
+    },
+    {
+      "team": "home",
+      "clock": "03:20",
+      "score": null,
+      "desc": "Nicholson Substitution replaced by Redick"
+    },
+    {
+      "team": "home",
+      "clock": "03:20",
+      "score": null,
+      "desc": "Vucevic Substitution replaced by McRoberts"
+    },
+    {
+      "team": "home",
+      "clock": "03:20",
+      "score": null,
+      "desc": "Smith Substitution replaced by Ayon"
+    },
+    {
+      "team": "away",
+      "clock": "03:20",
+      "score": "[TOR 23-19]",
+      "desc": "Davis Free Throw 2 of 2 (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:02",
+      "score": null,
+      "desc": "Ayon Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:00",
+      "score": null,
+      "desc": "DeRozan Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "02:42",
+      "score": "[TOR 26-19]",
+      "desc": "Calderon 3pt Shot: Made (7 PTS) Assist: Pietrus (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:28",
+      "score": null,
+      "desc": "Turkoglu Turnover : Traveling (2 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "02:28",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "02:28",
+      "score": null,
+      "desc": "Afflalo Substitution replaced by Harkless"
+    },
+    {
+      "team": "away",
+      "clock": "02:28",
+      "score": null,
+      "desc": "Calderon Substitution replaced by Lowry"
+    },
+    {
+      "team": "home",
+      "clock": "02:16",
+      "score": null,
+      "desc": "McRoberts Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "02:16",
+      "score": "[TOR 27-19]",
+      "desc": "Davis Free Throw 1 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:16",
+      "score": null,
+      "desc": "Davis Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:15",
+      "score": null,
+      "desc": "McRoberts Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "02:05",
+      "score": null,
+      "desc": "Pietrus Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "01:52",
+      "score": "[ORL 21-27]",
+      "desc": "McRoberts Dunk Shot: Made (2 PTS) Assist: Ayon (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:29",
+      "score": "[TOR 29-21]",
+      "desc": "Johnson Jump Shot: Made (2 PTS) Assist: DeRozan (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:15",
+      "score": null,
+      "desc": "Turkoglu Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:13",
+      "score": null,
+      "desc": "Johnson Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "01:12",
+      "score": null,
+      "desc": "Redick Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "01:12",
+      "score": "[TOR 30-21]",
+      "desc": "DeRozan Free Throw 1 of 2 (5 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:12",
+      "score": null,
+      "desc": "Ayon Substitution replaced by Afflalo"
+    },
+    {
+      "team": "home",
+      "clock": "01:12",
+      "score": null,
+      "desc": "Harkless Substitution replaced by Smith"
+    },
+    {
+      "team": "away",
+      "clock": "01:12",
+      "score": null,
+      "desc": "DeRozan Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:11",
+      "score": null,
+      "desc": "Turkoglu Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "01:00",
+      "score": null,
+      "desc": "Turkoglu 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:58.9",
+      "score": null,
+      "desc": "Lowry Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "00:50.9",
+      "score": "[TOR 32-21]",
+      "desc": "Davis Layup Shot: Made (9 PTS) Assist: Lowry (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:37.9",
+      "score": null,
+      "desc": "Afflalo 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:36.9",
+      "score": null,
+      "desc": "Lowry Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "00:32.2",
+      "score": "[TOR 34-21]",
+      "desc": "DeRozan Slam Dunk Shot: Made (7 PTS) Assist: Lowry (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:11.9",
+      "score": null,
+      "desc": "Turkoglu Running Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:09.9",
+      "score": null,
+      "desc": "Davis Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "00:01.4",
+      "score": "[TOR 36-21]",
+      "desc": "Lowry Driving Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 2nd QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:45",
+      "score": null,
+      "desc": "Redick Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:44",
+      "score": null,
+      "desc": "Lowry Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "11:32",
+      "score": "[TOR 38-21]",
+      "desc": "DeRozan Jump Shot: Made (9 PTS) Assist: Johnson (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:16",
+      "score": "[ORL 23-38]",
+      "desc": "Vucevic Jump Shot: Made (6 PTS) Assist: Afflalo (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "11:06",
+      "score": null,
+      "desc": "Anderson Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "11:06",
+      "score": null,
+      "desc": "Anderson Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "11:06",
+      "score": null,
+      "desc": "Nicholson Substitution replaced by Harkless"
+    },
+    {
+      "team": "home",
+      "clock": "10:48",
+      "score": "[ORL 26-38]",
+      "desc": "Redick 3pt Shot: Made (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:24",
+      "score": "[TOR 41-26]",
+      "desc": "Anderson 3pt Shot: Made (3 PTS) Assist: DeRozan (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:17",
+      "score": null,
+      "desc": "Lowry Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "10:17",
+      "score": null,
+      "desc": "Smith Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:17",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "10:17",
+      "score": null,
+      "desc": "Smith Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:16",
+      "score": null,
+      "desc": "Johnson Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "09:59",
+      "score": null,
+      "desc": "Lowry Driving Jump shot: Missed Block: Smith (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "09:59",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "09:54",
+      "score": null,
+      "desc": "Afflalo Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "09:54",
+      "score": "[TOR 42-26]",
+      "desc": "DeRozan Free Throw 1 of 2 (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:54",
+      "score": "[TOR 43-26]",
+      "desc": "DeRozan Free Throw 2 of 2 (11 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:36",
+      "score": null,
+      "desc": "Redick Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:34",
+      "score": null,
+      "desc": "DeRozan Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "09:23",
+      "score": "[TOR 46-26]",
+      "desc": "Ross 3pt Shot: Made (3 PTS) Assist: Anderson (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:55",
+      "score": "[ORL 29-46]",
+      "desc": "Smith 3pt Shot: Made (7 PTS) Assist: Vucevic (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:43",
+      "score": null,
+      "desc": "Ross Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:42",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "08:38",
+      "score": null,
+      "desc": "DeRozan Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "08:38",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "home",
+      "clock": "08:38",
+      "score": null,
+      "desc": "Harkless Substitution replaced by Turkoglu"
+    },
+    {
+      "team": "home",
+      "clock": "08:38",
+      "score": null,
+      "desc": "Smith Substitution replaced by Jones"
+    },
+    {
+      "team": "away",
+      "clock": "08:38",
+      "score": null,
+      "desc": "DeRozan Substitution replaced by Fields"
+    },
+    {
+      "team": "away",
+      "clock": "08:23",
+      "score": null,
+      "desc": "Johnson Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "08:15",
+      "score": null,
+      "desc": "Redick 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:14",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:2 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "08:02",
+      "score": null,
+      "desc": "Redick 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:01",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:3 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "07:53",
+      "score": null,
+      "desc": "Afflalo 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:52",
+      "score": null,
+      "desc": "Johnson Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "07:29",
+      "score": "[TOR 49-29]",
+      "desc": "Anderson 3pt Shot: Made (6 PTS) Assist: Fields (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:14",
+      "score": "[ORL 31-49]",
+      "desc": "Vucevic Jump Shot: Made (8 PTS) Assist: Redick (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:57",
+      "score": null,
+      "desc": "Johnson Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:56",
+      "score": null,
+      "desc": "Turkoglu Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "06:50",
+      "score": null,
+      "desc": "Redick Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "06:50",
+      "score": null,
+      "desc": "Vucevic Substitution replaced by Ayon"
+    },
+    {
+      "team": "away",
+      "clock": "06:36",
+      "score": null,
+      "desc": "Ross Pullup Jump shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:35",
+      "score": null,
+      "desc": "Ayon Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "06:23",
+      "score": "[ORL 34-49]",
+      "desc": "Redick 3pt Shot: Made (6 PTS) Assist: Afflalo (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:07",
+      "score": "[TOR 52-34]",
+      "desc": "Ross 3pt Shot: Made (6 PTS) Assist: Lowry (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:02",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "06:02",
+      "score": null,
+      "desc": "Ayon Substitution replaced by O'Quinn"
+    },
+    {
+      "team": "away",
+      "clock": "06:02",
+      "score": null,
+      "desc": "Johnson Substitution replaced by Davis"
+    },
+    {
+      "team": "home",
+      "clock": "05:56",
+      "score": null,
+      "desc": "Jones Running Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:55",
+      "score": null,
+      "desc": "Fields Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "05:39",
+      "score": null,
+      "desc": "Davis Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:38",
+      "score": null,
+      "desc": "Jones Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "05:34",
+      "score": null,
+      "desc": "Ross Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "05:34",
+      "score": "[ORL 35-52]",
+      "desc": "Redick Free Throw 1 of 2 (7 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:34",
+      "score": "[ORL 36-52]",
+      "desc": "Redick Free Throw 2 of 2 (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:17",
+      "score": null,
+      "desc": "Anderson Pullup Jump shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:16",
+      "score": null,
+      "desc": "Jones Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "05:02",
+      "score": null,
+      "desc": "Afflalo 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:02",
+      "score": null,
+      "desc": "Lowry Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "04:46",
+      "score": "[TOR 55-36]",
+      "desc": "Lowry 3pt Shot: Made (5 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:32",
+      "score": "[ORL 38-55]",
+      "desc": "Afflalo Driving Layup Shot: Made (5 PTS) Assist: Turkoglu (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:25",
+      "score": null,
+      "desc": "Lowry Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:24",
+      "score": null,
+      "desc": "Turkoglu Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "04:24",
+      "score": null,
+      "desc": "Lowry Foul: Loose Ball (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "04:24",
+      "score": null,
+      "desc": "Turkoglu Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:24",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "04:24",
+      "score": null,
+      "desc": "Lowry Substitution replaced by Calderon"
+    },
+    {
+      "team": "away",
+      "clock": "04:24",
+      "score": null,
+      "desc": "Ross Substitution replaced by Pietrus"
+    },
+    {
+      "team": "home",
+      "clock": "04:24",
+      "score": "[ORL 39-55]",
+      "desc": "Turkoglu Free Throw 2 of 2 (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:06",
+      "score": "[TOR 57-39]",
+      "desc": "Fields Running Hook Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:52",
+      "score": "[ORL 41-57]",
+      "desc": "Jones Driving Layup Shot: Made (2 PTS) Assist: Turkoglu (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:36",
+      "score": null,
+      "desc": "Anderson 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:35",
+      "score": null,
+      "desc": "Pietrus Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "03:32",
+      "score": "[TOR 59-41]",
+      "desc": "Davis Dunk Shot: Made (11 PTS) Assist: Pietrus (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:17",
+      "score": null,
+      "desc": "Jones Substitution replaced by Smith"
+    },
+    {
+      "team": "home",
+      "clock": "03:14",
+      "score": null,
+      "desc": "Redick Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:13",
+      "score": null,
+      "desc": "Calderon Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Calderon 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:55",
+      "score": null,
+      "desc": "Fields Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "02:49",
+      "score": null,
+      "desc": "Pietrus 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:48",
+      "score": null,
+      "desc": "Fields Rebound (Off:2 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "02:35",
+      "score": null,
+      "desc": "O'Quinn Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "02:35",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "02:35",
+      "score": null,
+      "desc": "Afflalo Substitution replaced by McRoberts"
+    },
+    {
+      "team": "home",
+      "clock": "02:35",
+      "score": null,
+      "desc": "Turkoglu Substitution replaced by Vucevic"
+    },
+    {
+      "team": "home",
+      "clock": "02:35",
+      "score": null,
+      "desc": "O'Quinn Substitution replaced by Jones"
+    },
+    {
+      "team": "away",
+      "clock": "02:35",
+      "score": "[TOR 60-41]",
+      "desc": "Davis Free Throw 1 of 2 (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:35",
+      "score": null,
+      "desc": "Davis Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:34",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:3 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "02:16",
+      "score": "[ORL 43-60]",
+      "desc": "McRoberts Turnaround Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:01",
+      "score": "[TOR 62-43]",
+      "desc": "Davis Slam Dunk Shot: Made (14 PTS) Assist: Calderon (7 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:44",
+      "score": null,
+      "desc": "Redick Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:44",
+      "score": null,
+      "desc": "Fields Rebound (Off:2 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "01:28",
+      "score": null,
+      "desc": "Davis Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:27",
+      "score": null,
+      "desc": "Fields Rebound (Off:3 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "01:10",
+      "score": null,
+      "desc": "Pietrus Layup Shot: Missed Block: McRoberts (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "01:09",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "01:03",
+      "score": null,
+      "desc": "Anderson Foul: Personal (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:03",
+      "score": null,
+      "desc": "Redick Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:03",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "01:03",
+      "score": null,
+      "desc": "Anderson Substitution replaced by Ross"
+    },
+    {
+      "team": "home",
+      "clock": "01:03",
+      "score": "[ORL 44-62]",
+      "desc": "Redick Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:42.9",
+      "score": "[TOR 64-44]",
+      "desc": "Calderon Pullup Jump shot: Made (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:28.1",
+      "score": "[ORL 47-64]",
+      "desc": "McRoberts 3pt Shot: Made (7 PTS) Assist: Smith (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:08.6",
+      "score": "[TOR 67-47]",
+      "desc": "Calderon 3pt Shot: Made (12 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "McRoberts Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 2nd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 3rd QuarterBack to Top"
+    },
+    {
+      "team": "away",
+      "clock": "11:41",
+      "score": null,
+      "desc": "Pietrus Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "11:41",
+      "score": null,
+      "desc": "Nicholson Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:41",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "11:41",
+      "score": null,
+      "desc": "Nicholson Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:40",
+      "score": null,
+      "desc": "Gray Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "11:20",
+      "score": "[TOR 69-47]",
+      "desc": "DeRozan Jump Shot: Made (13 PTS) Assist: Calderon (8 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:03",
+      "score": "[ORL 49-69]",
+      "desc": "Afflalo Turnaround Fadeaway shot: Made (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:46",
+      "score": null,
+      "desc": "Calderon Pullup Jump shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:45",
+      "score": null,
+      "desc": "Nicholson Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "10:38",
+      "score": null,
+      "desc": "Afflalo 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Harkless Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Harkless Tip Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Harkless Rebound (Off:2 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Harkless Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "10:29",
+      "score": null,
+      "desc": "Afflalo Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "10:29",
+      "score": "[TOR 70-49]",
+      "desc": "DeRozan Free Throw 1 of 2 (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:29",
+      "score": "[TOR 71-49]",
+      "desc": "DeRozan Free Throw 2 of 2 (15 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:14",
+      "score": "[ORL 51-71]",
+      "desc": "Nicholson Jump Shot: Made (8 PTS) Assist: Afflalo (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:00",
+      "score": null,
+      "desc": "DeRozan Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:59",
+      "score": null,
+      "desc": "Nicholson Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "09:46",
+      "score": "[ORL 53-71]",
+      "desc": "Smith Jump Shot: Made (9 PTS) Assist: Afflalo (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:26",
+      "score": null,
+      "desc": "Calderon 3pt Shot: Missed Block: Smith (2 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "09:26",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "09:21",
+      "score": null,
+      "desc": "DeRozan Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:19",
+      "score": null,
+      "desc": "Nicholson Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "09:16",
+      "score": null,
+      "desc": "Gray Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "09:16",
+      "score": "[ORL 54-71]",
+      "desc": "Afflalo Free Throw 1 of 2 (8 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:16",
+      "score": "[ORL 55-71]",
+      "desc": "Afflalo Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:58",
+      "score": null,
+      "desc": "Gray Turnover : Bad Pass (3 TO) Steal:Afflalo (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:51",
+      "score": null,
+      "desc": "Afflalo Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:49",
+      "score": null,
+      "desc": "Vucevic Rebound (Off:4 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "08:49",
+      "score": null,
+      "desc": "Vucevic Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:47",
+      "score": null,
+      "desc": "Pietrus Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "08:43",
+      "score": null,
+      "desc": "Vucevic Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "08:43",
+      "score": "[TOR 72-55]",
+      "desc": "DeRozan Free Throw 1 of 2 (16 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:43",
+      "score": null,
+      "desc": "Gray Substitution replaced by Johnson"
+    },
+    {
+      "team": "away",
+      "clock": "08:43",
+      "score": "[TOR 73-55]",
+      "desc": "DeRozan Free Throw 2 of 2 (17 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:27",
+      "score": null,
+      "desc": "Afflalo Turnover : Bad Pass (1 TO) Steal:DeRozan (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:06",
+      "score": "[TOR 75-55]",
+      "desc": "Davis Jump Shot: Made (16 PTS) Assist: Pietrus (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:55",
+      "score": null,
+      "desc": "Afflalo Foul: Offensive (3 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "07:55",
+      "score": null,
+      "desc": "Afflalo Turnover : Foul (2 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "07:55",
+      "score": null,
+      "desc": "Afflalo Technical"
+    },
+    {
+      "team": "away",
+      "clock": "07:55",
+      "score": "[TOR 76-55]",
+      "desc": "Calderon Free Throw Technical (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:42",
+      "score": null,
+      "desc": "Calderon Turnover : Bad Pass (1 TO) Steal:Nicholson (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:32",
+      "score": "[ORL 57-76]",
+      "desc": "Nicholson Jump Shot: Made (10 PTS) Assist: Smith (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:09",
+      "score": null,
+      "desc": "DeRozan Jump Shot: Missed Block: Harkless (3 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "07:06",
+      "score": null,
+      "desc": "Smith Rebound (Off:2 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "07:02",
+      "score": null,
+      "desc": "Harkless Dunk Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:58",
+      "score": null,
+      "desc": "Smith Rebound (Off:3 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "06:53",
+      "score": "[ORL 59-76]",
+      "desc": "Nicholson Jump Shot: Made (12 PTS) Assist: Afflalo (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:48",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "06:48",
+      "score": null,
+      "desc": "Pietrus Substitution replaced by Anderson"
+    },
+    {
+      "team": "away",
+      "clock": "06:45",
+      "score": null,
+      "desc": "Anderson Foul: Offensive (3 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "06:45",
+      "score": null,
+      "desc": "Anderson Turnover : Foul (2 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "06:29",
+      "score": null,
+      "desc": "DeRozan Foul: Personal (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "06:18",
+      "score": "[ORL 61-76]",
+      "desc": "Afflalo Turnaround Fadeaway shot: Made (11 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:59",
+      "score": null,
+      "desc": "Davis Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:56",
+      "score": null,
+      "desc": "Afflalo Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "05:48",
+      "score": "[ORL 63-76]",
+      "desc": "Smith Driving Layup Shot: Made (11 PTS) Assist: Afflalo (6 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:31",
+      "score": null,
+      "desc": "Anderson 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:30",
+      "score": null,
+      "desc": "Nicholson Rebound (Off:1 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "05:16",
+      "score": null,
+      "desc": "Johnson Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "05:16",
+      "score": "[ORL 64-76]",
+      "desc": "Nicholson Free Throw 1 of 2 (13 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:16",
+      "score": null,
+      "desc": "Harkless Substitution replaced by Redick"
+    },
+    {
+      "team": "home",
+      "clock": "05:16",
+      "score": "[ORL 65-76]",
+      "desc": "Nicholson Free Throw 2 of 2 (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:56",
+      "score": "[TOR 78-65]",
+      "desc": "Anderson Driving Layup Shot: Made (8 PTS) Assist: Davis (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:28",
+      "score": null,
+      "desc": "Smith 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:28",
+      "score": null,
+      "desc": "Davis Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "04:18",
+      "score": null,
+      "desc": "Calderon 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:17",
+      "score": null,
+      "desc": "Johnson Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "04:13",
+      "score": null,
+      "desc": "Johnson Turnover : Bad Pass (1 TO) Steal:Smith (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:06",
+      "score": null,
+      "desc": "Redick Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:04",
+      "score": null,
+      "desc": "Calderon Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "03:51",
+      "score": null,
+      "desc": "Redick Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "03:51",
+      "score": null,
+      "desc": "Johnson Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:51",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "03:51",
+      "score": null,
+      "desc": "DeRozan Substitution replaced by Lowry"
+    },
+    {
+      "team": "away",
+      "clock": "03:51",
+      "score": "[TOR 79-65]",
+      "desc": "Johnson Free Throw 2 of 2 (3 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:39",
+      "score": "[ORL 67-79]",
+      "desc": "Nicholson Jump Shot: Made (16 PTS) Assist: Smith (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:25",
+      "score": "[TOR 81-67]",
+      "desc": "Lowry Jump Shot: Made (7 PTS) Assist: Calderon (9 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:06",
+      "score": "[ORL 69-81]",
+      "desc": "Nicholson Hook Shot: Made (18 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:52",
+      "score": "[TOR 83-69]",
+      "desc": "Davis Hook Shot: Made (18 PTS) Assist: Calderon (10 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:32",
+      "score": null,
+      "desc": "Afflalo Turnaround Fadeaway shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:30",
+      "score": null,
+      "desc": "Calderon Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "02:22",
+      "score": null,
+      "desc": "Nicholson Foul: Personal (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "02:22",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "02:11",
+      "score": "[TOR 85-69]",
+      "desc": "Calderon Jump Shot: Made (15 PTS) Assist: Anderson (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:48",
+      "score": null,
+      "desc": "Afflalo 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:47",
+      "score": null,
+      "desc": "Johnson Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "01:36",
+      "score": null,
+      "desc": "Nicholson Foul: Personal (3 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "01:36",
+      "score": "[TOR 86-69]",
+      "desc": "Lowry Free Throw 1 of 2 (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:36",
+      "score": null,
+      "desc": "Calderon Substitution replaced by Ross"
+    },
+    {
+      "team": "home",
+      "clock": "01:36",
+      "score": null,
+      "desc": "Afflalo Substitution replaced by Jones"
+    },
+    {
+      "team": "away",
+      "clock": "01:36",
+      "score": "[TOR 87-69]",
+      "desc": "Lowry Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:16",
+      "score": null,
+      "desc": "Vucevic Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:15",
+      "score": null,
+      "desc": "Davis Rebound (Off:0 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "00:56.9",
+      "score": null,
+      "desc": "Lowry Turnaround Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:53.9",
+      "score": null,
+      "desc": "Redick Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "00:39.7",
+      "score": null,
+      "desc": "Anderson Foul: Personal (4 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:39.7",
+      "score": null,
+      "desc": "Vucevic Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:39.7",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "00:39.7",
+      "score": null,
+      "desc": "Anderson Substitution replaced by Fields"
+    },
+    {
+      "team": "home",
+      "clock": "00:39.7",
+      "score": null,
+      "desc": "Vucevic Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:38.9",
+      "score": null,
+      "desc": "Fields Rebound (Off:3 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "00:23.2",
+      "score": null,
+      "desc": "Johnson Jump Shot: Missed Block: Vucevic (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "00:23.2",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "00:23.2",
+      "score": null,
+      "desc": "Jump Ball Vucevic vs Johnson (Davis gains possession)"
+    },
+    {
+      "team": "away",
+      "clock": "00:16.8",
+      "score": null,
+      "desc": "Lowry Turnover : Bad Pass (1 TO) Steal:Smith (2 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:02.6",
+      "score": "[ORL 71-87]",
+      "desc": "Nicholson Pullup Jump shot: Made (20 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Lowry 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 3rd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 4th QuarterBack to Top"
+    },
+    {
+      "team": "away",
+      "clock": "11:46",
+      "score": "[TOR 89-71]",
+      "desc": "Ross Pullup Jump shot: Made (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "11:31",
+      "score": null,
+      "desc": "Ross Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "11:31",
+      "score": null,
+      "desc": "Afflalo Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:31",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "11:31",
+      "score": "[ORL 72-89]",
+      "desc": "Afflalo Free Throw 2 of 2 (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "11:09",
+      "score": "[TOR 91-72]",
+      "desc": "Lowry Pullup Jump shot: Made (11 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:46",
+      "score": null,
+      "desc": "Redick 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:46",
+      "score": null,
+      "desc": "DeRozan Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "10:37",
+      "score": "[TOR 94-72]",
+      "desc": "Lowry 3pt Shot: Made (14 PTS) Assist: DeRozan (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:24",
+      "score": null,
+      "desc": "Lowry Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "10:24",
+      "score": null,
+      "desc": "Jones Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:24",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "10:24",
+      "score": "[ORL 73-94]",
+      "desc": "Jones Free Throw 2 of 2 (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:04",
+      "score": null,
+      "desc": "Ross Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:02",
+      "score": null,
+      "desc": "Johnson Rebound (Off:2 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "10:02",
+      "score": "[TOR 96-73]",
+      "desc": "Johnson Layup Shot: Made (5 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:51",
+      "score": "[ORL 75-96]",
+      "desc": "Turkoglu Driving Layup Shot: Made (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:51",
+      "score": null,
+      "desc": "Fields Foul: Shooting (1 PF) (1 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "09:51",
+      "score": "[ORL 76-96]",
+      "desc": "Turkoglu Free Throw 1 of 1 (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:40",
+      "score": null,
+      "desc": "McRoberts Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "09:40",
+      "score": "[TOR 97-76]",
+      "desc": "Johnson Free Throw 1 of 2 (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:40",
+      "score": null,
+      "desc": "Johnson Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:39",
+      "score": null,
+      "desc": "Ross Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "09:31",
+      "score": null,
+      "desc": "DeRozan Jump Shot: Missed Block: Jones (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "09:30",
+      "score": null,
+      "desc": "Turkoglu Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "09:25",
+      "score": null,
+      "desc": "McRoberts Turnover : Lost Ball (1 TO) Steal:Lowry (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:19",
+      "score": "[TOR 99-76]",
+      "desc": "Ross Slam Dunk Shot: Made (10 PTS) Assist: Fields (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:19",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "08:55",
+      "score": "[ORL 78-99]",
+      "desc": "Afflalo Turnaround Jump Shot: Made (14 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:34",
+      "score": null,
+      "desc": "Jones Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "08:24",
+      "score": "[TOR 101-78]",
+      "desc": "DeRozan Pullup Jump shot: Made (19 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "07:59",
+      "score": null,
+      "desc": "Turkoglu Running Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:58",
+      "score": null,
+      "desc": "Fields Rebound (Off:3 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "07:43",
+      "score": "[TOR 103-78]",
+      "desc": "DeRozan Pullup Jump shot: Made (21 PTS) Assist: Lowry (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:34",
+      "score": "[ORL 80-103]",
+      "desc": "Turkoglu Driving Layup Shot: Made (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:34",
+      "score": null,
+      "desc": "Johnson Foul: Shooting (3 PF) (1 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "07:34",
+      "score": null,
+      "desc": "Turkoglu Free Throw 1 of 1 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:33",
+      "score": null,
+      "desc": "Fields Rebound (Off:3 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "07:08",
+      "score": null,
+      "desc": "Lowry 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:07",
+      "score": null,
+      "desc": "Jones Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "06:52",
+      "score": "[ORL 82-103]",
+      "desc": "Jones Layup Shot: Made (5 PTS) Assist: Turkoglu (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:45",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "06:45",
+      "score": null,
+      "desc": "Johnson Substitution replaced by Davis"
+    },
+    {
+      "team": "away",
+      "clock": "06:24",
+      "score": "[TOR 105-82]",
+      "desc": "Lowry Driving Layup Shot: Made (16 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:06",
+      "score": null,
+      "desc": "Redick Turnaround Fadeaway shot: Missed Block: Ross (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "06:06",
+      "score": null,
+      "desc": "Davis Rebound (Off:0 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "05:49",
+      "score": "[TOR 107-82]",
+      "desc": "Fields Layup Shot: Made (4 PTS) Assist: Lowry (5 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:36",
+      "score": null,
+      "desc": "Jones 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:35",
+      "score": null,
+      "desc": "Turkoglu Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "05:31",
+      "score": null,
+      "desc": "Redick 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:30",
+      "score": null,
+      "desc": "Davis Rebound (Off:0 Def:7)"
+    },
+    {
+      "team": "away",
+      "clock": "05:12",
+      "score": null,
+      "desc": "Lowry 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:11",
+      "score": null,
+      "desc": "Afflalo Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "04:52",
+      "score": null,
+      "desc": "Afflalo Turnover : Traveling (3 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "04:52",
+      "score": null,
+      "desc": "Afflalo Substitution replaced by Smith"
+    },
+    {
+      "team": "home",
+      "clock": "04:52",
+      "score": null,
+      "desc": "McRoberts Substitution replaced by Harkless"
+    },
+    {
+      "team": "home",
+      "clock": "04:52",
+      "score": null,
+      "desc": "Redick Substitution replaced by O'Quinn"
+    },
+    {
+      "team": "home",
+      "clock": "04:52",
+      "score": null,
+      "desc": "Jones Substitution replaced by Nicholson"
+    },
+    {
+      "team": "away",
+      "clock": "04:31",
+      "score": "[TOR 110-82]",
+      "desc": "Ross 3pt Shot: Made (13 PTS) Assist: Lowry (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:09",
+      "score": null,
+      "desc": "O'Quinn Jump Shot: Missed Block: Davis (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "04:07",
+      "score": null,
+      "desc": "Ross Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "03:50",
+      "score": null,
+      "desc": "Ross 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:48",
+      "score": null,
+      "desc": "Nicholson Rebound (Off:1 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "03:32",
+      "score": "[ORL 84-110]",
+      "desc": "Nicholson Turnaround Hook Shot: Made (22 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:11",
+      "score": null,
+      "desc": "DeRozan Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:09",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "03:09",
+      "score": null,
+      "desc": "Davis Substitution replaced by Acy"
+    },
+    {
+      "team": "away",
+      "clock": "03:09",
+      "score": null,
+      "desc": "Lowry Substitution replaced by Lucas III"
+    },
+    {
+      "team": "home",
+      "clock": "02:53",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "away",
+      "clock": "02:53",
+      "score": null,
+      "desc": "DeRozan Substitution replaced by Anderson"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": "[ORL 86-110]",
+      "desc": "Smith Pullup Jump shot: Made (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:28",
+      "score": "[TOR 112-86]",
+      "desc": "Acy Slam Dunk Shot: Made (2 PTS) Assist: Ross (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:14",
+      "score": null,
+      "desc": "Nicholson Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:13",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "02:00",
+      "score": "[TOR 115-86]",
+      "desc": "Lucas III 3pt Shot: Made (3 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:38",
+      "score": null,
+      "desc": "Smith Pullup Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:37",
+      "score": null,
+      "desc": "Fields Rebound (Off:3 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "01:29",
+      "score": null,
+      "desc": "Anderson 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:28",
+      "score": null,
+      "desc": "Acy Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "01:16",
+      "score": "[TOR 118-86]",
+      "desc": "Ross 3pt Shot: Made (16 PTS) Assist: Lucas III (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:02",
+      "score": "[ORL 88-118]",
+      "desc": "O'Quinn Layup Shot: Made (2 PTS) Assist: Smith (6 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:47.8",
+      "score": "[TOR 120-88]",
+      "desc": "Fields Jump Shot: Made (6 PTS) Assist: Lucas III (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:34.8",
+      "score": null,
+      "desc": "Turkoglu 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:34.4",
+      "score": null,
+      "desc": "Ross Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "00:18.2",
+      "score": "[TOR 123-88]",
+      "desc": "Anderson 3pt Shot: Made (11 PTS) Assist: Lucas III (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:03.8",
+      "score": null,
+      "desc": "Smith Floating Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:02.9",
+      "score": null,
+      "desc": "Lucas III Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 4th Quarter"
+    }
+  ],
+  "away_abbr": "TOR",
+  "city": "Orlando, FL",
+  "datetime": "2012-12-29T19:00:00",
+  "home_abbr": "ORL"
+}

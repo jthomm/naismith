@@ -1,0 +1,3208 @@
+{
+  "arena": "United Center",
+  "box_score": {
+    "home": [
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-3",
+        "minutes_played": "37:27",
+        "field_goals": "4-13",
+        "plus_minus": -1,
+        "points": 11,
+        "free_throws": "2-3",
+        "player_url": "/playerfile/luol_deng/index.html",
+        "defensive_rebounds": 5,
+        "total_rebounds": 6,
+        "player_abbr": "L. Deng",
+        "steals": 1,
+        "offensive_rebounds": 1,
+        "position": "F",
+        "assists": 4,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "29:31",
+        "field_goals": "5-12",
+        "plus_minus": 4,
+        "points": 15,
+        "free_throws": "5-7",
+        "player_url": "/playerfile/carlos_boozer/index.html",
+        "defensive_rebounds": 10,
+        "total_rebounds": 12,
+        "player_abbr": "C. Boozer",
+        "steals": 1,
+        "offensive_rebounds": 2,
+        "position": "F",
+        "assists": 1,
+        "personal_fouls": 0,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "36:57",
+        "field_goals": "4-11",
+        "plus_minus": 5,
+        "points": 9,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/joakim_noah/index.html",
+        "defensive_rebounds": 7,
+        "total_rebounds": 11,
+        "player_abbr": "J. Noah",
+        "steals": 1,
+        "offensive_rebounds": 4,
+        "position": "C",
+        "assists": 5,
+        "personal_fouls": 4,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-2",
+        "minutes_played": "14:42",
+        "field_goals": "4-9",
+        "plus_minus": -6,
+        "points": 9,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/richard_hamilton/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "R. Hamilton",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 1,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "2-4",
+        "minutes_played": "33:24",
+        "field_goals": "3-6",
+        "plus_minus": 6,
+        "points": 10,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/kirk_hinrich/index.html",
+        "defensive_rebounds": 6,
+        "total_rebounds": 6,
+        "player_abbr": "K. Hinrich",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 7,
+        "personal_fouls": 4,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "2-3",
+        "minutes_played": "33:18",
+        "field_goals": "7-16",
+        "plus_minus": 16,
+        "points": 17,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/marco_belinelli/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 2,
+        "player_abbr": "M. Belinelli",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 3,
+        "personal_fouls": 3,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 2,
+        "three_pointers": "0-0",
+        "minutes_played": "16:27",
+        "field_goals": "3-7",
+        "plus_minus": 8,
+        "points": 6,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/taj_gibson/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 3,
+        "player_abbr": "T. Gibson",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 3,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "13:05",
+        "field_goals": "0-3",
+        "plus_minus": 3,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/nazr_mohammed/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 8,
+        "player_abbr": "N. Mohammed",
+        "steals": 1,
+        "offensive_rebounds": 4,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 3,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-3",
+        "minutes_played": "14:29",
+        "field_goals": "3-8",
+        "plus_minus": 6,
+        "points": 7,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/nate_robinson/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "N. Robinson",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 2,
+        "personal_fouls": 2,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-1",
+        "minutes_played": "10:33",
+        "field_goals": "1-2",
+        "plus_minus": 11,
+        "points": 3,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/jimmy_butler/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 1,
+        "player_abbr": "J. Butler",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:07",
+        "field_goals": "0-0",
+        "plus_minus": -2,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/marquis_teague/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "M. Teague",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/vladimir_radmanovic/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "V. Radmanovic",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ],
+    "away": [
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-3",
+        "minutes_played": "36:51",
+        "field_goals": "4-10",
+        "plus_minus": -4,
+        "points": 10,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/martell_webster/index.html",
+        "defensive_rebounds": 5,
+        "total_rebounds": 6,
+        "player_abbr": "M. Webster",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "F-G",
+        "assists": 1,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "24:35",
+        "field_goals": "4-11",
+        "plus_minus": -6,
+        "points": 10,
+        "free_throws": "2-6",
+        "player_url": "/playerfile/nene/index.html",
+        "defensive_rebounds": 8,
+        "total_rebounds": 9,
+        "player_abbr": "Nene",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "F-C",
+        "assists": 2,
+        "personal_fouls": 1,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 2,
+        "three_pointers": "0-0",
+        "minutes_played": "35:34",
+        "field_goals": "5-11",
+        "plus_minus": -7,
+        "points": 11,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/emeka_okafor/index.html",
+        "defensive_rebounds": 12,
+        "total_rebounds": 18,
+        "player_abbr": "E. Okafor",
+        "steals": 0,
+        "offensive_rebounds": 6,
+        "position": "C",
+        "assists": 1,
+        "personal_fouls": 3,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-3",
+        "minutes_played": "33:51",
+        "field_goals": "5-15",
+        "plus_minus": -10,
+        "points": 14,
+        "free_throws": "4-4",
+        "player_url": "/playerfile/bradley_beal/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 5,
+        "player_abbr": "B. Beal",
+        "steals": 1,
+        "offensive_rebounds": 1,
+        "position": "G",
+        "assists": 3,
+        "personal_fouls": 2,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-2",
+        "minutes_played": "41:12",
+        "field_goals": "3-11",
+        "plus_minus": -9,
+        "points": 8,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/garrett_temple/index.html",
+        "defensive_rebounds": 6,
+        "total_rebounds": 9,
+        "player_abbr": "G. Temple",
+        "steals": 1,
+        "offensive_rebounds": 3,
+        "position": "G",
+        "assists": 5,
+        "personal_fouls": 3,
+        "turnovers": 4
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "27:43",
+        "field_goals": "5-11",
+        "plus_minus": 1,
+        "points": 12,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/kevin_seraphin/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 6,
+        "player_abbr": "K. Seraphin",
+        "steals": 0,
+        "offensive_rebounds": 3,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 3,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "08:08",
+        "field_goals": "1-2",
+        "plus_minus": -8,
+        "points": 2,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jan_vesely/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 1,
+        "player_abbr": "J. Vesely",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 2,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "20:57",
+        "field_goals": "3-8",
+        "plus_minus": -1,
+        "points": 7,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/shelvin_mack/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 2,
+        "player_abbr": "S. Mack",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 5,
+        "personal_fouls": 0,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-2",
+        "minutes_played": "11:09",
+        "field_goals": "1-6",
+        "plus_minus": -6,
+        "points": 3,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/cartier_martin/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "C. Martin",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/trevor_ariza/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "T. Ariza",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jordan_crawford/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "J. Crawford",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/aj_price/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "A.J. Price",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/chris_singleton/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "C. Singleton",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ]
+  },
+  "plays": [
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "(12:00) Jump Ball Noah vs Okafor (Temple gains possession)"
+    },
+    {
+      "team": "away",
+      "clock": "11:40",
+      "score": "[WAS 2-0]",
+      "desc": "Nene Finger Roll Layup Shot: Made (2 PTS) Assist: Beal (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:15",
+      "score": "[CHI 3-2]",
+      "desc": "Deng 3pt Shot: Made (3 PTS) Assist: Hinrich (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:52",
+      "score": null,
+      "desc": "Beal Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:51",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "10:44",
+      "score": null,
+      "desc": "Webster Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:42",
+      "score": null,
+      "desc": "Webster Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "10:41",
+      "score": "[WAS 4-3]",
+      "desc": "Webster Putback Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:20",
+      "score": null,
+      "desc": "Noah Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:19",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "10:08",
+      "score": null,
+      "desc": "Nene Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:07",
+      "score": null,
+      "desc": "Boozer Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "09:53",
+      "score": "[CHI 5-4]",
+      "desc": "Hamilton Pullup Jump shot: Made (2 PTS) Assist: Deng (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:39",
+      "score": null,
+      "desc": "Temple Turnover : Bad Pass (1 TO) Steal:Noah (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:37",
+      "score": null,
+      "desc": "Hinrich Turnover : Bad Pass (1 TO) Steal:Temple (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:26",
+      "score": "[WAS 6-5]",
+      "desc": "Nene Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:09",
+      "score": "[CHI 7-6]",
+      "desc": "Hamilton Jump Shot: Made (4 PTS) Assist: Hinrich (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:48",
+      "score": null,
+      "desc": "Nene Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:47",
+      "score": null,
+      "desc": "Boozer Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "08:41",
+      "score": null,
+      "desc": "Deng Running Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:39",
+      "score": null,
+      "desc": "Noah Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "08:39",
+      "score": null,
+      "desc": "Noah Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:38",
+      "score": null,
+      "desc": "Beal Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Beal Foul: Offensive Charge (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Beal Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "08:20",
+      "score": "[CHI 10-6]",
+      "desc": "Hinrich 3pt Shot: Made (3 PTS) Assist: Hamilton (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:58",
+      "score": null,
+      "desc": "Temple Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:57",
+      "score": null,
+      "desc": "Okafor Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "07:40",
+      "score": null,
+      "desc": "Temple 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:39",
+      "score": null,
+      "desc": "Noah Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "07:32",
+      "score": null,
+      "desc": "Deng 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:31",
+      "score": null,
+      "desc": "Boozer Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "07:09",
+      "score": null,
+      "desc": "Noah Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:08",
+      "score": null,
+      "desc": "Temple Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "06:57",
+      "score": "[WAS 8-10]",
+      "desc": "Beal Pullup Jump shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:40",
+      "score": null,
+      "desc": "Hamilton Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:39",
+      "score": null,
+      "desc": "Webster Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "06:31",
+      "score": "[WAS 10-10]",
+      "desc": "Webster Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:11",
+      "score": null,
+      "desc": "Hinrich 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:10",
+      "score": null,
+      "desc": "Webster Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "05:56",
+      "score": "[WAS 12-10]",
+      "desc": "Beal Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:35",
+      "score": null,
+      "desc": "Hamilton Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:33",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "05:31",
+      "score": null,
+      "desc": "Hamilton Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:30",
+      "score": null,
+      "desc": "Noah Rebound (Off:2 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "05:30",
+      "score": null,
+      "desc": "Noah Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:28",
+      "score": null,
+      "desc": "Temple Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "05:22",
+      "score": "[WAS 14-10]",
+      "desc": "Nene Jump Shot: Made (6 PTS) Assist: Beal (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:10",
+      "score": null,
+      "desc": "Hinrich Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:09",
+      "score": null,
+      "desc": "Okafor Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "05:00",
+      "score": null,
+      "desc": "Hinrich Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "05:00",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "05:00",
+      "score": null,
+      "desc": "Nene Substitution replaced by Seraphin"
+    },
+    {
+      "team": "away",
+      "clock": "04:44",
+      "score": null,
+      "desc": "Okafor Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:41",
+      "score": null,
+      "desc": "Seraphin Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "04:38",
+      "score": null,
+      "desc": "Noah Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "04:38",
+      "score": "[WAS 15-10]",
+      "desc": "Seraphin Free Throw 1 of 2 (1 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:38",
+      "score": null,
+      "desc": "Hamilton Substitution replaced by Belinelli"
+    },
+    {
+      "team": "away",
+      "clock": "04:38",
+      "score": "[WAS 16-10]",
+      "desc": "Seraphin Free Throw 2 of 2 (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:19",
+      "score": "[CHI 12-16]",
+      "desc": "Deng Jump Shot: Made (5 PTS) Assist: Noah (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:58",
+      "score": null,
+      "desc": "Seraphin Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:57",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "03:43",
+      "score": "[CHI 14-16]",
+      "desc": "Belinelli Running Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:24",
+      "score": "[WAS 18-14]",
+      "desc": "Seraphin Jump Shot: Made (4 PTS) Assist: Temple (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:13",
+      "score": null,
+      "desc": "Noah Foul: Offensive (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "03:13",
+      "score": null,
+      "desc": "Noah Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "03:13",
+      "score": null,
+      "desc": "Noah Substitution replaced by Gibson"
+    },
+    {
+      "team": "home",
+      "clock": "03:13",
+      "score": null,
+      "desc": "Boozer Substitution replaced by Mohammed"
+    },
+    {
+      "team": "away",
+      "clock": "03:01",
+      "score": "[WAS 20-14]",
+      "desc": "Okafor Jump Shot: Made (2 PTS) Assist: Temple (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:39",
+      "score": null,
+      "desc": "Hinrich Turnover : Bad Pass (2 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "02:39",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "02:39",
+      "score": null,
+      "desc": "Okafor Substitution replaced by Vesely"
+    },
+    {
+      "team": "away",
+      "clock": "02:24",
+      "score": "[WAS 22-14]",
+      "desc": "Seraphin Jump Shot: Made (6 PTS) Assist: Beal (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:08",
+      "score": null,
+      "desc": "Mohammed Pullup Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:07",
+      "score": null,
+      "desc": "Beal Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "01:59",
+      "score": null,
+      "desc": "Vesely Running Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:58",
+      "score": null,
+      "desc": "Mohammed Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "01:44",
+      "score": "[CHI 16-22]",
+      "desc": "Hinrich Jump Shot: Made (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:28",
+      "score": null,
+      "desc": "Beal Jump Shot: Missed Block: Gibson (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "01:26",
+      "score": null,
+      "desc": "Hinrich Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "01:20",
+      "score": "[CHI 18-22]",
+      "desc": "Belinelli Running Layup Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:08",
+      "score": null,
+      "desc": "Webster Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:07",
+      "score": null,
+      "desc": "Deng Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "01:05",
+      "score": null,
+      "desc": "Temple Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:05",
+      "score": "[CHI 19-22]",
+      "desc": "Hinrich Free Throw 1 of 2 (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:05",
+      "score": null,
+      "desc": "Temple Substitution replaced by Mack"
+    },
+    {
+      "team": "home",
+      "clock": "01:05",
+      "score": "[CHI 20-22]",
+      "desc": "Hinrich Free Throw 2 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:54.7",
+      "score": "[WAS 24-20]",
+      "desc": "Seraphin Layup Shot: Made (8 PTS) Assist: Vesely (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:38.8",
+      "score": null,
+      "desc": "Belinelli Running Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:37.9",
+      "score": null,
+      "desc": "Webster Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "00:29.9",
+      "score": "[WAS 26-20]",
+      "desc": "Beal Jump Shot: Made (6 PTS) Assist: Mack (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:07.7",
+      "score": "[CHI 22-26]",
+      "desc": "Gibson Jump Shot: Made (2 PTS) Assist: Hinrich (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:04.9",
+      "score": null,
+      "desc": "Hinrich Foul: Personal Take (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "00:04.9",
+      "score": null,
+      "desc": "Hinrich Substitution replaced by Robinson"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.1",
+      "score": null,
+      "desc": "Mack Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 2nd QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:35",
+      "score": null,
+      "desc": "Belinelli Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:34",
+      "score": null,
+      "desc": "Seraphin Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "11:34",
+      "score": null,
+      "desc": "Gibson Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "11:10",
+      "score": null,
+      "desc": "Beal 3pt Shot: Missed Block: Belinelli (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "11:10",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "11:10",
+      "score": null,
+      "desc": "Team Turnover : Shot Clock Turnover"
+    },
+    {
+      "team": "home",
+      "clock": "10:53",
+      "score": "[CHI 24-26]",
+      "desc": "Deng Running Jump Shot: Made (7 PTS) Assist: Belinelli (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:53",
+      "score": null,
+      "desc": "Martin Foul: Shooting (1 PF) (1 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "10:53",
+      "score": null,
+      "desc": "Beal Substitution replaced by Temple"
+    },
+    {
+      "team": "home",
+      "clock": "10:53",
+      "score": null,
+      "desc": "Deng Free Throw 1 of 1 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:49",
+      "score": null,
+      "desc": "Mack Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "10:34",
+      "score": null,
+      "desc": "Mohammed Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "10:25",
+      "score": null,
+      "desc": "Martin Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:24",
+      "score": null,
+      "desc": "Deng Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "10:20",
+      "score": "[CHI 26-26]",
+      "desc": "Robinson Jump Shot: Made (2 PTS) Assist: Deng (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:02",
+      "score": null,
+      "desc": "Martin Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:01",
+      "score": null,
+      "desc": "Mohammed Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "09:52",
+      "score": "[CHI 28-26]",
+      "desc": "Gibson Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:35",
+      "score": null,
+      "desc": "Martin 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:34",
+      "score": null,
+      "desc": "Mohammed Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "09:17",
+      "score": null,
+      "desc": "Belinelli Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:16",
+      "score": null,
+      "desc": "Mack Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "09:11",
+      "score": null,
+      "desc": "Mack Running Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:10",
+      "score": null,
+      "desc": "Vesely Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "09:10",
+      "score": "[WAS 28-28]",
+      "desc": "Vesely Putback Dunk Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:49",
+      "score": null,
+      "desc": "Vesely Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "08:49",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "away",
+      "clock": "08:49",
+      "score": null,
+      "desc": "Vesely Substitution replaced by Nene"
+    },
+    {
+      "team": "home",
+      "clock": "08:49",
+      "score": "[CHI 29-28]",
+      "desc": "Deng Free Throw 1 of 2 (8 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:49",
+      "score": "[CHI 30-28]",
+      "desc": "Deng Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:35",
+      "score": null,
+      "desc": "Temple Layup Shot: Missed Block: Gibson (2 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "08:34",
+      "score": null,
+      "desc": "Temple Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "08:33",
+      "score": null,
+      "desc": "Gibson Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "08:33",
+      "score": null,
+      "desc": "Nene Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:33",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "08:33",
+      "score": null,
+      "desc": "Nene Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:32",
+      "score": null,
+      "desc": "Gibson Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "08:13",
+      "score": null,
+      "desc": "Deng Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:12",
+      "score": null,
+      "desc": "Gibson Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "08:12",
+      "score": null,
+      "desc": "Gibson Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:11",
+      "score": null,
+      "desc": "Seraphin Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "08:07",
+      "score": null,
+      "desc": "Mack Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "07:53",
+      "score": null,
+      "desc": "Robinson Running Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:48",
+      "score": null,
+      "desc": "Mohammed Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "07:43",
+      "score": null,
+      "desc": "Robinson 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:42",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "07:40",
+      "score": null,
+      "desc": "Gibson Foul: Personal (3 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "07:40",
+      "score": null,
+      "desc": "Gibson Substitution replaced by Noah"
+    },
+    {
+      "team": "away",
+      "clock": "07:29",
+      "score": null,
+      "desc": "Nene Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:27",
+      "score": null,
+      "desc": "Deng Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "07:17",
+      "score": null,
+      "desc": "Belinelli 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:15",
+      "score": null,
+      "desc": "Mohammed Rebound (Off:2 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "07:13",
+      "score": null,
+      "desc": "Mohammed Putback Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:12",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "07:07",
+      "score": "[WAS 31-30]",
+      "desc": "Martin 3pt Shot: Made (3 PTS) Assist: Temple (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:47",
+      "score": null,
+      "desc": "Seraphin Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "06:47",
+      "score": null,
+      "desc": "Noah Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:47",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "06:47",
+      "score": null,
+      "desc": "Deng Substitution replaced by Butler"
+    },
+    {
+      "team": "away",
+      "clock": "06:47",
+      "score": null,
+      "desc": "Mack Substitution replaced by Beal"
+    },
+    {
+      "team": "home",
+      "clock": "06:47",
+      "score": "[CHI 31-31]",
+      "desc": "Noah Free Throw 2 of 2 (1 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:30",
+      "score": null,
+      "desc": "Nene Turnover : Bad Pass (1 TO) Steal:Robinson (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:27",
+      "score": "[CHI 33-31]",
+      "desc": "Belinelli Running Slam Dunk Shot: Made (6 PTS) Assist: Noah (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:00",
+      "score": null,
+      "desc": "Seraphin Turnaround Fadeaway shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:58",
+      "score": null,
+      "desc": "Mohammed Rebound (Off:2 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "05:41",
+      "score": null,
+      "desc": "Noah Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:40",
+      "score": null,
+      "desc": "Temple Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "05:38",
+      "score": null,
+      "desc": "Robinson Foul: Personal (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "05:38",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "05:38",
+      "score": null,
+      "desc": "Mohammed Substitution replaced by Boozer"
+    },
+    {
+      "team": "away",
+      "clock": "05:38",
+      "score": null,
+      "desc": "Seraphin Substitution replaced by Okafor"
+    },
+    {
+      "team": "away",
+      "clock": "05:38",
+      "score": "[WAS 32-33]",
+      "desc": "Temple Free Throw 1 of 2 (1 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:38",
+      "score": "[WAS 33-33]",
+      "desc": "Temple Free Throw 2 of 2 (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:21",
+      "score": "[CHI 35-33]",
+      "desc": "Boozer Jump Shot: Made (2 PTS) Assist: Robinson (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:52",
+      "score": null,
+      "desc": "Martin Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:51",
+      "score": null,
+      "desc": "Beal Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "04:49",
+      "score": null,
+      "desc": "Beal Putback Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:48",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "04:37",
+      "score": null,
+      "desc": "Belinelli Running Layup Shot: Missed Block: Okafor (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "04:37",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "04:37",
+      "score": null,
+      "desc": "Martin Substitution replaced by Webster"
+    },
+    {
+      "team": "home",
+      "clock": "04:30",
+      "score": "[CHI 38-33]",
+      "desc": "Robinson 3pt Shot: Made (5 PTS) Assist: Belinelli (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:10",
+      "score": null,
+      "desc": "Temple 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:09",
+      "score": null,
+      "desc": "Temple Rebound (Off:2 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "04:01",
+      "score": null,
+      "desc": "Okafor Turnover : Out of Bounds Lost Ball Turnover (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "03:49",
+      "score": null,
+      "desc": "Temple Foul: Personal (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "03:49",
+      "score": null,
+      "desc": "Nene Substitution replaced by Seraphin"
+    },
+    {
+      "team": "home",
+      "clock": "03:44",
+      "score": null,
+      "desc": "Belinelli Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:43",
+      "score": null,
+      "desc": "Okafor Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "03:39",
+      "score": null,
+      "desc": "Belinelli Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "03:39",
+      "score": "[WAS 34-38]",
+      "desc": "Beal Free Throw 1 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:39",
+      "score": "[WAS 35-38]",
+      "desc": "Beal Free Throw 2 of 2 (8 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:29",
+      "score": null,
+      "desc": "Boozer Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:28",
+      "score": null,
+      "desc": "Noah Rebound (Off:3 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "03:27",
+      "score": "[CHI 40-35]",
+      "desc": "Noah Putback Dunk Shot: Made (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:05",
+      "score": null,
+      "desc": "Seraphin Turnaround Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:04",
+      "score": null,
+      "desc": "Okafor Rebound (Off:2 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "03:04",
+      "score": null,
+      "desc": "Okafor Tip Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:02",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "02:58",
+      "score": null,
+      "desc": "Robinson 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:55",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "02:55",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "02:55",
+      "score": null,
+      "desc": "Robinson Substitution replaced by Hinrich"
+    },
+    {
+      "team": "home",
+      "clock": "02:55",
+      "score": null,
+      "desc": "Butler Substitution replaced by Deng"
+    },
+    {
+      "team": "away",
+      "clock": "02:33",
+      "score": null,
+      "desc": "Okafor Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:32",
+      "score": null,
+      "desc": "Noah Rebound (Off:3 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "02:11",
+      "score": null,
+      "desc": "Belinelli Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:09",
+      "score": null,
+      "desc": "Beal Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "01:58",
+      "score": null,
+      "desc": "Seraphin Turnaround Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:57",
+      "score": null,
+      "desc": "Noah Rebound (Off:3 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "01:47",
+      "score": "[CHI 42-35]",
+      "desc": "Noah Running Layup Shot: Made (5 PTS) Assist: Boozer (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:29",
+      "score": "[WAS 37-42]",
+      "desc": "Seraphin Pullup Jump shot: Made (10 PTS) Assist: Temple (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:10",
+      "score": null,
+      "desc": "Deng Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:08",
+      "score": null,
+      "desc": "Temple Rebound (Off:2 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "01:02",
+      "score": null,
+      "desc": "Beal Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:01",
+      "score": null,
+      "desc": "Deng Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "00:50.3",
+      "score": null,
+      "desc": "Seraphin Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:50.3",
+      "score": null,
+      "desc": "Boozer Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:50.3",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "00:50.3",
+      "score": null,
+      "desc": "Temple Substitution replaced by Mack"
+    },
+    {
+      "team": "away",
+      "clock": "00:50.3",
+      "score": null,
+      "desc": "Seraphin Substitution replaced by Vesely"
+    },
+    {
+      "team": "home",
+      "clock": "00:50.3",
+      "score": null,
+      "desc": "Boozer Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:50.2",
+      "score": null,
+      "desc": "Okafor Rebound (Off:2 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "00:37.0",
+      "score": null,
+      "desc": "Okafor Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "00:37.0",
+      "score": null,
+      "desc": "Okafor Turnover : Foul (2 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "00:22.8",
+      "score": "[CHI 44-37]",
+      "desc": "Boozer Driving Layup Shot: Made (4 PTS) Assist: Noah (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:22.8",
+      "score": null,
+      "desc": "Vesely Foul: Shooting (2 PF) (1 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:22.8",
+      "score": "[CHI 45-37]",
+      "desc": "Boozer Free Throw 1 of 1 (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:04.9",
+      "score": null,
+      "desc": "Beal Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:03.6",
+      "score": null,
+      "desc": "Okafor Rebound (Off:3 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.1",
+      "score": "[WAS 39-45]",
+      "desc": "Mack Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 2nd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 3rd QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:36",
+      "score": null,
+      "desc": "Deng Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:35",
+      "score": null,
+      "desc": "Deng Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "11:35",
+      "score": "[CHI 47-39]",
+      "desc": "Deng Putback Layup Shot: Made (11 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "11:11",
+      "score": "[WAS 41-47]",
+      "desc": "Temple Jump Shot: Made (4 PTS) Assist: Nene (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:53",
+      "score": null,
+      "desc": "Nene Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "10:53",
+      "score": "[CHI 48-41]",
+      "desc": "Boozer Free Throw 1 of 2 (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:53",
+      "score": "[CHI 49-41]",
+      "desc": "Boozer Free Throw 2 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:43",
+      "score": null,
+      "desc": "Temple Turnover : Bad Pass (2 TO) Steal:Boozer (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "10:40",
+      "score": "[CHI 51-41]",
+      "desc": "Boozer Running Layup Shot: Made (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:25",
+      "score": null,
+      "desc": "Noah Foul: Personal (3 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "10:09",
+      "score": "[WAS 43-51]",
+      "desc": "Temple Jump Shot: Made (6 PTS) Assist: Nene (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:48",
+      "score": "[CHI 54-43]",
+      "desc": "Hamilton 3pt Shot: Made (7 PTS) Assist: Noah (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:32",
+      "score": null,
+      "desc": "Beal Turnover : Out of Bounds Lost Ball Turnover (2 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "09:17",
+      "score": "[CHI 56-43]",
+      "desc": "Noah Jump Shot: Made (7 PTS) Assist: Deng (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:17",
+      "score": null,
+      "desc": "Okafor Foul: Shooting (2 PF) (1 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "09:17",
+      "score": null,
+      "desc": "Boozer Turnover : Lane Violation (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "09:02",
+      "score": null,
+      "desc": "Beal Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:01",
+      "score": null,
+      "desc": "Noah Rebound (Off:3 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "08:49",
+      "score": null,
+      "desc": "Boozer Turnaround Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:48",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "08:41",
+      "score": null,
+      "desc": "Beal Turnover : Bad Pass (3 TO) Steal:Deng (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:31",
+      "score": null,
+      "desc": "Noah Turnover : Bad Pass (2 TO) Steal:Beal (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:27",
+      "score": null,
+      "desc": "Hinrich Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "08:27",
+      "score": "[WAS 44-56]",
+      "desc": "Beal Free Throw 1 of 2 (9 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:27",
+      "score": "[WAS 45-56]",
+      "desc": "Beal Free Throw 2 of 2 (10 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:13",
+      "score": "[CHI 58-45]",
+      "desc": "Hamilton Jump Shot: Made (9 PTS) Assist: Hinrich (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:02",
+      "score": null,
+      "desc": "Nene Turnover : Traveling (2 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "08:02",
+      "score": null,
+      "desc": "Beal Substitution replaced by Mack"
+    },
+    {
+      "team": "home",
+      "clock": "07:50",
+      "score": null,
+      "desc": "Hamilton Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:48",
+      "score": null,
+      "desc": "Okafor Rebound (Off:3 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "07:39",
+      "score": "[WAS 47-58]",
+      "desc": "Okafor Jump Shot: Made (4 PTS) Assist: Mack (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:18",
+      "score": null,
+      "desc": "Noah Driving Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:16",
+      "score": null,
+      "desc": "Webster Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "07:05",
+      "score": null,
+      "desc": "Nene Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:03",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "06:53",
+      "score": null,
+      "desc": "Okafor Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "06:53",
+      "score": "[CHI 59-47]",
+      "desc": "Boozer Free Throw 1 of 2 (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:53",
+      "score": null,
+      "desc": "Nene Substitution replaced by Seraphin"
+    },
+    {
+      "team": "home",
+      "clock": "06:53",
+      "score": "[CHI 60-47]",
+      "desc": "Boozer Free Throw 2 of 2 (11 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:36",
+      "score": "[WAS 49-60]",
+      "desc": "Temple Jump Shot: Made (8 PTS) Assist: Webster (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:18",
+      "score": null,
+      "desc": "Hinrich 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:17",
+      "score": null,
+      "desc": "Okafor Rebound (Off:3 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "06:09",
+      "score": "[WAS 52-60]",
+      "desc": "Webster 3pt Shot: Made (7 PTS) Assist: Okafor (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:46",
+      "score": null,
+      "desc": "Hamilton 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:45",
+      "score": null,
+      "desc": "Okafor Rebound (Off:3 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "05:37",
+      "score": "[WAS 54-60]",
+      "desc": "Mack Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:15",
+      "score": null,
+      "desc": "Boozer Driving Layup Shot: Missed Block: Okafor (2 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "05:14",
+      "score": null,
+      "desc": "Seraphin Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "05:02",
+      "score": null,
+      "desc": "Okafor Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:01",
+      "score": null,
+      "desc": "Noah Rebound (Off:3 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "04:47",
+      "score": null,
+      "desc": "Deng Layup Shot: Missed Block: Seraphin (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "04:45",
+      "score": null,
+      "desc": "Webster Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "04:40",
+      "score": null,
+      "desc": "Webster Running Layup Shot: Missed Block: Hinrich (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "04:40",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "04:40",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "04:40",
+      "score": null,
+      "desc": "Hamilton Substitution replaced by Belinelli"
+    },
+    {
+      "team": "away",
+      "clock": "04:37",
+      "score": null,
+      "desc": "Temple Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:36",
+      "score": null,
+      "desc": "Seraphin Rebound (Off:2 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "04:29",
+      "score": null,
+      "desc": "Webster Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:28",
+      "score": null,
+      "desc": "Okafor Rebound (Off:4 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "04:16",
+      "score": "[WAS 56-60]",
+      "desc": "Okafor Jump Shot: Made (6 PTS) Assist: Mack (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:53",
+      "score": null,
+      "desc": "Boozer Layup Shot: Missed Block: Temple (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "03:51",
+      "score": null,
+      "desc": "Okafor Rebound (Off:4 Def:7)"
+    },
+    {
+      "team": "away",
+      "clock": "03:36",
+      "score": "[WAS 58-60]",
+      "desc": "Okafor Jump Shot: Made (8 PTS) Assist: Mack (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:35",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "home",
+      "clock": "03:35",
+      "score": null,
+      "desc": "Boozer Substitution replaced by Gibson"
+    },
+    {
+      "team": "home",
+      "clock": "03:18",
+      "score": null,
+      "desc": "Deng Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:17",
+      "score": null,
+      "desc": "Noah Rebound (Off:4 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "03:17",
+      "score": "[CHI 62-58]",
+      "desc": "Noah Tip Shot: Made (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:06",
+      "score": null,
+      "desc": "Belinelli Foul: Personal (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "03:00",
+      "score": null,
+      "desc": "Mack Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:59",
+      "score": null,
+      "desc": "Hinrich Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "02:47",
+      "score": "[CHI 65-58]",
+      "desc": "Hinrich 3pt Shot: Made (10 PTS) Assist: Gibson (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "02:33",
+      "score": null,
+      "desc": "Seraphin Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:31",
+      "score": null,
+      "desc": "Deng Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "02:19",
+      "score": null,
+      "desc": "Deng Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:18",
+      "score": null,
+      "desc": "Okafor Rebound (Off:4 Def:8)"
+    },
+    {
+      "team": "away",
+      "clock": "02:03",
+      "score": null,
+      "desc": "Seraphin Turnover : Bad Pass (1 TO) Steal:Hinrich (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:00",
+      "score": "[CHI 67-58]",
+      "desc": "Belinelli Running Slam Dunk Shot: Made (8 PTS) Assist: Hinrich (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:59",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "01:43",
+      "score": "[WAS 61-67]",
+      "desc": "Webster 3pt Shot: Made (10 PTS) Assist: Seraphin (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:27",
+      "score": "[CHI 69-61]",
+      "desc": "Gibson Jump Shot: Made (6 PTS) Assist: Belinelli (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:05",
+      "score": null,
+      "desc": "Okafor Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:04",
+      "score": null,
+      "desc": "Gibson Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "00:48.0",
+      "score": null,
+      "desc": "Temple Foul: Personal (3 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "00:48.0",
+      "score": null,
+      "desc": "Webster Substitution replaced by Beal"
+    },
+    {
+      "team": "away",
+      "clock": "00:48.0",
+      "score": null,
+      "desc": "Okafor Substitution replaced by Martin"
+    },
+    {
+      "team": "away",
+      "clock": "00:48.0",
+      "score": null,
+      "desc": "Temple Substitution replaced by Vesely"
+    },
+    {
+      "team": "home",
+      "clock": "00:34.0",
+      "score": null,
+      "desc": "Team Turnover : Shot Clock Turnover"
+    },
+    {
+      "team": "away",
+      "clock": "00:25.9",
+      "score": null,
+      "desc": "Martin Foul: Offensive (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "00:25.9",
+      "score": null,
+      "desc": "Martin Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "00:06.8",
+      "score": null,
+      "desc": "Beal Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:06.8",
+      "score": null,
+      "desc": "Belinelli Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:06.8",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "00:06.8",
+      "score": null,
+      "desc": "Hinrich Substitution replaced by Teague"
+    },
+    {
+      "team": "home",
+      "clock": "00:06.8",
+      "score": "[CHI 70-61]",
+      "desc": "Belinelli Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:04.0",
+      "score": null,
+      "desc": "Teague Foul: Personal Take (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.1",
+      "score": "[WAS 63-70]",
+      "desc": "Mack Running Jump Shot: Made (6 PTS)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 3rd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 4th QuarterBack to Top"
+    },
+    {
+      "team": "away",
+      "clock": "11:46",
+      "score": "[WAS 65-70]",
+      "desc": "Beal Floating Jump shot: Made (12 PTS) Assist: Mack (5 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:33",
+      "score": "[CHI 72-65]",
+      "desc": "Belinelli Jump Shot: Made (11 PTS) Assist: Deng (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:20",
+      "score": null,
+      "desc": "Robinson Foul: Personal (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "11:20",
+      "score": null,
+      "desc": "Vesely Substitution replaced by Nene"
+    },
+    {
+      "team": "away",
+      "clock": "11:08",
+      "score": null,
+      "desc": "Martin Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:07",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "11:01",
+      "score": null,
+      "desc": "Belinelli Foul: Personal (3 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "10:58",
+      "score": null,
+      "desc": "Mack Driving Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:57",
+      "score": null,
+      "desc": "Seraphin Rebound (Off:3 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "10:55",
+      "score": "[WAS 67-72]",
+      "desc": "Seraphin Putback Dunk Shot: Made (12 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:39",
+      "score": null,
+      "desc": "Gibson Floating Jump shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Mohammed Rebound (Off:3 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "10:36",
+      "score": null,
+      "desc": "Mohammed Putback Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:34",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "10:24",
+      "score": null,
+      "desc": "Seraphin Turnover : Lost Ball (2 TO) Steal:Mohammed (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "10:15",
+      "score": null,
+      "desc": "Robinson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:14",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "10:08",
+      "score": "[WAS 69-72]",
+      "desc": "Beal Layup Shot: Made (14 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:07",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "09:56",
+      "score": null,
+      "desc": "Robinson Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:55",
+      "score": null,
+      "desc": "Mohammed Rebound (Off:4 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "09:36",
+      "score": "[CHI 74-69]",
+      "desc": "Robinson Driving Layup Shot: Made (7 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:23",
+      "score": null,
+      "desc": "Mohammed Foul: Personal (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "09:23",
+      "score": null,
+      "desc": "Seraphin Substitution replaced by Okafor"
+    },
+    {
+      "team": "away",
+      "clock": "09:10",
+      "score": null,
+      "desc": "Nene Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:09",
+      "score": null,
+      "desc": "Belinelli Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "09:02",
+      "score": "[CHI 77-69]",
+      "desc": "Belinelli 3pt Shot: Made (14 PTS) Assist: Robinson (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:02",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "09:02",
+      "score": null,
+      "desc": "Mack Substitution replaced by Temple"
+    },
+    {
+      "team": "away",
+      "clock": "09:02",
+      "score": null,
+      "desc": "Martin Substitution replaced by Webster"
+    },
+    {
+      "team": "home",
+      "clock": "08:53",
+      "score": null,
+      "desc": "Mohammed Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "08:53",
+      "score": null,
+      "desc": "Nene Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:53",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "08:53",
+      "score": "[WAS 70-77]",
+      "desc": "Nene Free Throw 2 of 2 (7 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:37",
+      "score": null,
+      "desc": "Gibson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:36",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "08:30",
+      "score": null,
+      "desc": "Deng Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "08:30",
+      "score": null,
+      "desc": "Okafor Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:30",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "08:30",
+      "score": null,
+      "desc": "Mohammed Substitution replaced by Noah"
+    },
+    {
+      "team": "away",
+      "clock": "08:30",
+      "score": "[WAS 71-77]",
+      "desc": "Okafor Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:10",
+      "score": null,
+      "desc": "Gibson Turnover : 3 Second Violation (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "07:54",
+      "score": null,
+      "desc": "Beal Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:53",
+      "score": null,
+      "desc": "Noah Rebound (Off:4 Def:6)"
+    },
+    {
+      "team": "home",
+      "clock": "07:34",
+      "score": null,
+      "desc": "Belinelli Driving Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:33",
+      "score": null,
+      "desc": "Okafor Rebound (Off:4 Def:9)"
+    },
+    {
+      "team": "away",
+      "clock": "07:24",
+      "score": null,
+      "desc": "Nene Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:23",
+      "score": null,
+      "desc": "Noah Rebound (Off:4 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "07:16",
+      "score": null,
+      "desc": "Deng 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:15",
+      "score": null,
+      "desc": "Okafor Rebound (Off:4 Def:10)"
+    },
+    {
+      "team": "away",
+      "clock": "07:09",
+      "score": null,
+      "desc": "Temple Turnover : Bad Pass (3 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "06:49",
+      "score": null,
+      "desc": "Gibson Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:48",
+      "score": null,
+      "desc": "Okafor Rebound (Off:4 Def:11)"
+    },
+    {
+      "team": "away",
+      "clock": "06:41",
+      "score": "[WAS 73-77]",
+      "desc": "Nene Layup Shot: Made (9 PTS) Assist: Temple (5 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:41",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "06:41",
+      "score": null,
+      "desc": "Deng Substitution replaced by Boozer"
+    },
+    {
+      "team": "home",
+      "clock": "06:41",
+      "score": null,
+      "desc": "Gibson Substitution replaced by Butler"
+    },
+    {
+      "team": "home",
+      "clock": "06:41",
+      "score": null,
+      "desc": "Robinson Substitution replaced by Hinrich"
+    },
+    {
+      "team": "away",
+      "clock": "06:41",
+      "score": null,
+      "desc": "Beal Substitution replaced by Mack"
+    },
+    {
+      "team": "home",
+      "clock": "06:28",
+      "score": null,
+      "desc": "Butler 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:27",
+      "score": null,
+      "desc": "Nene Rebound (Off:1 Def:8)"
+    },
+    {
+      "team": "away",
+      "clock": "06:10",
+      "score": null,
+      "desc": "Temple Running Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:09",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "05:52",
+      "score": "[CHI 79-73]",
+      "desc": "Boozer Jump Shot: Made (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:27",
+      "score": null,
+      "desc": "Mack Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:26",
+      "score": null,
+      "desc": "Okafor Rebound (Off:5 Def:11)"
+    },
+    {
+      "team": "home",
+      "clock": "05:22",
+      "score": null,
+      "desc": "Hinrich Foul: Personal (4 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "05:22",
+      "score": "[WAS 74-79]",
+      "desc": "Mack Free Throw 1 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:22",
+      "score": null,
+      "desc": "Mack Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:19",
+      "score": null,
+      "desc": "Okafor Rebound (Off:6 Def:11)"
+    },
+    {
+      "team": "away",
+      "clock": "05:19",
+      "score": "[WAS 76-79]",
+      "desc": "Okafor Tip Shot: Made (11 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:05",
+      "score": "[CHI 82-76]",
+      "desc": "Belinelli 3pt Shot: Made (17 PTS) Assist: Hinrich (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:47",
+      "score": null,
+      "desc": "Noah Foul: Shooting (4 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "04:47",
+      "score": "[WAS 77-82]",
+      "desc": "Nene Free Throw 1 of 2 (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:47",
+      "score": null,
+      "desc": "Nene Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:46",
+      "score": null,
+      "desc": "Hinrich Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "04:27",
+      "score": null,
+      "desc": "Boozer Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:25",
+      "score": null,
+      "desc": "Butler Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "04:23",
+      "score": null,
+      "desc": "Boozer Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:21",
+      "score": null,
+      "desc": "Temple Rebound (Off:2 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "04:11",
+      "score": null,
+      "desc": "Nene Driving Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:10",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:8)"
+    },
+    {
+      "team": "home",
+      "clock": "03:53",
+      "score": "[CHI 84-77]",
+      "desc": "Boozer Pullup Jump shot: Made (15 PTS) Assist: Noah (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:52",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "03:52",
+      "score": null,
+      "desc": "Nene Substitution replaced by Seraphin"
+    },
+    {
+      "team": "away",
+      "clock": "03:52",
+      "score": null,
+      "desc": "Mack Substitution replaced by Beal"
+    },
+    {
+      "team": "away",
+      "clock": "03:43",
+      "score": null,
+      "desc": "Temple Turnover : Backcourt Turnover (4 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "03:33",
+      "score": null,
+      "desc": "Belinelli Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "03:13",
+      "score": null,
+      "desc": "Seraphin Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:12",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "03:12",
+      "score": null,
+      "desc": "Jump Ball Noah vs Okafor (Webster gains possession)"
+    },
+    {
+      "team": "away",
+      "clock": "02:58",
+      "score": null,
+      "desc": "Temple Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:57",
+      "score": null,
+      "desc": "Belinelli Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "02:42",
+      "score": null,
+      "desc": "Belinelli Driving Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:41",
+      "score": null,
+      "desc": "Beal Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "02:36",
+      "score": null,
+      "desc": "Webster Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:35",
+      "score": null,
+      "desc": "Temple Rebound (Off:3 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "02:32",
+      "score": null,
+      "desc": "Seraphin Turnover : Offensive Goaltending (3 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "02:14",
+      "score": "[CHI 86-77]",
+      "desc": "Butler Jump Shot: Made (2 PTS) Assist: Hinrich (7 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:57",
+      "score": null,
+      "desc": "Okafor Jump Shot: Missed Block: Boozer (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "01:55",
+      "score": null,
+      "desc": "Hinrich Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "01:40",
+      "score": null,
+      "desc": "Boozer Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:39",
+      "score": null,
+      "desc": "Okafor Rebound (Off:6 Def:12)"
+    },
+    {
+      "team": "away",
+      "clock": "01:33",
+      "score": null,
+      "desc": "Webster 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:32",
+      "score": null,
+      "desc": "Hinrich Rebound (Off:0 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "01:10",
+      "score": null,
+      "desc": "Seraphin Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:10",
+      "score": null,
+      "desc": "Butler Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:10",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "01:10",
+      "score": "[CHI 87-77]",
+      "desc": "Butler Free Throw 2 of 2 (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:10",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "01:03",
+      "score": null,
+      "desc": "Beal 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:02",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:9)"
+    },
+    {
+      "team": "home",
+      "clock": "00:46.9",
+      "score": null,
+      "desc": "Noah Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:45.9",
+      "score": null,
+      "desc": "Temple Rebound (Off:3 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "00:37.9",
+      "score": null,
+      "desc": "Temple Running Layup Shot: Missed Block: Noah (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "00:35.9",
+      "score": null,
+      "desc": "Hinrich Rebound (Off:0 Def:6)"
+    },
+    {
+      "team": "home",
+      "clock": "00:24.7",
+      "score": null,
+      "desc": "Butler Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "00:24.7",
+      "score": null,
+      "desc": "Butler Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "00:16.9",
+      "score": null,
+      "desc": "Beal 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:15.3",
+      "score": null,
+      "desc": "Boozer Rebound (Off:2 Def:10)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 4th Quarter"
+    }
+  ],
+  "away_abbr": "WAS",
+  "city": "Chicago, IL",
+  "datetime": "2012-12-29T20:00:00",
+  "home_abbr": "CHI"
+}

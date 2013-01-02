@@ -1,0 +1,3184 @@
+{
+  "arena": "Barclays Center",
+  "box_score": {
+    "home": [
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-2",
+        "minutes_played": "19:14",
+        "field_goals": "1-3",
+        "plus_minus": 5,
+        "points": 3,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/keith_bogans/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "K. Bogans",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "G-F",
+        "assists": 1,
+        "personal_fouls": 1,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-2",
+        "minutes_played": "37:04",
+        "field_goals": "1-6",
+        "plus_minus": -2,
+        "points": 7,
+        "free_throws": "5-8",
+        "player_url": "/playerfile/gerald_wallace/index.html",
+        "defensive_rebounds": 8,
+        "total_rebounds": 10,
+        "player_abbr": "G. Wallace",
+        "steals": 2,
+        "offensive_rebounds": 2,
+        "position": "F",
+        "assists": 3,
+        "personal_fouls": 1,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "35:35",
+        "field_goals": "13-20",
+        "plus_minus": 15,
+        "points": 35,
+        "free_throws": "9-11",
+        "player_url": "/playerfile/brook_lopez/index.html",
+        "defensive_rebounds": 6,
+        "total_rebounds": 11,
+        "player_abbr": "B. Lopez",
+        "steals": 0,
+        "offensive_rebounds": 5,
+        "position": "C",
+        "assists": 1,
+        "personal_fouls": 5,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-4",
+        "minutes_played": "41:22",
+        "field_goals": "6-13",
+        "plus_minus": 14,
+        "points": 15,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/joe_johnson/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 2,
+        "player_abbr": "J. Johnson",
+        "steals": 3,
+        "offensive_rebounds": 1,
+        "position": "G",
+        "assists": 2,
+        "personal_fouls": 1,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-3",
+        "minutes_played": "39:58",
+        "field_goals": "5-12",
+        "plus_minus": 5,
+        "points": 15,
+        "free_throws": "5-6",
+        "player_url": "/playerfile/deron_williams/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 4,
+        "player_abbr": "D. Williams",
+        "steals": 2,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 7,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "21:42",
+        "field_goals": "1-5",
+        "plus_minus": -8,
+        "points": 7,
+        "free_throws": "5-6",
+        "player_url": "/playerfile/reggie_evans/index.html",
+        "defensive_rebounds": 7,
+        "total_rebounds": 10,
+        "player_abbr": "R. Evans",
+        "steals": 3,
+        "offensive_rebounds": 3,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 3,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-2",
+        "minutes_played": "17:49",
+        "field_goals": "3-5",
+        "plus_minus": -7,
+        "points": 8,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/jerry_stackhouse/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "J. Stackhouse",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "1-1",
+        "minutes_played": "11:49",
+        "field_goals": "2-5",
+        "plus_minus": -10,
+        "points": 7,
+        "free_throws": "2-4",
+        "player_url": "/playerfile/andray_blatche/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 1,
+        "player_abbr": "A. Blatche",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-1",
+        "minutes_played": "08:58",
+        "field_goals": "1-2",
+        "plus_minus": -1,
+        "points": 2,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/cj_watson/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "C. Watson",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 1,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "06:29",
+        "field_goals": "2-4",
+        "plus_minus": 4,
+        "points": 4,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/marshon_brooks/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "M. Brooks",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/tornike_shengelia/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "T. Shengelia",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/tyshawn_taylor/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "T. Taylor",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/mirza_teletovic/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "M. Teletovic",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ],
+    "away": [
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-1",
+        "minutes_played": "32:04",
+        "field_goals": "4-9",
+        "plus_minus": -7,
+        "points": 10,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/alonzo_gee/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 4,
+        "player_abbr": "A. Gee",
+        "steals": 3,
+        "offensive_rebounds": 0,
+        "position": "F",
+        "assists": 1,
+        "personal_fouls": 1,
+        "turnovers": 4
+      },
+      {
+        "blocked_shots": 2,
+        "three_pointers": "0-0",
+        "minutes_played": "36:04",
+        "field_goals": "5-11",
+        "plus_minus": 8,
+        "points": 17,
+        "free_throws": "7-8",
+        "player_url": "/playerfile/tristan_t_thompson/index.html",
+        "defensive_rebounds": 6,
+        "total_rebounds": 15,
+        "player_abbr": "T. Thompson",
+        "steals": 0,
+        "offensive_rebounds": 9,
+        "position": "F",
+        "assists": 1,
+        "personal_fouls": 4,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "27:25",
+        "field_goals": "6-14",
+        "plus_minus": -20,
+        "points": 12,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/tyler_zeller/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 7,
+        "player_abbr": "T. Zeller",
+        "steals": 0,
+        "offensive_rebounds": 4,
+        "position": "C-F",
+        "assists": 1,
+        "personal_fouls": 6,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-1",
+        "minutes_played": "32:24",
+        "field_goals": "2-8",
+        "plus_minus": -9,
+        "points": 5,
+        "free_throws": "1-2",
+        "player_url": "/playerfile/dion_waiters/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 2,
+        "player_abbr": "D. Waiters",
+        "steals": 3,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 4,
+        "personal_fouls": 1,
+        "turnovers": 4
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-6",
+        "minutes_played": "34:54",
+        "field_goals": "5-16",
+        "plus_minus": -1,
+        "points": 13,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/kyrie_irving/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 4,
+        "player_abbr": "K. Irving",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 7,
+        "personal_fouls": 3,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-2",
+        "minutes_played": "29:50",
+        "field_goals": "2-4",
+        "plus_minus": 9,
+        "points": 4,
+        "free_throws": "0-2",
+        "player_url": "/playerfile/luke_walton/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 4,
+        "player_abbr": "L. Walton",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 6,
+        "personal_fouls": 3,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "8-10",
+        "minutes_played": "34:13",
+        "field_goals": "11-15",
+        "plus_minus": 7,
+        "points": 33,
+        "free_throws": "3-3",
+        "player_url": "/playerfile/cj_miles/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 2,
+        "player_abbr": "C. Miles",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 5,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "13:06",
+        "field_goals": "3-5",
+        "plus_minus": -2,
+        "points": 6,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jeremy_pargo/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 2,
+        "player_abbr": "J. Pargo",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 1,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/omri_casspi/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "O. Casspi",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/kevin_jones/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "K. Jones",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jon_leuer/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "J. Leuer",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/shaun_livingston/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "S. Livingston",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ]
+  },
+  "plays": [
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "(12:00) Jump Ball Lopez vs Zeller (Gee gains possession)"
+    },
+    {
+      "team": "away",
+      "clock": "11:42",
+      "score": "[CLE 2-0]",
+      "desc": "Gee Jump Shot: Made (2 PTS) Assist: Zeller (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "11:26",
+      "score": null,
+      "desc": "Waiters Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "11:26",
+      "score": null,
+      "desc": "Wallace Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:26",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "11:26",
+      "score": null,
+      "desc": "Wallace Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:25",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "11:04",
+      "score": null,
+      "desc": "Gee Turnover : Bad Pass (1 TO) Steal:Bogans (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "11:00",
+      "score": null,
+      "desc": "Bogans Turnover : Lost Ball (1 TO) Steal:Waiters (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:43",
+      "score": null,
+      "desc": "Zeller Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:42",
+      "score": null,
+      "desc": "Bogans Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "10:24",
+      "score": null,
+      "desc": "Lopez Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:23",
+      "score": null,
+      "desc": "Thompson Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "10:10",
+      "score": null,
+      "desc": "Thompson Hook Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:09",
+      "score": null,
+      "desc": "Lopez Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "10:03",
+      "score": null,
+      "desc": "Wallace Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:00",
+      "score": null,
+      "desc": "Thompson Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "09:49",
+      "score": "[CLE 4-0]",
+      "desc": "Waiters Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:34",
+      "score": "[BKN 2-4]",
+      "desc": "Johnson Jump Shot: Made (2 PTS) Assist: Williams (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:13",
+      "score": null,
+      "desc": "Thompson Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:12",
+      "score": null,
+      "desc": "Thompson Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "09:11",
+      "score": null,
+      "desc": "Thompson Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "08:47",
+      "score": "[BKN 4-4]",
+      "desc": "Lopez Jump Shot: Made (2 PTS) Assist: Williams (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:32",
+      "score": "[CLE 6-4]",
+      "desc": "Zeller Jump Shot: Made (2 PTS) Assist: Waiters (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:08",
+      "score": null,
+      "desc": "Johnson 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:07",
+      "score": null,
+      "desc": "Lopez Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "08:06",
+      "score": "[BKN 6-6]",
+      "desc": "Lopez Putback Layup Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:52",
+      "score": null,
+      "desc": "Gee Turnover : Bad Pass (2 TO) Steal:Johnson (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:46",
+      "score": "[BKN 9-6]",
+      "desc": "Bogans 3pt Shot: Made (3 PTS) Assist: Johnson (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:20",
+      "score": null,
+      "desc": "Zeller Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:18",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "07:08",
+      "score": "[BKN 11-6]",
+      "desc": "Lopez Hook Shot: Made (6 PTS) Assist: Wallace (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:52",
+      "score": "[CLE 8-11]",
+      "desc": "Irving Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:35",
+      "score": "[BKN 13-8]",
+      "desc": "Lopez Reverse Layup Shot: Made (8 PTS) Assist: Bogans (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:15",
+      "score": null,
+      "desc": "Bogans Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "06:15",
+      "score": "[CLE 9-13]",
+      "desc": "Waiters Free Throw 1 of 2 (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:15",
+      "score": null,
+      "desc": "Waiters Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:14",
+      "score": null,
+      "desc": "Wallace Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "05:52",
+      "score": null,
+      "desc": "Bogans Turnover : Bad Pass (2 TO) Steal:Gee (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:46",
+      "score": null,
+      "desc": "Gee Alley Oop Layup shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:44",
+      "score": null,
+      "desc": "Thompson Rebound (Off:2 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "05:43",
+      "score": "[CLE 11-13]",
+      "desc": "Thompson Putback Dunk Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:38",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "05:38",
+      "score": null,
+      "desc": "Thompson Substitution replaced by Walton"
+    },
+    {
+      "team": "home",
+      "clock": "05:30",
+      "score": "[BKN 15-11]",
+      "desc": "Johnson Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:15",
+      "score": "[CLE 13-15]",
+      "desc": "Irving Step Back Jump shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:57",
+      "score": null,
+      "desc": "Bogans Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:56",
+      "score": null,
+      "desc": "Wallace Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "04:55",
+      "score": null,
+      "desc": "Wallace Putback Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:54",
+      "score": null,
+      "desc": "Lopez Rebound (Off:2 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "04:52",
+      "score": "[BKN 17-13]",
+      "desc": "Lopez Dunk Shot: Made (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:36",
+      "score": null,
+      "desc": "Waiters Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:35",
+      "score": null,
+      "desc": "Lopez Rebound (Off:2 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "04:28",
+      "score": "[BKN 19-13]",
+      "desc": "Lopez Layup Shot: Made (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:28",
+      "score": null,
+      "desc": "Zeller Foul: Shooting (1 PF) (1 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "04:28",
+      "score": null,
+      "desc": "Waiters Substitution replaced by Miles"
+    },
+    {
+      "team": "home",
+      "clock": "04:28",
+      "score": null,
+      "desc": "Wallace Substitution replaced by Evans"
+    },
+    {
+      "team": "home",
+      "clock": "04:28",
+      "score": null,
+      "desc": "Bogans Substitution replaced by Stackhouse"
+    },
+    {
+      "team": "home",
+      "clock": "04:28",
+      "score": "[BKN 20-13]",
+      "desc": "Lopez Free Throw 1 of 1 (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:12",
+      "score": null,
+      "desc": "Irving Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:10",
+      "score": null,
+      "desc": "Johnson Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "04:01",
+      "score": null,
+      "desc": "Williams 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:00",
+      "score": null,
+      "desc": "Johnson Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "03:57",
+      "score": "[BKN 23-13]",
+      "desc": "Stackhouse 3pt Shot: Made (3 PTS) Assist: Johnson (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:46",
+      "score": null,
+      "desc": "Irving Turnover : Out of Bounds Lost Ball Turnover (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "03:32",
+      "score": null,
+      "desc": "Lopez Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "03:32",
+      "score": null,
+      "desc": "Lopez Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "03:19",
+      "score": null,
+      "desc": "Zeller Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:18",
+      "score": null,
+      "desc": "Evans Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "03:10",
+      "score": "[BKN 25-13]",
+      "desc": "Lopez Floating Jump shot: Made (15 PTS) Assist: Williams (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:03",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "03:03",
+      "score": null,
+      "desc": "Johnson Substitution replaced by Bogans"
+    },
+    {
+      "team": "home",
+      "clock": "02:51",
+      "score": null,
+      "desc": "Lopez Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "02:51",
+      "score": null,
+      "desc": "Walton Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:51",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "02:51",
+      "score": null,
+      "desc": "Lopez Substitution replaced by Blatche"
+    },
+    {
+      "team": "away",
+      "clock": "02:51",
+      "score": null,
+      "desc": "Walton Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:50",
+      "score": null,
+      "desc": "Evans Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "02:30",
+      "score": "[BKN 27-13]",
+      "desc": "Blatche Step Back Jump shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:17",
+      "score": null,
+      "desc": "Irving Floating Jump shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:16",
+      "score": null,
+      "desc": "Evans Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "01:56",
+      "score": null,
+      "desc": "Zeller Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:56",
+      "score": null,
+      "desc": "Evans Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:56",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "01:56",
+      "score": null,
+      "desc": "Zeller Substitution replaced by Thompson"
+    },
+    {
+      "team": "home",
+      "clock": "01:56",
+      "score": "[BKN 28-13]",
+      "desc": "Evans Free Throw 2 of 2 (1 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:40",
+      "score": "[CLE 16-28]",
+      "desc": "Miles 3pt Shot: Made (3 PTS) Assist: Irving (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:18",
+      "score": null,
+      "desc": "Walton Foul: Personal (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:18",
+      "score": "[BKN 29-16]",
+      "desc": "Blatche Free Throw 1 of 2 (3 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:18",
+      "score": null,
+      "desc": "Blatche Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:17",
+      "score": null,
+      "desc": "Blatche Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "01:13",
+      "score": null,
+      "desc": "Blatche Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:12",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "01:07",
+      "score": null,
+      "desc": "Williams Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "01:02",
+      "score": "[CLE 19-29]",
+      "desc": "Miles 3pt Shot: Made (6 PTS) Assist: Irving (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:41.8",
+      "score": null,
+      "desc": "Walton Foul: Personal (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:41.8",
+      "score": null,
+      "desc": "Blatche Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:41.8",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "00:41.8",
+      "score": "[BKN 30-19]",
+      "desc": "Blatche Free Throw 2 of 2 (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:30.5",
+      "score": "[CLE 21-30]",
+      "desc": "Gee Driving Layup Shot: Made (4 PTS) Assist: Irving (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:11.9",
+      "score": "[BKN 32-21]",
+      "desc": "Williams Floating Jump shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:04.9",
+      "score": "[CLE 24-32]",
+      "desc": "Miles 3pt Shot: Made (9 PTS) Assist: Walton (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "00:01.4",
+      "score": null,
+      "desc": "Irving Foul: Personal Block (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:01.4",
+      "score": "[BKN 33-24]",
+      "desc": "Williams Free Throw 1 of 2 (3 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:01.4",
+      "score": "[BKN 34-24]",
+      "desc": "Williams Free Throw 2 of 2 (4 PTS)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 2nd QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:40",
+      "score": "[BKN 37-24]",
+      "desc": "Blatche 3pt Shot: Made (7 PTS) Assist: Stackhouse (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "11:13",
+      "score": "[CLE 26-37]",
+      "desc": "Pargo Running Jump Shot: Made (2 PTS) Assist: Thompson (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "10:53",
+      "score": null,
+      "desc": "Evans Jump Shot: Missed Block: Thompson (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "10:51",
+      "score": null,
+      "desc": "Evans Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "10:48",
+      "score": null,
+      "desc": "Evans Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:47",
+      "score": null,
+      "desc": "Thompson Rebound (Off:2 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "10:41",
+      "score": "[CLE 28-37]",
+      "desc": "Miles Jump Shot: Made (11 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:23",
+      "score": null,
+      "desc": "Evans Layup Shot: Missed Block: Thompson (2 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "10:22",
+      "score": null,
+      "desc": "Walton Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "10:09",
+      "score": null,
+      "desc": "Miles 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:08",
+      "score": null,
+      "desc": "Evans Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "09:55",
+      "score": "[BKN 39-28]",
+      "desc": "Stackhouse Turnaround Jump Shot: Made (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:40",
+      "score": null,
+      "desc": "Waiters Turnover : Bad Pass (1 TO) Steal:Evans (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:27",
+      "score": null,
+      "desc": "Johnson Turnover : Lost Ball (1 TO) Steal:Waiters (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:24",
+      "score": "[CLE 30-39]",
+      "desc": "Miles Layup Shot: Made (13 PTS) Assist: Waiters (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:24",
+      "score": null,
+      "desc": "Watson Foul: Shooting (1 PF) (1 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "09:24",
+      "score": "[CLE 31-39]",
+      "desc": "Miles Free Throw 1 of 1 (14 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:15",
+      "score": null,
+      "desc": "Evans Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "09:15",
+      "score": null,
+      "desc": "Evans Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "09:15",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "09:15",
+      "score": null,
+      "desc": "Evans Substitution replaced by Wallace"
+    },
+    {
+      "team": "away",
+      "clock": "09:02",
+      "score": "[CLE 33-39]",
+      "desc": "Miles Driving Dunk Shot: Made (16 PTS) Assist: Waiters (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:41",
+      "score": "[BKN 41-33]",
+      "desc": "Stackhouse Step Back Jump shot: Made (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:22",
+      "score": null,
+      "desc": "Waiters 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:21",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "08:21",
+      "score": null,
+      "desc": "Thompson Foul: Loose Ball (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "08:08",
+      "score": null,
+      "desc": "Stackhouse Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:07",
+      "score": null,
+      "desc": "Pargo Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "08:02",
+      "score": null,
+      "desc": "Pargo Driving Layup Shot: Missed Block: Blatche (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "08:01",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "07:52",
+      "score": "[CLE 35-41]",
+      "desc": "Walton Jump Shot: Made (2 PTS) Assist: Waiters (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:25",
+      "score": "[BKN 43-35]",
+      "desc": "Wallace Reverse Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "07:25",
+      "score": null,
+      "desc": "Team Violation : Delay Of Game"
+    },
+    {
+      "team": "away",
+      "clock": "07:11",
+      "score": null,
+      "desc": "Thompson Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:10",
+      "score": null,
+      "desc": "Wallace Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "07:08",
+      "score": null,
+      "desc": "Wallace Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "07:08",
+      "score": null,
+      "desc": "Stackhouse Substitution replaced by Brooks"
+    },
+    {
+      "team": "away",
+      "clock": "07:02",
+      "score": null,
+      "desc": "Pargo Jump Shot: Missed Block: Watson (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "07:01",
+      "score": null,
+      "desc": "Wallace Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "06:44",
+      "score": null,
+      "desc": "Blatche Turnaround Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:42",
+      "score": null,
+      "desc": "Walton Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "06:35",
+      "score": "[CLE 38-43]",
+      "desc": "Miles 3pt Shot: Made (19 PTS) Assist: Walton (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:15",
+      "score": "[BKN 45-38]",
+      "desc": "Watson Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:58",
+      "score": null,
+      "desc": "Waiters Turnover : Traveling (2 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "05:58",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "away",
+      "clock": "05:58",
+      "score": null,
+      "desc": "Walton Substitution replaced by Gee"
+    },
+    {
+      "team": "home",
+      "clock": "05:58",
+      "score": null,
+      "desc": "Blatche Substitution replaced by Lopez"
+    },
+    {
+      "team": "home",
+      "clock": "05:58",
+      "score": null,
+      "desc": "Watson Substitution replaced by Williams"
+    },
+    {
+      "team": "home",
+      "clock": "05:33",
+      "score": "[BKN 47-38]",
+      "desc": "Johnson Hook Shot: Made (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:17",
+      "score": null,
+      "desc": "Miles Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:16",
+      "score": null,
+      "desc": "Lopez Rebound (Off:2 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "04:59",
+      "score": null,
+      "desc": "Johnson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:58",
+      "score": null,
+      "desc": "Gee Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "04:50",
+      "score": null,
+      "desc": "Gee Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:49",
+      "score": null,
+      "desc": "Thompson Rebound (Off:3 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "04:48",
+      "score": "[CLE 40-47]",
+      "desc": "Thompson Tip Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:31",
+      "score": null,
+      "desc": "Brooks Turnover : Bad Pass (1 TO) Steal:Waiters (3 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:29",
+      "score": null,
+      "desc": "Johnson Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "04:29",
+      "score": null,
+      "desc": "Thompson Substitution replaced by Zeller"
+    },
+    {
+      "team": "away",
+      "clock": "04:29",
+      "score": null,
+      "desc": "Pargo Substitution replaced by Irving"
+    },
+    {
+      "team": "away",
+      "clock": "04:16",
+      "score": "[CLE 42-47]",
+      "desc": "Waiters Layup Shot: Made (5 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:05",
+      "score": "[BKN 49-42]",
+      "desc": "Williams Layup Shot: Made (6 PTS) Assist: Lopez (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:49",
+      "score": null,
+      "desc": "Waiters Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:48",
+      "score": null,
+      "desc": "Williams Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "03:43",
+      "score": "[BKN 51-42]",
+      "desc": "Lopez Slam Dunk Shot: Made (17 PTS) Assist: Williams (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:34",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "03:20",
+      "score": null,
+      "desc": "Waiters Turnover : Lost Ball (3 TO) Steal:Wallace (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:17",
+      "score": null,
+      "desc": "Irving Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "03:17",
+      "score": "[BKN 52-42]",
+      "desc": "Wallace Free Throw 1 of 2 (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:17",
+      "score": null,
+      "desc": "Waiters Substitution replaced by Walton"
+    },
+    {
+      "team": "home",
+      "clock": "03:17",
+      "score": null,
+      "desc": "Wallace Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:16",
+      "score": null,
+      "desc": "Zeller Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "03:06",
+      "score": "[CLE 44-52]",
+      "desc": "Zeller Layup Shot: Made (4 PTS) Assist: Walton (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:49",
+      "score": null,
+      "desc": "Brooks Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:48",
+      "score": null,
+      "desc": "Gee Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "02:45",
+      "score": null,
+      "desc": "Gee Turnover : Lost Ball (3 TO) Steal:Brooks (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:39",
+      "score": "[BKN 54-44]",
+      "desc": "Brooks Jump Shot: Made (2 PTS) Assist: Williams (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "02:24",
+      "score": null,
+      "desc": "Zeller Jump Shot: Missed Block: Wallace (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "02:22",
+      "score": null,
+      "desc": "Zeller Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "02:20",
+      "score": "[CLE 46-54]",
+      "desc": "Zeller Slam Dunk Shot: Made (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:56",
+      "score": "[BKN 56-46]",
+      "desc": "Brooks Slam Dunk Shot: Made (4 PTS) Assist: Williams (6 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:41",
+      "score": null,
+      "desc": "Gee 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:40",
+      "score": null,
+      "desc": "Wallace Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "01:33",
+      "score": "[BKN 58-46]",
+      "desc": "Lopez Dunk Shot: Made (19 PTS) Assist: Wallace (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:18",
+      "score": null,
+      "desc": "Irving Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:17",
+      "score": null,
+      "desc": "Wallace Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "01:03",
+      "score": null,
+      "desc": "Wallace Turnover : Bad Pass (2 TO) Steal:Gee (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:00",
+      "score": "[CLE 48-58]",
+      "desc": "Gee Slam Dunk Shot: Made (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:40.8",
+      "score": null,
+      "desc": "Brooks Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:39.8",
+      "score": null,
+      "desc": "Lopez Rebound (Off:3 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "00:38.7",
+      "score": null,
+      "desc": "Miles Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:38.7",
+      "score": "[BKN 59-48]",
+      "desc": "Lopez Free Throw 1 of 2 (20 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:38.7",
+      "score": null,
+      "desc": "Brooks Substitution replaced by Stackhouse"
+    },
+    {
+      "team": "home",
+      "clock": "00:38.7",
+      "score": null,
+      "desc": "Johnson Substitution replaced by Bogans"
+    },
+    {
+      "team": "home",
+      "clock": "00:38.7",
+      "score": "[BKN 60-48]",
+      "desc": "Lopez Free Throw 2 of 2 (21 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:29.9",
+      "score": "[CLE 51-60]",
+      "desc": "Miles 3pt Shot: Made (22 PTS) Assist: Irving (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:28.0",
+      "score": null,
+      "desc": "Lopez Substitution replaced by Evans"
+    },
+    {
+      "team": "away",
+      "clock": "00:25.9",
+      "score": null,
+      "desc": "Gee Foul: Personal (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:25.9",
+      "score": null,
+      "desc": "Stackhouse Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:25.9",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "00:25.9",
+      "score": "[BKN 61-51]",
+      "desc": "Stackhouse Free Throw 2 of 2 (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:02.6",
+      "score": "[CLE 53-61]",
+      "desc": "Zeller Layup Shot: Made (8 PTS) Assist: Walton (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:02.6",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "home",
+      "clock": "00:02.6",
+      "score": null,
+      "desc": "Evans Substitution replaced by Lopez"
+    },
+    {
+      "team": "away",
+      "clock": "00:02.6",
+      "score": null,
+      "desc": "Irving Substitution replaced by Pargo"
+    },
+    {
+      "team": "away",
+      "clock": "00:02.6",
+      "score": null,
+      "desc": "Zeller Substitution replaced by Thompson"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.8",
+      "score": null,
+      "desc": "Lopez Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 2nd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 3rd QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:45",
+      "score": null,
+      "desc": "Johnson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:43",
+      "score": null,
+      "desc": "Zeller Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "11:19",
+      "score": "[CLE 55-61]",
+      "desc": "Zeller Driving Reverse Layup Shot: Made (10 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:58",
+      "score": "[BKN 63-55]",
+      "desc": "Williams Jump Shot: Made (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:44",
+      "score": null,
+      "desc": "Thompson Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:43",
+      "score": null,
+      "desc": "Thompson Rebound (Off:4 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "10:42",
+      "score": null,
+      "desc": "Thompson Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:41",
+      "score": null,
+      "desc": "Thompson Rebound (Off:5 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "10:38",
+      "score": null,
+      "desc": "Irving Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:37",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "10:15",
+      "score": "[BKN 65-55]",
+      "desc": "Lopez Jump Bank Shot: Made (23 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:53",
+      "score": null,
+      "desc": "Gee Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:52",
+      "score": null,
+      "desc": "Williams Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "09:45",
+      "score": "[BKN 68-55]",
+      "desc": "Johnson 3pt Shot: Made (9 PTS) Assist: Williams (7 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:23",
+      "score": null,
+      "desc": "Irving 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:22",
+      "score": null,
+      "desc": "Thompson Rebound (Off:6 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "09:16",
+      "score": null,
+      "desc": "Williams Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "09:16",
+      "score": "[CLE 56-68]",
+      "desc": "Gee Free Throw 1 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:16",
+      "score": "[CLE 57-68]",
+      "desc": "Gee Free Throw 2 of 2 (8 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:00",
+      "score": null,
+      "desc": "Johnson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:59",
+      "score": null,
+      "desc": "Waiters Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "08:53",
+      "score": null,
+      "desc": "Gee Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:52",
+      "score": null,
+      "desc": "Wallace Rebound (Off:1 Def:6)"
+    },
+    {
+      "team": "home",
+      "clock": "08:38",
+      "score": null,
+      "desc": "Williams 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:37",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "08:25",
+      "score": null,
+      "desc": "Zeller Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:24",
+      "score": null,
+      "desc": "Wallace Rebound (Off:1 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "08:10",
+      "score": "[BKN 70-57]",
+      "desc": "Williams Jump Shot: Made (10 PTS) Assist: Wallace (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:50",
+      "score": "[CLE 59-70]",
+      "desc": "Gee Jump Shot: Made (10 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "07:24",
+      "score": null,
+      "desc": "Team Turnover : Shot Clock Turnover"
+    },
+    {
+      "team": "away",
+      "clock": "07:08",
+      "score": null,
+      "desc": "Waiters Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:06",
+      "score": null,
+      "desc": "Williams Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "07:00",
+      "score": null,
+      "desc": "Lopez Alley Oop Layup shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:59",
+      "score": null,
+      "desc": "Waiters Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "06:50",
+      "score": null,
+      "desc": "Irving 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:49",
+      "score": null,
+      "desc": "Lopez Rebound (Off:3 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "06:32",
+      "score": null,
+      "desc": "Wallace 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:31",
+      "score": null,
+      "desc": "Thompson Rebound (Off:6 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "06:26",
+      "score": null,
+      "desc": "Thompson Foul: Offensive (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "06:26",
+      "score": null,
+      "desc": "Thompson Turnover : Foul (2 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "06:06",
+      "score": null,
+      "desc": "Thompson Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "06:06",
+      "score": "[BKN 71-59]",
+      "desc": "Wallace Free Throw 1 of 2 (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:06",
+      "score": "[BKN 72-59]",
+      "desc": "Wallace Free Throw 2 of 2 (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "05:54",
+      "score": "[CLE 61-72]",
+      "desc": "Thompson Layup Shot: Made (6 PTS) Assist: Irving (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:45",
+      "score": null,
+      "desc": "Irving Foul: Personal (3 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "05:45",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "05:45",
+      "score": null,
+      "desc": "Waiters Substitution replaced by Miles"
+    },
+    {
+      "team": "home",
+      "clock": "05:34",
+      "score": null,
+      "desc": "Williams Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:34",
+      "score": null,
+      "desc": "Gee Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "05:26",
+      "score": null,
+      "desc": "Thompson Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:25",
+      "score": null,
+      "desc": "Zeller Rebound (Off:2 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "05:24",
+      "score": null,
+      "desc": "Zeller Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:23",
+      "score": null,
+      "desc": "Zeller Rebound (Off:3 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "05:20",
+      "score": null,
+      "desc": "Zeller Layup Shot: Missed Block: Lopez (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "05:18",
+      "score": null,
+      "desc": "Thompson Rebound (Off:7 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "05:10",
+      "score": null,
+      "desc": "Irving Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:09",
+      "score": null,
+      "desc": "Lopez Rebound (Off:3 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "05:01",
+      "score": "[BKN 74-61]",
+      "desc": "Johnson Jump Shot: Made (11 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:39",
+      "score": "[CLE 63-74]",
+      "desc": "Zeller Layup Shot: Made (12 PTS) Assist: Gee (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:19",
+      "score": null,
+      "desc": "Bogans 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:18",
+      "score": null,
+      "desc": "Gee Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "04:07",
+      "score": null,
+      "desc": "Zeller Turnover : Lost Ball (1 TO) Steal:Johnson (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:00",
+      "score": null,
+      "desc": "Zeller Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "04:00",
+      "score": null,
+      "desc": "Lopez Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:00",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "04:00",
+      "score": null,
+      "desc": "Thompson Substitution replaced by Walton"
+    },
+    {
+      "team": "home",
+      "clock": "04:00",
+      "score": null,
+      "desc": "Bogans Substitution replaced by Evans"
+    },
+    {
+      "team": "home",
+      "clock": "04:00",
+      "score": "[BKN 75-63]",
+      "desc": "Lopez Free Throw 2 of 2 (24 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:41",
+      "score": null,
+      "desc": "Zeller Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:39",
+      "score": null,
+      "desc": "Evans Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "03:28",
+      "score": null,
+      "desc": "Lopez Turnover : Bad Pass (2 TO) Steal:Irving (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:23",
+      "score": "[CLE 65-75]",
+      "desc": "Irving Layup Shot: Made (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:01",
+      "score": null,
+      "desc": "Evans Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:00",
+      "score": null,
+      "desc": "Miles Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Gee Turnover : Out of Bounds Lost Ball Turnover (4 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Lopez Substitution replaced by Blatche"
+    },
+    {
+      "team": "home",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Johnson Substitution replaced by Stackhouse"
+    },
+    {
+      "team": "home",
+      "clock": "02:48",
+      "score": "[BKN 77-65]",
+      "desc": "Williams Driving Layup Shot: Made (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:37",
+      "score": "[CLE 67-77]",
+      "desc": "Walton Jump Shot: Made (4 PTS) Assist: Irving (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:11",
+      "score": null,
+      "desc": "Blatche Turnover : Traveling (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "01:53",
+      "score": null,
+      "desc": "Miles 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:51",
+      "score": null,
+      "desc": "Evans Rebound (Off:1 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "01:50",
+      "score": null,
+      "desc": "Zeller Foul: Personal (4 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "01:50",
+      "score": null,
+      "desc": "Zeller Substitution replaced by Thompson"
+    },
+    {
+      "team": "home",
+      "clock": "01:32",
+      "score": null,
+      "desc": "Williams 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:31",
+      "score": null,
+      "desc": "Walton Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "01:20",
+      "score": null,
+      "desc": "Walton Turnover : Bad Pass (1 TO) Steal:Wallace (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:19",
+      "score": null,
+      "desc": "Walton Foul: Personal (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "01:19",
+      "score": "[BKN 78-67]",
+      "desc": "Wallace Free Throw 1 of 2 (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:19",
+      "score": "[BKN 79-67]",
+      "desc": "Wallace Free Throw 2 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:09",
+      "score": "[CLE 69-79]",
+      "desc": "Irving Jump Shot: Made (8 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:49.9",
+      "score": null,
+      "desc": "Blatche Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:48.9",
+      "score": null,
+      "desc": "Irving Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "00:35.6",
+      "score": "[CLE 72-79]",
+      "desc": "Miles 3pt Shot: Made (25 PTS) Assist: Walton (5 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:15.9",
+      "score": null,
+      "desc": "Blatche Turnover : Bad Pass (2 TO) Steal:Gee (3 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:04.6",
+      "score": null,
+      "desc": "Blatche Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.6",
+      "score": null,
+      "desc": "Williams Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.6",
+      "score": "[CLE 73-79]",
+      "desc": "Irving Free Throw 1 of 2 (9 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.6",
+      "score": "[CLE 74-79]",
+      "desc": "Irving Free Throw 2 of 2 (10 PTS)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 3rd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 4th QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:48",
+      "score": null,
+      "desc": "Stackhouse Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "11:48",
+      "score": "[CLE 75-79]",
+      "desc": "Thompson Free Throw 1 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "11:48",
+      "score": "[CLE 76-79]",
+      "desc": "Thompson Free Throw 2 of 2 (8 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "11:39",
+      "score": null,
+      "desc": "Williams Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:37",
+      "score": null,
+      "desc": "Pargo Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "11:26",
+      "score": "[CLE 78-79]",
+      "desc": "Pargo Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "11:06",
+      "score": null,
+      "desc": "Stackhouse 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:05",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "11:05",
+      "score": null,
+      "desc": "Lopez Foul: Loose Ball (3 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "10:51",
+      "score": null,
+      "desc": "Walton 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:50",
+      "score": null,
+      "desc": "Williams Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "10:36",
+      "score": null,
+      "desc": "Thompson Foul: Shooting (4 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "10:36",
+      "score": "[BKN 80-78]",
+      "desc": "Lopez Free Throw 1 of 2 (25 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:36",
+      "score": "[BKN 81-78]",
+      "desc": "Lopez Free Throw 2 of 2 (26 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:27",
+      "score": null,
+      "desc": "Pargo Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "10:10",
+      "score": null,
+      "desc": "Pargo Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "10:10",
+      "score": "[BKN 82-78]",
+      "desc": "Williams Free Throw 1 of 2 (13 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:10",
+      "score": "[BKN 83-78]",
+      "desc": "Williams Free Throw 2 of 2 (14 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:54",
+      "score": null,
+      "desc": "Evans Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "09:54",
+      "score": null,
+      "desc": "Thompson Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:54",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "09:54",
+      "score": null,
+      "desc": "Gee Substitution replaced by Waiters"
+    },
+    {
+      "team": "away",
+      "clock": "09:54",
+      "score": "[CLE 79-83]",
+      "desc": "Thompson Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:32",
+      "score": null,
+      "desc": "Williams Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:31",
+      "score": null,
+      "desc": "Evans Rebound (Off:2 Def:6)"
+    },
+    {
+      "team": "home",
+      "clock": "09:29",
+      "score": "[BKN 85-79]",
+      "desc": "Evans Putback Layup Shot: Made (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:15",
+      "score": null,
+      "desc": "Miles Turnover : Lost Ball (1 TO) Steal:Evans (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:13",
+      "score": null,
+      "desc": "Miles Foul: Shooting Block (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "09:13",
+      "score": "[BKN 86-79]",
+      "desc": "Evans Free Throw 1 of 2 (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:13",
+      "score": null,
+      "desc": "Stackhouse Substitution replaced by Watson"
+    },
+    {
+      "team": "away",
+      "clock": "09:13",
+      "score": null,
+      "desc": "Thompson Substitution replaced by Zeller"
+    },
+    {
+      "team": "home",
+      "clock": "09:13",
+      "score": "[BKN 87-79]",
+      "desc": "Evans Free Throw 2 of 2 (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:56",
+      "score": null,
+      "desc": "Waiters Turnover : Lost Ball (4 TO) Steal:Williams (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:44",
+      "score": null,
+      "desc": "Watson 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:43",
+      "score": null,
+      "desc": "Zeller Rebound (Off:3 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "08:26",
+      "score": null,
+      "desc": "Walton Turnover : Bad Pass (2 TO) Steal:Evans (3 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:17",
+      "score": null,
+      "desc": "Zeller Foul: Shooting (5 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "08:17",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "home",
+      "clock": "08:17",
+      "score": null,
+      "desc": "Williams Substitution replaced by Wallace"
+    },
+    {
+      "team": "home",
+      "clock": "08:17",
+      "score": null,
+      "desc": "Lopez Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:17",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "08:17",
+      "score": "[BKN 88-79]",
+      "desc": "Lopez Free Throw 2 of 2 (27 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:59",
+      "score": null,
+      "desc": "Walton 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:58",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "07:50",
+      "score": "[CLE 81-88]",
+      "desc": "Pargo Layup Shot: Made (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:35",
+      "score": null,
+      "desc": "Walton Substitution replaced by Thompson"
+    },
+    {
+      "team": "home",
+      "clock": "07:28",
+      "score": "[BKN 90-81]",
+      "desc": "Johnson Fadeaway Jump Shot: Made (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:17",
+      "score": null,
+      "desc": "Miles Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:15",
+      "score": null,
+      "desc": "Zeller Rebound (Off:4 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "07:14",
+      "score": null,
+      "desc": "Zeller Turnover : Lost Ball (2 TO) Steal:Johnson (3 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:07",
+      "score": null,
+      "desc": "Miles Foul: Personal (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "07:07",
+      "score": "[BKN 91-81]",
+      "desc": "Evans Free Throw 1 of 2 (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "07:07",
+      "score": "[BKN 92-81]",
+      "desc": "Evans Free Throw 2 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:49",
+      "score": "[CLE 84-92]",
+      "desc": "Miles 3pt Shot: Made (28 PTS) Assist: Pargo (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:30",
+      "score": null,
+      "desc": "Johnson 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:29",
+      "score": null,
+      "desc": "Lopez Rebound (Off:4 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "06:28",
+      "score": null,
+      "desc": "Zeller Foul: Shooting (6 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "06:28",
+      "score": null,
+      "desc": "Pargo Substitution replaced by Irving"
+    },
+    {
+      "team": "away",
+      "clock": "06:28",
+      "score": null,
+      "desc": "Zeller Substitution replaced by Walton"
+    },
+    {
+      "team": "home",
+      "clock": "06:28",
+      "score": "[BKN 93-84]",
+      "desc": "Lopez Free Throw 1 of 2 (28 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:28",
+      "score": "[BKN 94-84]",
+      "desc": "Lopez Free Throw 2 of 2 (29 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:17",
+      "score": null,
+      "desc": "Evans Foul: Personal (3 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "06:17",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "06:17",
+      "score": null,
+      "desc": "Watson Substitution replaced by Williams"
+    },
+    {
+      "team": "home",
+      "clock": "06:08",
+      "score": null,
+      "desc": "Wallace Foul: Personal (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "06:08",
+      "score": "[CLE 85-94]",
+      "desc": "Miles Free Throw 1 of 2 (29 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:08",
+      "score": "[CLE 86-94]",
+      "desc": "Miles Free Throw 2 of 2 (30 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:46",
+      "score": null,
+      "desc": "Johnson Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:45",
+      "score": null,
+      "desc": "Lopez Rebound (Off:5 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "05:44",
+      "score": null,
+      "desc": "Lopez Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:43",
+      "score": null,
+      "desc": "Irving Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "05:38",
+      "score": "[CLE 89-94]",
+      "desc": "Miles 3pt Shot: Made (33 PTS) Assist: Irving (7 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:12",
+      "score": null,
+      "desc": "Lopez Dunk Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:11",
+      "score": null,
+      "desc": "Irving Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "04:55",
+      "score": null,
+      "desc": "Irving 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:54",
+      "score": null,
+      "desc": "Wallace Rebound (Off:1 Def:8)"
+    },
+    {
+      "team": "home",
+      "clock": "04:35",
+      "score": "[BKN 96-89]",
+      "desc": "Lopez Hook Shot: Made (31 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:20",
+      "score": "[CLE 91-96]",
+      "desc": "Thompson Slam Dunk Shot: Made (11 PTS) Assist: Walton (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:02",
+      "score": "[BKN 98-91]",
+      "desc": "Lopez Jump Bank Shot: Made (33 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:43",
+      "score": null,
+      "desc": "Lopez Foul: Shooting (4 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "03:43",
+      "score": "[CLE 92-98]",
+      "desc": "Thompson Free Throw 1 of 2 (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:43",
+      "score": "[CLE 93-98]",
+      "desc": "Thompson Free Throw 2 of 2 (13 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:25",
+      "score": null,
+      "desc": "Lopez Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:23",
+      "score": null,
+      "desc": "Thompson Rebound (Off:7 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "03:08",
+      "score": null,
+      "desc": "Waiters Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:06",
+      "score": null,
+      "desc": "Evans Rebound (Off:2 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "03:00",
+      "score": null,
+      "desc": "Williams Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:58",
+      "score": null,
+      "desc": "Wallace Rebound (Off:2 Def:8)"
+    },
+    {
+      "team": "home",
+      "clock": "02:57",
+      "score": null,
+      "desc": "Wallace Tip Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Evans Rebound (Off:3 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "02:54",
+      "score": null,
+      "desc": "Johnson 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:53",
+      "score": null,
+      "desc": "Walton Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "02:48",
+      "score": null,
+      "desc": "Irving 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": null,
+      "desc": "Evans Substitution replaced by Stackhouse"
+    },
+    {
+      "team": "home",
+      "clock": "02:27",
+      "score": "[BKN 100-93]",
+      "desc": "Lopez Hook Shot: Made (35 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "02:10",
+      "score": null,
+      "desc": "Lopez Foul: Shooting (5 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "02:10",
+      "score": "[CLE 94-100]",
+      "desc": "Thompson Free Throw 1 of 2 (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:10",
+      "score": "[CLE 95-100]",
+      "desc": "Thompson Free Throw 2 of 2 (15 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:45",
+      "score": null,
+      "desc": "Team Turnover : Shot Clock Turnover"
+    },
+    {
+      "team": "home",
+      "clock": "01:45",
+      "score": null,
+      "desc": "Stackhouse Substitution replaced by Evans"
+    },
+    {
+      "team": "away",
+      "clock": "01:25",
+      "score": null,
+      "desc": "Irving Turnover : Lost Ball (2 TO) Steal:Williams (2 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:06",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "01:06",
+      "score": null,
+      "desc": "Evans Substitution replaced by Stackhouse"
+    },
+    {
+      "team": "home",
+      "clock": "00:59.9",
+      "score": null,
+      "desc": "Wallace 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:58.6",
+      "score": null,
+      "desc": "Thompson Rebound (Off:7 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "00:48.2",
+      "score": null,
+      "desc": "Waiters Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:47.2",
+      "score": null,
+      "desc": "Thompson Rebound (Off:8 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "00:46.8",
+      "score": "[CLE 97-100]",
+      "desc": "Thompson Dunk Shot: Made (17 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:26.9",
+      "score": null,
+      "desc": "Lopez Hook Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:25.2",
+      "score": null,
+      "desc": "Irving Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "00:13.9",
+      "score": null,
+      "desc": "Irving Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:12.6",
+      "score": null,
+      "desc": "Lopez Rebound (Off:5 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "00:10.4",
+      "score": null,
+      "desc": "Miles Foul: Personal (4 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:10.4",
+      "score": "[BKN 101-97]",
+      "desc": "Williams Free Throw 1 of 2 (15 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:10.4",
+      "score": null,
+      "desc": "Lopez Substitution replaced by Evans"
+    },
+    {
+      "team": "home",
+      "clock": "00:10.4",
+      "score": null,
+      "desc": "Williams Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:10.2",
+      "score": null,
+      "desc": "Miles Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "00:10.2",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "00:10.2",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "away",
+      "clock": "00:05.9",
+      "score": "[CLE 100-101]",
+      "desc": "Irving 3pt Shot: Made (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:05.4",
+      "score": null,
+      "desc": "Miles Foul: Personal (5 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "00:05.4",
+      "score": "[BKN 102-100]",
+      "desc": "Johnson Free Throw 1 of 2 (14 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:05.4",
+      "score": "[BKN 103-100]",
+      "desc": "Johnson Free Throw 2 of 2 (15 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:05.4",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "away",
+      "clock": "00:01.8",
+      "score": null,
+      "desc": "Irving 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.1",
+      "score": null,
+      "desc": "Thompson Rebound (Off:9 Def:6)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 4th Quarter"
+    }
+  ],
+  "away_abbr": "CLE",
+  "city": "Brooklyn, NY",
+  "datetime": "2012-12-29T19:30:00",
+  "home_abbr": "BKN"
+}

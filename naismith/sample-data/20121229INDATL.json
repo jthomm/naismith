@@ -1,0 +1,2957 @@
+{
+  "arena": "Philips Arena",
+  "box_score": {
+    "home": [
+      {
+        "blocked_shots": 0,
+        "three_pointers": "4-5",
+        "minutes_played": "32:56",
+        "field_goals": "5-10",
+        "plus_minus": 10,
+        "points": 16,
+        "free_throws": "2-3",
+        "player_url": "/playerfile/kyle_korver/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 2,
+        "player_abbr": "K. Korver",
+        "steals": 2,
+        "offensive_rebounds": 1,
+        "position": "G",
+        "assists": 1,
+        "personal_fouls": 4,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "37:43",
+        "field_goals": "10-13",
+        "plus_minus": 16,
+        "points": 20,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/al_horford/index.html",
+        "defensive_rebounds": 5,
+        "total_rebounds": 6,
+        "player_abbr": "A. Horford",
+        "steals": 1,
+        "offensive_rebounds": 1,
+        "position": "C-F",
+        "assists": 6,
+        "personal_fouls": 2,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "38:24",
+        "field_goals": "7-11",
+        "plus_minus": 7,
+        "points": 17,
+        "free_throws": "3-4",
+        "player_url": "/playerfile/zaza_pachulia/index.html",
+        "defensive_rebounds": 9,
+        "total_rebounds": 14,
+        "player_abbr": "Z. Pachulia",
+        "steals": 0,
+        "offensive_rebounds": 5,
+        "position": "C-F",
+        "assists": 0,
+        "personal_fouls": 4,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "3-8",
+        "minutes_played": "38:09",
+        "field_goals": "7-17",
+        "plus_minus": 16,
+        "points": 21,
+        "free_throws": "4-4",
+        "player_url": "/playerfile/louis_williams/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 3,
+        "player_abbr": "L. Williams",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 12,
+        "personal_fouls": 2,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-3",
+        "minutes_played": "41:00",
+        "field_goals": "6-13",
+        "plus_minus": 5,
+        "points": 15,
+        "free_throws": "2-2",
+        "player_url": "/playerfile/jeff_teague/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 3,
+        "player_abbr": "J. Teague",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 6,
+        "personal_fouls": 0,
+        "turnovers": 4
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-1",
+        "minutes_played": "15:01",
+        "field_goals": "0-1",
+        "plus_minus": -1,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/deshawn_stevenson/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "D. Stevenson",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-2",
+        "minutes_played": "16:54",
+        "field_goals": "4-6",
+        "plus_minus": -3,
+        "points": 10,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/john_jenkins/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 2,
+        "player_abbr": "J. Jenkins",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 2,
+        "turnovers": 3
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "15:25",
+        "field_goals": "3-6",
+        "plus_minus": -1,
+        "points": 6,
+        "free_throws": "0-1",
+        "player_url": "/playerfile/ivan_johnson/index.html",
+        "defensive_rebounds": 3,
+        "total_rebounds": 6,
+        "player_abbr": "I. Johnson",
+        "steals": 3,
+        "offensive_rebounds": 3,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 6,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-1",
+        "minutes_played": "04:28",
+        "field_goals": "2-3",
+        "plus_minus": -4,
+        "points": 4,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/johan_petro/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "J. Petro",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 3,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/anthony_morrow/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "A. Morrow",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/mike_scott/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "M. Scott",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/josh_smith/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "J. Smith",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/anthony_tolliver/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "A. Tolliver",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ],
+    "away": [
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-2",
+        "minutes_played": "38:53",
+        "field_goals": "7-13",
+        "plus_minus": -16,
+        "points": 18,
+        "free_throws": "3-3",
+        "player_url": "/playerfile/paul_george/index.html",
+        "defensive_rebounds": 5,
+        "total_rebounds": 9,
+        "player_abbr": "P. George",
+        "steals": 2,
+        "offensive_rebounds": 4,
+        "position": "G-F",
+        "assists": 8,
+        "personal_fouls": 1,
+        "turnovers": 5
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "2-3",
+        "minutes_played": "31:51",
+        "field_goals": "11-18",
+        "plus_minus": -13,
+        "points": 29,
+        "free_throws": "5-7",
+        "player_url": "/playerfile/david_west/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 4,
+        "player_abbr": "D. West",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "F",
+        "assists": 3,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "20:32",
+        "field_goals": "0-2",
+        "plus_minus": -7,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/roy_hibbert/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 1,
+        "player_abbr": "R. Hibbert",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "C",
+        "assists": 0,
+        "personal_fouls": 3,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-3",
+        "minutes_played": "31:58",
+        "field_goals": "6-13",
+        "plus_minus": 3,
+        "points": 13,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/lance_stephenson/index.html",
+        "defensive_rebounds": 2,
+        "total_rebounds": 5,
+        "player_abbr": "L. Stephenson",
+        "steals": 0,
+        "offensive_rebounds": 3,
+        "position": "G",
+        "assists": 1,
+        "personal_fouls": 3,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "1-3",
+        "minutes_played": "32:58",
+        "field_goals": "7-11",
+        "plus_minus": -19,
+        "points": 15,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/george_hill/index.html",
+        "defensive_rebounds": 4,
+        "total_rebounds": 4,
+        "player_abbr": "G. Hill",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "G",
+        "assists": 2,
+        "personal_fouls": 1,
+        "turnovers": 2
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-4",
+        "minutes_played": "25:09",
+        "field_goals": "3-11",
+        "plus_minus": -5,
+        "points": 6,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/gerald_green/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 1,
+        "player_abbr": "G. Green",
+        "steals": 0,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 1,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 1,
+        "three_pointers": "0-0",
+        "minutes_played": "24:18",
+        "field_goals": "1-3",
+        "plus_minus": 5,
+        "points": 6,
+        "free_throws": "4-4",
+        "player_url": "/playerfile/tyler_hansbrough/index.html",
+        "defensive_rebounds": 8,
+        "total_rebounds": 10,
+        "player_abbr": "T. Hansbrough",
+        "steals": 0,
+        "offensive_rebounds": 2,
+        "position": "\u00a0",
+        "assists": 2,
+        "personal_fouls": 2,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 3,
+        "three_pointers": "0-0",
+        "minutes_played": "19:19",
+        "field_goals": "3-7",
+        "plus_minus": -3,
+        "points": 13,
+        "free_throws": "7-8",
+        "player_url": "/playerfile/ian_mahinmi/index.html",
+        "defensive_rebounds": 1,
+        "total_rebounds": 2,
+        "player_abbr": "I. Mahinmi",
+        "steals": 1,
+        "offensive_rebounds": 1,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 3,
+        "turnovers": 1
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "15:02",
+        "field_goals": "0-2",
+        "plus_minus": 10,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/dj_augustin/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "D.J. Augustin",
+        "steals": 1,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 3,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/ben_hansbrough/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "B. Hansbrough",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/orlando_johnson/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "O. Johnson",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/jeff_pendergraph/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "J. Pendergraph",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      },
+      {
+        "blocked_shots": 0,
+        "three_pointers": "0-0",
+        "minutes_played": "00:00",
+        "field_goals": "0-0",
+        "plus_minus": 0,
+        "points": 0,
+        "free_throws": "0-0",
+        "player_url": "/playerfile/sam_young/index.html",
+        "defensive_rebounds": 0,
+        "total_rebounds": 0,
+        "player_abbr": "S. Young",
+        "steals": 0,
+        "offensive_rebounds": 0,
+        "position": "\u00a0",
+        "assists": 0,
+        "personal_fouls": 0,
+        "turnovers": 0
+      }
+    ]
+  },
+  "plays": [
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "(12:00) Jump Ball Pachulia vs Hibbert (West gains possession)"
+    },
+    {
+      "team": "away",
+      "clock": "11:38",
+      "score": null,
+      "desc": "West Driving Jump shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:36",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "11:29",
+      "score": "[ATL 2-0]",
+      "desc": "Pachulia Driving Layup Shot: Made (2 PTS) Assist: Williams (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "11:05",
+      "score": null,
+      "desc": "Hibbert Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:03",
+      "score": null,
+      "desc": "George Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "11:03",
+      "score": null,
+      "desc": "George Tip Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:01",
+      "score": null,
+      "desc": "George Rebound (Off:2 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "11:01",
+      "score": "[IND 2-2]",
+      "desc": "George Putback Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:43",
+      "score": "[ATL 4-2]",
+      "desc": "Horford Jump Shot: Made (2 PTS) Assist: Williams (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:28",
+      "score": null,
+      "desc": "West Turnaround Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:27",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "10:19",
+      "score": null,
+      "desc": "Teague Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:17",
+      "score": null,
+      "desc": "Hill Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "10:09",
+      "score": "[IND 4-4]",
+      "desc": "Hill Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:51",
+      "score": null,
+      "desc": "Williams 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:50",
+      "score": null,
+      "desc": "Hill Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "09:36",
+      "score": "[IND 6-4]",
+      "desc": "George Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:20",
+      "score": "[ATL 6-6]",
+      "desc": "Korver Jump Shot: Made (2 PTS) Assist: Horford (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:05",
+      "score": "[IND 8-6]",
+      "desc": "West Dunk Shot: Made (2 PTS) Assist: George (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "08:37",
+      "score": null,
+      "desc": "Korver Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:35",
+      "score": null,
+      "desc": "West Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "08:23",
+      "score": "[IND 10-6]",
+      "desc": "Hill Turnaround Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:04",
+      "score": null,
+      "desc": "Pachulia Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:02",
+      "score": null,
+      "desc": "Hill Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "07:44",
+      "score": null,
+      "desc": "George Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "07:42",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "07:33",
+      "score": "[ATL 8-10]",
+      "desc": "Williams Jump Shot: Made (2 PTS) Assist: Horford (2 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:33",
+      "score": null,
+      "desc": "Stephenson Foul: Shooting (1 PF) (1 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "07:33",
+      "score": "[ATL 9-10]",
+      "desc": "Williams Free Throw 1 of 1 (3 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:19",
+      "score": "[IND 12-9]",
+      "desc": "Stephenson Driving Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:56",
+      "score": null,
+      "desc": "Pachulia Turnover : 3 Second Violation (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "06:34",
+      "score": null,
+      "desc": "Hibbert Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:33",
+      "score": null,
+      "desc": "Williams Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "06:25",
+      "score": "[ATL 11-12]",
+      "desc": "Horford Jump Shot: Made (4 PTS) Assist: Williams (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:08",
+      "score": "[IND 14-11]",
+      "desc": "West Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:50",
+      "score": null,
+      "desc": "Korver Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:49",
+      "score": null,
+      "desc": "Korver Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "05:45",
+      "score": null,
+      "desc": "Korver Turnover : Bad Pass (1 TO) Steal:George (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:32",
+      "score": null,
+      "desc": "George Turnover : Lost Ball (1 TO) Steal:Korver (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:26",
+      "score": "[ATL 13-14]",
+      "desc": "Horford Running Dunk Shot: Made (6 PTS) Assist: Williams (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:24",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "05:13",
+      "score": "[IND 16-13]",
+      "desc": "West Fadeaway Jump Shot: Made (6 PTS) Assist: George (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:53",
+      "score": "[ATL 15-16]",
+      "desc": "Horford Jump Shot: Made (8 PTS) Assist: Williams (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:27",
+      "score": null,
+      "desc": "West 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:25",
+      "score": null,
+      "desc": "Horford Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "04:13",
+      "score": "[ATL 18-16]",
+      "desc": "Korver 3pt Shot: Made (5 PTS) Assist: Teague (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:58",
+      "score": null,
+      "desc": "Korver Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "03:58",
+      "score": null,
+      "desc": "Korver Substitution replaced by Stevenson"
+    },
+    {
+      "team": "away",
+      "clock": "03:58",
+      "score": null,
+      "desc": "Stephenson Substitution replaced by Green"
+    },
+    {
+      "team": "away",
+      "clock": "03:58",
+      "score": null,
+      "desc": "West Substitution replaced by Hansbrough"
+    },
+    {
+      "team": "home",
+      "clock": "03:58",
+      "score": null,
+      "desc": "Teague Substitution replaced by Jenkins"
+    },
+    {
+      "team": "home",
+      "clock": "03:58",
+      "score": null,
+      "desc": "Pachulia Substitution replaced by Johnson"
+    },
+    {
+      "team": "away",
+      "clock": "03:54",
+      "score": "[IND 18-18]",
+      "desc": "George Driving Dunk Shot: Made (6 PTS) Assist: Hansbrough (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:39",
+      "score": "[ATL 21-18]",
+      "desc": "Williams 3pt Shot: Made (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:29",
+      "score": null,
+      "desc": "Green 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:28",
+      "score": null,
+      "desc": "Horford Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "03:24",
+      "score": null,
+      "desc": "Williams Turnover : Bad Pass (1 TO) Steal:Hill (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:10",
+      "score": null,
+      "desc": "Hansbrough Hook Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:09",
+      "score": null,
+      "desc": "Johnson Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Hibbert Foul: Defense 3 Second (0 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "02:56",
+      "score": null,
+      "desc": "Hibbert Substitution replaced by Mahinmi"
+    },
+    {
+      "team": "home",
+      "clock": "02:56",
+      "score": "[ATL 22-18]",
+      "desc": "Williams Free Throw Technical (7 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "02:46",
+      "score": "[ATL 24-18]",
+      "desc": "Jenkins Jump Shot: Made (2 PTS) Assist: Williams (6 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "02:27",
+      "score": "[IND 20-24]",
+      "desc": "Green Driving Layup Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "02:09",
+      "score": "[ATL 26-20]",
+      "desc": "Horford Layup Shot: Made (10 PTS) Assist: Jenkins (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "02:04",
+      "score": null,
+      "desc": "Mahinmi Turnover : Bad Pass (1 TO) Steal:Horford (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:59",
+      "score": "[ATL 29-20]",
+      "desc": "Jenkins 3pt Shot: Made (5 PTS) Assist: Williams (7 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:38",
+      "score": null,
+      "desc": "Hill Turnover : Bad Pass (1 TO) Steal:Johnson (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:25",
+      "score": null,
+      "desc": "Johnson Hook Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:21",
+      "score": null,
+      "desc": "Johnson Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "01:20",
+      "score": null,
+      "desc": "Jenkins Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "01:20",
+      "score": null,
+      "desc": "Horford Substitution replaced by Petro"
+    },
+    {
+      "team": "away",
+      "clock": "01:20",
+      "score": null,
+      "desc": "Hill Substitution replaced by Augustin"
+    },
+    {
+      "team": "away",
+      "clock": "01:06",
+      "score": "[IND 22-29]",
+      "desc": "George Driving Jump shot: Made (8 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:47.9",
+      "score": "[ATL 31-22]",
+      "desc": "Petro Driving Jump shot: Made (2 PTS) Assist: Williams (8 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:32.8",
+      "score": null,
+      "desc": "Johnson Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:32.8",
+      "score": "[IND 23-31]",
+      "desc": "Mahinmi Free Throw 1 of 2 (1 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:32.8",
+      "score": "[IND 24-31]",
+      "desc": "Mahinmi Free Throw 2 of 2 (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:18.9",
+      "score": "[ATL 33-24]",
+      "desc": "Williams Jump Shot: Made (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:03.2",
+      "score": null,
+      "desc": "Johnson Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:03.2",
+      "score": "[IND 25-33]",
+      "desc": "George Free Throw 1 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:03.2",
+      "score": null,
+      "desc": "Stevenson Substitution replaced by Teague"
+    },
+    {
+      "team": "away",
+      "clock": "00:03.2",
+      "score": "[IND 26-33]",
+      "desc": "George Free Throw 2 of 2 (10 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Petro 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 1st Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 2nd QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:38",
+      "score": null,
+      "desc": "Johnson Driving Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:35",
+      "score": null,
+      "desc": "George Rebound (Off:2 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "11:15",
+      "score": null,
+      "desc": "Augustin Driving Jump shot: Missed Block: Petro (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "11:13",
+      "score": null,
+      "desc": "Teague Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "11:08",
+      "score": "[ATL 35-26]",
+      "desc": "Teague Jump Shot: Made (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:51",
+      "score": null,
+      "desc": "Petro Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "10:51",
+      "score": "[IND 27-35]",
+      "desc": "Hansbrough Free Throw 1 of 2 (1 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "10:51",
+      "score": null,
+      "desc": "George Substitution replaced by Stephenson"
+    },
+    {
+      "team": "away",
+      "clock": "10:51",
+      "score": "[IND 28-35]",
+      "desc": "Hansbrough Free Throw 2 of 2 (2 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:38",
+      "score": null,
+      "desc": "Jenkins Turnover : Lost Ball (2 TO) Steal:Mahinmi (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:24",
+      "score": "[IND 30-35]",
+      "desc": "Green Turnaround Jump Shot: Made (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:10",
+      "score": null,
+      "desc": "Teague Driving Jump shot: Missed Block: Mahinmi (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "10:08",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "10:04",
+      "score": null,
+      "desc": "Mahinmi Running Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:03",
+      "score": null,
+      "desc": "Stephenson Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "10:03",
+      "score": null,
+      "desc": "Stephenson Tip Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:01",
+      "score": null,
+      "desc": "Jenkins Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "09:50",
+      "score": "[ATL 38-30]",
+      "desc": "Jenkins 3pt Shot: Made (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:39",
+      "score": "[IND 33-38]",
+      "desc": "Stephenson 3pt Shot: Made (5 PTS) Assist: Green (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:25",
+      "score": "[ATL 40-33]",
+      "desc": "Petro Jump Shot: Made (4 PTS) Assist: Teague (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:13",
+      "score": null,
+      "desc": "Jenkins Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "09:06",
+      "score": null,
+      "desc": "Green Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "09:04",
+      "score": null,
+      "desc": "Johnson Rebound (Off:1 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "08:58",
+      "score": null,
+      "desc": "Petro Foul: Offensive (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "08:58",
+      "score": null,
+      "desc": "Petro Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "08:58",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "home",
+      "clock": "08:52",
+      "score": null,
+      "desc": "Petro Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "08:52",
+      "score": "[IND 34-40]",
+      "desc": "Mahinmi Free Throw 1 of 2 (3 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:52",
+      "score": null,
+      "desc": "Petro Substitution replaced by Pachulia"
+    },
+    {
+      "team": "away",
+      "clock": "08:52",
+      "score": "[IND 35-40]",
+      "desc": "Mahinmi Free Throw 2 of 2 (4 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "08:26",
+      "score": null,
+      "desc": "Teague 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:26",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "08:26",
+      "score": null,
+      "desc": "Team Turnover : Shot Clock Turnover"
+    },
+    {
+      "team": "away",
+      "clock": "08:15",
+      "score": "[IND 37-40]",
+      "desc": "Mahinmi Jump Shot: Made (6 PTS) Assist: Stephenson (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:50",
+      "score": "[ATL 42-37]",
+      "desc": "Johnson Jump Shot: Made (2 PTS) Assist: Teague (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:34",
+      "score": null,
+      "desc": "Hansbrough Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:32",
+      "score": null,
+      "desc": "Stephenson Rebound (Off:2 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "07:29",
+      "score": null,
+      "desc": "Jenkins Foul: Personal (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "07:29",
+      "score": null,
+      "desc": "Johnson Substitution replaced by Horford"
+    },
+    {
+      "team": "home",
+      "clock": "07:29",
+      "score": null,
+      "desc": "Stevenson Substitution replaced by Korver"
+    },
+    {
+      "team": "away",
+      "clock": "07:15",
+      "score": "[IND 39-42]",
+      "desc": "Mahinmi Jump Shot: Made (8 PTS) Assist: Augustin (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "06:58",
+      "score": "[ATL 44-39]",
+      "desc": "Horford Jump Shot: Made (12 PTS) Assist: Korver (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "06:36",
+      "score": null,
+      "desc": "Green 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "06:34",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "06:34",
+      "score": null,
+      "desc": "Jenkins Substitution replaced by Williams"
+    },
+    {
+      "team": "home",
+      "clock": "06:20",
+      "score": null,
+      "desc": "Williams 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:18",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "06:02",
+      "score": "[IND 41-44]",
+      "desc": "Hansbrough Jump Shot: Made (4 PTS) Assist: Augustin (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:40",
+      "score": null,
+      "desc": "Horford Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:39",
+      "score": null,
+      "desc": "Stephenson Rebound (Off:2 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "05:20",
+      "score": null,
+      "desc": "Augustin Driving Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:19",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "05:14",
+      "score": null,
+      "desc": "Stephenson Foul: Personal (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "05:14",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "05:14",
+      "score": null,
+      "desc": "Green Substitution replaced by George"
+    },
+    {
+      "team": "away",
+      "clock": "05:14",
+      "score": null,
+      "desc": "Hansbrough Substitution replaced by West"
+    },
+    {
+      "team": "away",
+      "clock": "05:14",
+      "score": null,
+      "desc": "Mahinmi Substitution replaced by Hibbert"
+    },
+    {
+      "team": "away",
+      "clock": "05:14",
+      "score": null,
+      "desc": "Augustin Substitution replaced by Hill"
+    },
+    {
+      "team": "home",
+      "clock": "05:03",
+      "score": "[ATL 46-41]",
+      "desc": "Horford Layup Shot: Made (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:42",
+      "score": "[IND 43-46]",
+      "desc": "West Jump Shot: Made (8 PTS) Assist: George (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:20",
+      "score": null,
+      "desc": "Pachulia Driving Layup Shot: Missed Block: Hibbert (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "04:18",
+      "score": null,
+      "desc": "Stephenson Rebound (Off:2 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "04:13",
+      "score": null,
+      "desc": "Stephenson Running Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:12",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:0 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "04:03",
+      "score": null,
+      "desc": "Williams Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:02",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "04:01",
+      "score": "[ATL 48-43]",
+      "desc": "Pachulia Putback Layup Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:44",
+      "score": null,
+      "desc": "Hill 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:43",
+      "score": null,
+      "desc": "Horford Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "03:27",
+      "score": "[ATL 50-43]",
+      "desc": "Pachulia Running Layup Shot: Made (6 PTS) Assist: Williams (9 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:04",
+      "score": null,
+      "desc": "George Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:02",
+      "score": null,
+      "desc": "Williams Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "02:51",
+      "score": "[ATL 52-43]",
+      "desc": "Pachulia Alley Oop Layup shot: Made (8 PTS) Assist: Horford (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "02:51",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "02:31",
+      "score": null,
+      "desc": "Horford Foul: Shooting (1 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "02:31",
+      "score": null,
+      "desc": "West Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "02:31",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "02:31",
+      "score": "[IND 44-52]",
+      "desc": "West Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "02:14",
+      "score": "[ATL 55-44]",
+      "desc": "Korver 3pt Shot: Made (8 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:02",
+      "score": null,
+      "desc": "Stephenson Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:02",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:1 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "02:02",
+      "score": null,
+      "desc": "Hibbert Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "01:50",
+      "score": null,
+      "desc": "Pachulia Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "01:50",
+      "score": null,
+      "desc": "Pachulia Turnover : Foul (2 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "01:35",
+      "score": "[IND 46-55]",
+      "desc": "Stephenson Layup Shot: Made (7 PTS) Assist: George (4 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:20",
+      "score": null,
+      "desc": "Korver Turnover : Bad Pass (2 TO) Steal:West (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "01:10",
+      "score": null,
+      "desc": "George Driving Jump shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:09",
+      "score": null,
+      "desc": "George Rebound (Off:3 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "01:07",
+      "score": "[IND 48-55]",
+      "desc": "West Dunk Shot: Made (11 PTS) Assist: George (5 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:56.4",
+      "score": null,
+      "desc": "Teague Turnover : Out of Bounds Lost Ball Turnover (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "00:33.9",
+      "score": null,
+      "desc": "Korver Violation:Kicked Ball"
+    },
+    {
+      "team": "away",
+      "clock": "00:33.9",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "away",
+      "clock": "00:33.9",
+      "score": null,
+      "desc": "Stephenson Substitution replaced by Green"
+    },
+    {
+      "team": "away",
+      "clock": "00:22.9",
+      "score": null,
+      "desc": "George Turnover : Bad Pass (2 TO) Steal:Korver (2 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "Pachulia Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.0",
+      "score": null,
+      "desc": "West Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 2nd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 3rd QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:44",
+      "score": null,
+      "desc": "Korver Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "11:44",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:2 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "11:44",
+      "score": null,
+      "desc": "Hibbert Foul: Personal (2 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "11:36",
+      "score": null,
+      "desc": "Williams 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:35",
+      "score": null,
+      "desc": "Hibbert Rebound (Off:0 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "11:28",
+      "score": null,
+      "desc": "George Foul: Offensive Charge (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "11:28",
+      "score": null,
+      "desc": "George Turnover : Foul (3 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "11:19",
+      "score": null,
+      "desc": "Korver Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:17",
+      "score": null,
+      "desc": "George Rebound (Off:3 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "10:59",
+      "score": "[IND 50-55]",
+      "desc": "Hill Driving Reverse Layup Shot: Made (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "10:45",
+      "score": "[ATL 58-50]",
+      "desc": "Korver 3pt Shot: Made (11 PTS) Assist: Horford (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:29",
+      "score": null,
+      "desc": "Stephenson 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "10:28",
+      "score": null,
+      "desc": "George Rebound (Off:4 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "10:13",
+      "score": null,
+      "desc": "Pachulia Foul: Personal (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "10:07",
+      "score": null,
+      "desc": "West Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:04",
+      "score": null,
+      "desc": "Teague Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "09:59",
+      "score": null,
+      "desc": "Teague Driving Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:58",
+      "score": null,
+      "desc": "West Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "09:42",
+      "score": "[IND 52-58]",
+      "desc": "West Driving Dunk Shot: Made (13 PTS) Assist: Hill (1 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "09:34",
+      "score": null,
+      "desc": "Williams Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "09:34",
+      "score": null,
+      "desc": "Williams Turnover : Foul (2 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "09:20",
+      "score": "[IND 54-58]",
+      "desc": "Hill Jump Shot: Made (8 PTS) Assist: West (1 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "09:09",
+      "score": null,
+      "desc": "Hibbert Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "09:09",
+      "score": "[ATL 59-54]",
+      "desc": "Pachulia Free Throw 1 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:09",
+      "score": "[ATL 60-54]",
+      "desc": "Pachulia Free Throw 2 of 2 (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:57",
+      "score": null,
+      "desc": "Hill 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:55",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "08:46",
+      "score": null,
+      "desc": "Hill Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "08:40",
+      "score": "[ATL 62-54]",
+      "desc": "Pachulia Jump Shot: Made (12 PTS) Assist: Teague (4 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:26",
+      "score": null,
+      "desc": "George 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "08:25",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:2 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "08:12",
+      "score": null,
+      "desc": "Korver 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:11",
+      "score": null,
+      "desc": "Hill Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "07:48",
+      "score": null,
+      "desc": "George Running Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "07:48",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "07:48",
+      "score": null,
+      "desc": "Korver Foul: Loose Ball (2 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "07:44",
+      "score": null,
+      "desc": "West Foul: Offensive (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "07:44",
+      "score": null,
+      "desc": "West Turnover : Foul (1 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "07:23",
+      "score": "[ATL 64-54]",
+      "desc": "Williams Jump Shot: Made (11 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "07:06",
+      "score": "[IND 56-64]",
+      "desc": "Hill Driving Layup Shot: Made (10 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:58",
+      "score": null,
+      "desc": "West Violation:Kicked Ball"
+    },
+    {
+      "team": "home",
+      "clock": "06:51",
+      "score": "[ATL 67-56]",
+      "desc": "Teague 3pt Shot: Made (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:24",
+      "score": "[IND 59-67]",
+      "desc": "West 3pt Shot: Made (16 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:06",
+      "score": null,
+      "desc": "Teague 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "06:04",
+      "score": null,
+      "desc": "West Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "05:46",
+      "score": "[IND 61-67]",
+      "desc": "West Running Jump Shot: Made (18 PTS) Assist: Hill (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:46",
+      "score": null,
+      "desc": "Horford Foul: Shooting (2 PF) (1 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "05:46",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "05:46",
+      "score": null,
+      "desc": "Hibbert Substitution replaced by Mahinmi"
+    },
+    {
+      "team": "away",
+      "clock": "05:46",
+      "score": null,
+      "desc": "West Free Throw 1 of 1 Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:45",
+      "score": null,
+      "desc": "Korver Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "home",
+      "clock": "05:29",
+      "score": "[ATL 69-61]",
+      "desc": "Pachulia Driving Jump shot: Made (14 PTS) Assist: Horford (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "05:15",
+      "score": "[IND 63-69]",
+      "desc": "Stephenson Layup Shot: Made (9 PTS) Assist: West (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "04:54",
+      "score": "[ATL 72-63]",
+      "desc": "Williams 3pt Shot: Made (14 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:41",
+      "score": "[IND 65-72]",
+      "desc": "Hill Driving Layup Shot: Made (12 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:33",
+      "score": null,
+      "desc": "Mahinmi Foul: Personal (1 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "04:27",
+      "score": null,
+      "desc": "Stephenson Foul: Flagrant Type 1 (3 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "04:27",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "home",
+      "clock": "04:27",
+      "score": "[ATL 73-65]",
+      "desc": "Korver Free Throw Flagrant 1 of 2 (12 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:27",
+      "score": "[ATL 74-65]",
+      "desc": "Korver Free Throw Flagrant 2 of 2 (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "04:27",
+      "score": null,
+      "desc": "Stephenson Substitution replaced by Green"
+    },
+    {
+      "team": "home",
+      "clock": "04:10",
+      "score": "[ATL 77-65]",
+      "desc": "Korver 3pt Shot: Made (16 PTS) Assist: Williams (10 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "03:50",
+      "score": null,
+      "desc": "Hill Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:49",
+      "score": null,
+      "desc": "Horford Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "03:33",
+      "score": null,
+      "desc": "Pachulia Fadeaway Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "03:31",
+      "score": null,
+      "desc": "George Rebound (Off:4 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "03:17",
+      "score": null,
+      "desc": "Green 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:15",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:2 Def:8)"
+    },
+    {
+      "team": "home",
+      "clock": "03:06",
+      "score": "[ATL 79-65]",
+      "desc": "Williams Running Layup Shot: Made (16 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:05",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "03:05",
+      "score": null,
+      "desc": "Korver Substitution replaced by Stevenson"
+    },
+    {
+      "team": "home",
+      "clock": "03:05",
+      "score": null,
+      "desc": "Pachulia Substitution replaced by Johnson"
+    },
+    {
+      "team": "home",
+      "clock": "03:05",
+      "score": null,
+      "desc": "Teague Substitution replaced by Jenkins"
+    },
+    {
+      "team": "away",
+      "clock": "03:05",
+      "score": null,
+      "desc": "Hill Substitution replaced by Augustin"
+    },
+    {
+      "team": "away",
+      "clock": "02:54",
+      "score": null,
+      "desc": "George Turnover : Lost Ball (4 TO) Steal:Johnson (2 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:44",
+      "score": "[ATL 81-65]",
+      "desc": "Horford Jump Shot: Made (16 PTS) Assist: Williams (11 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "02:27",
+      "score": null,
+      "desc": "West Turnaround Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:24",
+      "score": null,
+      "desc": "Johnson Rebound (Off:1 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "02:18",
+      "score": null,
+      "desc": "Williams Driving Jump shot: Missed Block: Mahinmi (2 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "02:16",
+      "score": null,
+      "desc": "Horford Rebound (Off:1 Def:4)"
+    },
+    {
+      "team": "home",
+      "clock": "02:15",
+      "score": null,
+      "desc": "Horford Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:13",
+      "score": null,
+      "desc": "Johnson Rebound (Off:2 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "02:12",
+      "score": "[ATL 83-65]",
+      "desc": "Johnson Putback Layup Shot: Made (4 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:59",
+      "score": "[IND 67-83]",
+      "desc": "George Jump Shot: Made (12 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:44",
+      "score": null,
+      "desc": "Jenkins Running Reverse Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:42",
+      "score": null,
+      "desc": "George Rebound (Off:4 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "01:34",
+      "score": null,
+      "desc": "Mahinmi Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:34",
+      "score": null,
+      "desc": "Mahinmi Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "home",
+      "clock": "01:34",
+      "score": null,
+      "desc": "Williams Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "01:34",
+      "score": null,
+      "desc": "Mahinmi Free Throw 1 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:34",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "away",
+      "clock": "01:34",
+      "score": null,
+      "desc": "West Substitution replaced by Hansbrough"
+    },
+    {
+      "team": "away",
+      "clock": "01:34",
+      "score": "[IND 68-83]",
+      "desc": "Mahinmi Free Throw 2 of 2 (9 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "01:15",
+      "score": null,
+      "desc": "Williams Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "01:13",
+      "score": null,
+      "desc": "Mahinmi Rebound (Off:1 Def:1)"
+    },
+    {
+      "team": "away",
+      "clock": "00:59.9",
+      "score": null,
+      "desc": "Green Turnaround Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:58.3",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "00:44.9",
+      "score": null,
+      "desc": "Johnson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:43.8",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "00:35.2",
+      "score": null,
+      "desc": "Johnson Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:35.2",
+      "score": "[IND 69-83]",
+      "desc": "Mahinmi Free Throw 1 of 2 (10 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:35.2",
+      "score": null,
+      "desc": "Horford Substitution replaced by Pachulia"
+    },
+    {
+      "team": "away",
+      "clock": "00:35.2",
+      "score": "[IND 70-83]",
+      "desc": "Mahinmi Free Throw 2 of 2 (11 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:30.9",
+      "score": null,
+      "desc": "Williams 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:27.9",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:0 Def:4)"
+    },
+    {
+      "team": "away",
+      "clock": "00:07.9",
+      "score": null,
+      "desc": "George Turnover : Bad Pass (5 TO) Steal:Johnson (3 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:01.0",
+      "score": null,
+      "desc": "Stevenson 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.5",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:0 Def:5)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 3rd Quarter"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "Start of 4th QuarterBack to Top"
+    },
+    {
+      "team": "home",
+      "clock": "11:40",
+      "score": null,
+      "desc": "Johnson Foul: Personal (4 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "11:32",
+      "score": null,
+      "desc": "Johnson Foul: Personal (5 PF)"
+    },
+    {
+      "team": "away",
+      "clock": "11:28",
+      "score": "[IND 72-83]",
+      "desc": "Mahinmi Jump Shot: Made (13 PTS) Assist: Augustin (3 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "11:14",
+      "score": null,
+      "desc": "Mahinmi Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "11:14",
+      "score": "[ATL 84-72]",
+      "desc": "Pachulia Free Throw 1 of 2 (15 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "11:14",
+      "score": null,
+      "desc": "Pachulia Free Throw 2 of 2 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "11:13",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:0 Def:6)"
+    },
+    {
+      "team": "away",
+      "clock": "10:59",
+      "score": "[IND 74-84]",
+      "desc": "Stephenson Layup Shot: Made (11 PTS) Assist: Hansbrough (2 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "10:39",
+      "score": null,
+      "desc": "Jenkins Turnover : Bad Pass (3 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "10:27",
+      "score": null,
+      "desc": "Stephenson 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:25",
+      "score": null,
+      "desc": "Jenkins Rebound (Off:0 Def:2)"
+    },
+    {
+      "team": "home",
+      "clock": "10:16",
+      "score": null,
+      "desc": "Teague Turnover : Bad Pass (2 TO) Steal:Augustin (1 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "10:08",
+      "score": null,
+      "desc": "Mahinmi Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "10:07",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:2 Def:9)"
+    },
+    {
+      "team": "home",
+      "clock": "10:04",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "home",
+      "clock": "09:47",
+      "score": "[ATL 86-74]",
+      "desc": "Johnson Driving Layup Shot: Made (6 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "09:47",
+      "score": null,
+      "desc": "Mahinmi Foul: Shooting (3 PF) (1 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "09:47",
+      "score": null,
+      "desc": "Johnson Free Throw 1 of 1 Missed"
+    },
+    {
+      "team": "away",
+      "clock": "09:46",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:0 Def:7)"
+    },
+    {
+      "team": "away",
+      "clock": "09:31",
+      "score": "[IND 76-86]",
+      "desc": "Green Fadeaway Jump Shot: Made (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "09:11",
+      "score": null,
+      "desc": "Jenkins Running Jump Shot: Missed Block: Mahinmi (3 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "09:09",
+      "score": null,
+      "desc": "Johnson Rebound (Off:3 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "09:06",
+      "score": null,
+      "desc": "Johnson Turnover : Bad Pass (1 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "08:58",
+      "score": null,
+      "desc": "Green Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:53",
+      "score": null,
+      "desc": "Green Rebound (Off:1 Def:0)"
+    },
+    {
+      "team": "away",
+      "clock": "08:35",
+      "score": null,
+      "desc": "Stephenson Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:33",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:1 Def:7)"
+    },
+    {
+      "team": "away",
+      "clock": "08:30",
+      "score": null,
+      "desc": "Green 3pt Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "08:30",
+      "score": null,
+      "desc": "Green Substitution replaced by George"
+    },
+    {
+      "team": "home",
+      "clock": "08:30",
+      "score": null,
+      "desc": "Stevenson Substitution replaced by Korver"
+    },
+    {
+      "team": "home",
+      "clock": "08:27",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "08:27",
+      "score": null,
+      "desc": "Jump Ball Johnson vs Stephenson (Teague gains possession)"
+    },
+    {
+      "team": "home",
+      "clock": "08:22",
+      "score": "[ATL 88-76]",
+      "desc": "Jenkins Running Layup Shot: Made (10 PTS) Assist: Teague (5 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "08:09",
+      "score": null,
+      "desc": "Mahinmi Layup Shot: Missed Block: Johnson (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "08:09",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:2 Def:7)"
+    },
+    {
+      "team": "home",
+      "clock": "08:09",
+      "score": null,
+      "desc": "Johnson Foul: Shooting (6 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "08:09",
+      "score": null,
+      "desc": "Johnson Substitution replaced by Horford"
+    },
+    {
+      "team": "away",
+      "clock": "08:09",
+      "score": "[IND 77-88]",
+      "desc": "Hansbrough Free Throw 1 of 2 (5 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "08:09",
+      "score": null,
+      "desc": "Mahinmi Substitution replaced by Hill"
+    },
+    {
+      "team": "away",
+      "clock": "08:09",
+      "score": null,
+      "desc": "Augustin Substitution replaced by West"
+    },
+    {
+      "team": "away",
+      "clock": "08:09",
+      "score": "[IND 78-88]",
+      "desc": "Hansbrough Free Throw 2 of 2 (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "07:48",
+      "score": null,
+      "desc": "Teague Turnover : Bad Pass (3 TO) Steal:George (2 ST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:42",
+      "score": "[IND 80-88]",
+      "desc": "Stephenson Running Layup Shot: Made (13 PTS) Assist: George (6 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "07:35",
+      "score": null,
+      "desc": "Hansbrough Foul: Personal (1 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "07:35",
+      "score": null,
+      "desc": "Jenkins Substitution replaced by Williams"
+    },
+    {
+      "team": "home",
+      "clock": "07:25",
+      "score": "[ATL 91-80]",
+      "desc": "Williams 3pt Shot: Made (19 PTS) Assist: Horford (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "07:08",
+      "score": null,
+      "desc": "Jump Ball Korver vs George (Hill gains possession)"
+    },
+    {
+      "team": "away",
+      "clock": "06:55",
+      "score": "[IND 83-91]",
+      "desc": "West 3pt Shot: Made (21 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:31",
+      "score": null,
+      "desc": "Korver Turnover : Bad Pass (3 TO)"
+    },
+    {
+      "team": "home",
+      "clock": "06:31",
+      "score": null,
+      "desc": "Korver Foul: Loose Ball (3 PF)"
+    },
+    {
+      "team": "home",
+      "clock": "06:18",
+      "score": null,
+      "desc": "Pachulia Foul: Shooting (3 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "06:18",
+      "score": "[IND 84-91]",
+      "desc": "West Free Throw 1 of 2 (22 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "06:18",
+      "score": "[IND 85-91]",
+      "desc": "West Free Throw 2 of 2 (23 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "06:01",
+      "score": null,
+      "desc": "Teague Turnaround Jump Shot: Missed Block: Hansbrough (1 BLK)"
+    },
+    {
+      "team": "away",
+      "clock": "06:00",
+      "score": null,
+      "desc": "Hansbrough Rebound (Off:2 Def:8)"
+    },
+    {
+      "team": "away",
+      "clock": "05:56",
+      "score": null,
+      "desc": "Hill Running Jump Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:55",
+      "score": null,
+      "desc": "Stephenson Rebound (Off:3 Def:2)"
+    },
+    {
+      "team": "away",
+      "clock": "05:54",
+      "score": null,
+      "desc": "Stephenson Putback Layup Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "05:54",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "05:54",
+      "score": null,
+      "desc": ""
+    },
+    {
+      "team": "away",
+      "clock": "05:54",
+      "score": null,
+      "desc": "Stephenson Substitution replaced by Green"
+    },
+    {
+      "team": "home",
+      "clock": "05:43",
+      "score": null,
+      "desc": "Teague Turnover : Bad Pass (4 TO)"
+    },
+    {
+      "team": "away",
+      "clock": "05:29",
+      "score": null,
+      "desc": "Hill Turnover : Bad Pass (2 TO) Steal:Williams (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "05:24",
+      "score": null,
+      "desc": "Williams Running Layup Shot: Missed"
+    },
+    {
+      "team": "away",
+      "clock": "05:23",
+      "score": null,
+      "desc": "George Rebound (Off:4 Def:5)"
+    },
+    {
+      "team": "away",
+      "clock": "05:18",
+      "score": "[IND 87-91]",
+      "desc": "George Running Layup Shot: Made (14 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:18",
+      "score": null,
+      "desc": "Pachulia Foul: Shooting (4 PF) (1 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "05:18",
+      "score": "[IND 88-91]",
+      "desc": "George Free Throw 1 of 1 (15 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "05:02",
+      "score": "[ATL 93-88]",
+      "desc": "Horford Jump Shot: Made (18 PTS) Assist: Williams (12 AST)"
+    },
+    {
+      "team": "away",
+      "clock": "04:51",
+      "score": null,
+      "desc": "Hill Technical"
+    },
+    {
+      "team": "home",
+      "clock": "04:51",
+      "score": null,
+      "desc": "Korver Free Throw Technical Missed"
+    },
+    {
+      "team": "away",
+      "clock": "04:51",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "04:51",
+      "score": null,
+      "desc": "Jump Ball Horford vs Hill (George gains possession)"
+    },
+    {
+      "team": "away",
+      "clock": "04:40",
+      "score": null,
+      "desc": "Green Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:36",
+      "score": null,
+      "desc": "Teague Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "home",
+      "clock": "04:30",
+      "score": null,
+      "desc": "Williams Driving Layup Shot: Missed Block: Green (1 BLK)"
+    },
+    {
+      "team": "home",
+      "clock": "04:30",
+      "score": null,
+      "desc": "Team Rebound"
+    },
+    {
+      "team": "home",
+      "clock": "04:16",
+      "score": null,
+      "desc": "Williams 3pt Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "04:14",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:3 Def:9)"
+    },
+    {
+      "team": "away",
+      "clock": "04:02",
+      "score": null,
+      "desc": "West Foul: Shooting (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "04:02",
+      "score": "[ATL 94-88]",
+      "desc": "Teague Free Throw 1 of 2 (6 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "04:02",
+      "score": "[ATL 95-88]",
+      "desc": "Teague Free Throw 2 of 2 (7 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:53",
+      "score": null,
+      "desc": "West Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "03:51",
+      "score": null,
+      "desc": "Williams Rebound (Off:0 Def:3)"
+    },
+    {
+      "team": "away",
+      "clock": "03:51",
+      "score": null,
+      "desc": "Hansbrough Foul: Personal (2 PF) (2 FTA)"
+    },
+    {
+      "team": "home",
+      "clock": "03:51",
+      "score": "[ATL 96-88]",
+      "desc": "Williams Free Throw 1 of 2 (20 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "03:51",
+      "score": "[ATL 97-88]",
+      "desc": "Williams Free Throw 2 of 2 (21 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:39",
+      "score": "[IND 90-97]",
+      "desc": "West Driving Jump shot: Made (25 PTS) Assist: George (7 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "03:15",
+      "score": "[ATL 99-90]",
+      "desc": "Teague Floating Jump shot: Made (9 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "03:04",
+      "score": null,
+      "desc": "Team Timeout : Regular"
+    },
+    {
+      "team": "away",
+      "clock": "02:58",
+      "score": null,
+      "desc": "Hansbrough Turnover : Lost Ball (1 TO) Steal:Teague (1 ST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:53",
+      "score": "[ATL 101-90]",
+      "desc": "Teague Running Layup Shot: Made (11 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "02:35",
+      "score": "[IND 93-101]",
+      "desc": "Hill 3pt Shot: Made (15 PTS) Assist: West (3 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "02:15",
+      "score": null,
+      "desc": "Horford Driving Jump shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "02:13",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:4 Def:9)"
+    },
+    {
+      "team": "home",
+      "clock": "02:12",
+      "score": "[ATL 103-93]",
+      "desc": "Pachulia Putback Layup Shot: Made (17 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:55",
+      "score": "[IND 95-103]",
+      "desc": "West Fadeaway Jump Shot: Made (27 PTS) Assist: George (8 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "01:39",
+      "score": "[ATL 105-95]",
+      "desc": "Teague Driving Layup Shot: Made (13 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "01:29",
+      "score": null,
+      "desc": "Team Timeout : Short"
+    },
+    {
+      "team": "away",
+      "clock": "01:14",
+      "score": null,
+      "desc": "West Turnaround Fadeaway shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "01:12",
+      "score": null,
+      "desc": "Horford Rebound (Off:1 Def:5)"
+    },
+    {
+      "team": "home",
+      "clock": "00:57.4",
+      "score": "[ATL 107-95]",
+      "desc": "Horford Jump Shot: Made (20 PTS) Assist: Teague (6 AST)"
+    },
+    {
+      "team": "home",
+      "clock": "00:45.0",
+      "score": null,
+      "desc": "Korver Foul: Shooting (4 PF) (2 FTA)"
+    },
+    {
+      "team": "away",
+      "clock": "00:45.0",
+      "score": "[IND 96-107]",
+      "desc": "West Free Throw 1 of 2 (28 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:45.0",
+      "score": "[IND 97-107]",
+      "desc": "West Free Throw 2 of 2 (29 PTS)"
+    },
+    {
+      "team": "home",
+      "clock": "00:26.9",
+      "score": null,
+      "desc": "Teague Jump Shot: Missed"
+    },
+    {
+      "team": "home",
+      "clock": "00:25.9",
+      "score": null,
+      "desc": "Pachulia Rebound (Off:5 Def:9)"
+    },
+    {
+      "team": "home",
+      "clock": "00:04.8",
+      "score": "[ATL 109-97]",
+      "desc": "Teague Driving Layup Shot: Made (15 PTS)"
+    },
+    {
+      "team": "away",
+      "clock": "00:00.0",
+      "score": "[IND 100-109]",
+      "desc": "George 3pt Shot: Made (18 PTS)"
+    },
+    {
+      "team": null,
+      "clock": null,
+      "score": null,
+      "desc": "End of 4th Quarter"
+    }
+  ],
+  "away_abbr": "IND",
+  "city": "Atlanta, GA",
+  "datetime": "2012-12-29T19:00:00",
+  "home_abbr": "ATL"
+}
