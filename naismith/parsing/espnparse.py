@@ -1,11 +1,7 @@
 from matchprogram import MatchProgram, ProgramSet
 
-
-
 def _unicode_not_none(obj):
     return None if obj is None else unicode(obj)
-
-
 
 program_parameters_set = (
     (r'(?P<shooter>.+?) (?P<result>makes|misses) free throw(?P<clear_path> clear path)? (?P<number>\d) of (?P<of>\d)',
@@ -192,9 +188,11 @@ program_parameters_set = (
     ),
 )
 
+class Parser(object):
+    """Parses descriptions from `ESPNCom` instances
+    """
 
-
-match_programs = [MatchProgram(*params) for params in program_parameters_set]
-
-resolve_play_type = ProgramSet(match_programs=match_programs,
-                               default={'type': u'UNKNOWN'})
+    def __init__(self):
+        programs = [MatchProgram(*params) for params in program_parameters_set]
+        self.resolve_play_type = ProgramSet(match_programs=programs,
+                                            default={'type': u'UNKNOWN'})
