@@ -1,8 +1,12 @@
 from matchprogram import MatchProgram, ProgramSet
 import re
 
+
+
 def _unicode_not_none(obj):
     return None if obj is None else unicode(obj)
+
+
 
 program_parameters_set = (
     (r'(?P<start_end>Start|End) of (?P<start_period>\d)(?:st|nd|rd|th) (?P<period_type>Quarter|Overtime)',
@@ -136,8 +140,10 @@ program_parameters_set = (
     ),
 )
 
+
+
 class Parser(object):
-    """Parses descriptions from `NBACom` instances
+    """Parses descriptions from `NBACom` instance plays.
     """
 
     def __init__(self, nbacom):
@@ -148,7 +154,7 @@ class Parser(object):
             pattern = params[0].format(player_abbr_pattern=player_abbr_pattern)
             post_proc = params[1]
             programs.append(MatchProgram(pattern=pattern, post_proc=post_proc))
-        self.resolve_play_type = ProgramSet(match_programs=programs,
+        self.parse_description = ProgramSet(match_programs=programs,
                                             default={'type': u'UNKNOWN',})
 
     def _get_player_abbr_pattern(self):
@@ -161,3 +167,19 @@ class Parser(object):
             if match is not None:
                 abbrs.add(re.escape(match.group(1)))
         return r'|'.join(abbrs)
+
+
+
+class NBAParsedPlays(tuple):
+    """Tuple of dictionaries containing information parsed from play or event 
+    description merged with information scraped from NBA.com.
+    """
+
+    def __new__(cls, nbacom):
+        parser = Parser(nbacom)
+        lst = list()
+        for scraped_play in nbacom['plays']:
+            parsed_play = parser.parse_description(scraped_play['desc'])
+            parsed_play.update(scraped_play)
+            lst.append(parsed_play)
+        return super(ParsedPlays, cls).__new__(cls, lst)
