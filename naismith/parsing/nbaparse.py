@@ -182,4 +182,4 @@ class NBAParsedPlays(tuple):
             parsed_play = parser.parse_description(scraped_play['desc'])
             parsed_play.update(scraped_play)
             lst.append(parsed_play)
-        return super(ParsedPlays, cls).__new__(cls, lst)
+        return super(NBAParsedPlays, cls).__new__(cls, lst)
