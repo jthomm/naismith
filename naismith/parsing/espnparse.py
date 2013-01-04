@@ -1,7 +1,11 @@
 from matchprogram import MatchProgram, ProgramSet
 
+
+
 def _unicode_not_none(obj):
     return None if obj is None else unicode(obj)
+
+
 
 program_parameters_set = (
     (r'(?P<shooter>.+?) (?P<result>makes|misses) free throw(?P<clear_path> clear path)? (?P<number>\d) of (?P<of>\d)',
@@ -185,11 +189,21 @@ program_parameters_set = (
     ),
 )
 
-class Parser(object):
-    """Parses descriptions from `ESPNCom` instances
+
+
+class ESPNParsedPlays(tuple):
+    """Tuple of dictionaries containing information parsed from play or event 
+    description merged with information scraped from ESPN.com.
     """
 
-    def __init__(self):
-        programs = [MatchProgram(*params) for params in program_parameters_set]
-        self.resolve_play_type = ProgramSet(match_programs=programs,
-                                            default={'type': u'UNKNOWN'})
+    def __new__(cls, espncom):
+        parse_description = ProgramSet(match_programs=[MatchProgram(*params) \
+                                                       for params in \
+                                                       program_parameters_set],
+                                       default={'type': u'UNKNOWN',})
+        lst = list()
+        for scraped_play in espncom['plays']:
+            parsed_play = parse_description(scraped_play['desc'])
+            parsed_play.update(scraped_play)
+            lst.append(parsed_play)
+        return super(ESPNParsedPlays, cls).__new__(cls, lst)
