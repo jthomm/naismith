@@ -53,8 +53,8 @@ from parsing import ESPNParsedPlays
 
 from espnprocess import MergedPlays, TimePlays
 
-espncom = ESPNCom(bs(open('./raw-markup/400278196.html').read()))
-shot_chart = ShotChart(bs(open('./raw-markup/400278196-shot.xml').read()))
+espncom = ESPNCom(bs(open('./markup-data/400278196-playbyplay.html').read()))
+shot_chart = ShotChart(bs(open('./markup-data/400278196-shot.xml').read()))
 espnpp = ESPNParsedPlays(espncom)
 
 mp = MergedPlays(espnpp, shot_chart)
@@ -116,36 +116,3 @@ def _seconds_since_game_began(current_period, seconds_remaining):
     return 720*num_quarters_completed + \
            300*num_overtimes_completed + \
            seconds_since_current_period_began
-
-
-
-class Lineup(object):
-    """Represents 5 players who are on the floor and includes methods
-    for substitutions and error handling.
-    """
-
-    def __init__(self, players=None):
-        if players is None:
-            self.players = set()
-        else:
-            self.players = set(players)
-
-    def __eq__(self, other):
-        return self.players == other.players
-
-    def remove(self, players):
-        new_player_set = self.players - set(players)
-        self.players = new_player_set
-
-
-    def add(self, players):
-        new_player_set = self.players + set(players)
-        if len(new_player_set) >= 5:
-            raise Exception('Adding %s to %s results in more than 5 players' % \
-                            (set(players), self.players))
-        else:
-            self.players = new_player_set
-
-    def substitute(player_out, player_in):
-        self.remove([player_out])
-        self.add([player_in])
