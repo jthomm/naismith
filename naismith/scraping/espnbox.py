@@ -1,5 +1,3 @@
-
-
 class BoxScoreTrABC(object):
     """Object representation of a table row from the game's ESPN.com 
     box score. This is only valid for rows which correspond to player 
@@ -15,9 +13,14 @@ class BoxScoreTrABC(object):
         return unicode(self._tds[0].a.attrs['href'])
 
     @property
-    def player_abbr(self):
+    def player_name(self):
         """Returns the player's abbreviated name."""
-        return self._tds[0].text
+        return self._tds[0].text.split(u', ')[0]
+
+    @property
+    def position(self):
+        """Returns the player's position."""
+        return self._tds[0].text.split(u', ')[1]
 
 
 
@@ -26,70 +29,66 @@ class BoxScoreTr(BoxScoreTrABC):
     """
 
     @property
-    def position(self):
+    def minutes_played(self):
         return self._tds[1].text
 
     @property
-    def minutes_played(self):
+    def field_goals(self):
         return self._tds[2].text
 
     @property
-    def field_goals(self):
+    def three_pointers(self):
         return self._tds[3].text
 
     @property
-    def three_pointers(self):
+    def free_throws(self):
         return self._tds[4].text
 
     @property
-    def free_throws(self):
-        return self._tds[5].text
-
-    @property
     def offensive_rebounds(self):
-        return int(self._tds[6].text)
+        return int(self._tds[5].text)
 
     @property
     def defensive_rebounds(self):
-        return int(self._tds[7].text)
+        return int(self._tds[6].text)
 
     @property
     def total_rebounds(self):
-        return int(self._tds[8].text)
+        return int(self._tds[7].text)
 
     @property
     def assists(self):
-        return int(self._tds[9].text)
+        return int(self._tds[8].text)
 
     @property
     def steals(self):
-        return int(self._tds[10].text)
+        return int(self._tds[9].text)
 
     @property
     def blocked_shots(self):
-        return int(self._tds[11].text)
+        return int(self._tds[10].text)
 
     @property
     def turnovers(self):
-        return int(self._tds[12].text)
+        return int(self._tds[11].text)
 
     @property
     def personal_fouls(self):
-        return int(self._tds[13].text)
+        return int(self._tds[12].text)
 
     @property
     def plus_minus(self):
-        return int(self._tds[14].text)
+        return int(self._tds[13].text)
 
     @property
     def points(self):
-        return int(self._tds[15].text)
+        return int(self._tds[14].text)
 
     @property
     def as_dict(self):
         return {attr_name: getattr(self, attr_name) for attr_name in \
                 ('player_url',
-                 'player_abbr',
+                 'player_name',
                  'position',
                  'minutes_played',
                  'field_goals',
@@ -108,28 +107,61 @@ class BoxScoreTr(BoxScoreTrABC):
 
 
 
+class DNPBoxScoreTr(BoxScoreTrABC):
+    """Box score table row for players that did not play.  Row will have
+    two cells only.  Second cell gives reason for DNP.
+    """
 
-class TeamBoxScore(object):
-    """One of two box score tables:
-    
-    >>> 
-    >>> len(tag.find_all('table', {'id': 'nbaGITeamStats'}))
-    2
-    >>> 
-    >>> 
+    @property
+    def dnp_reason(self):
+        return self._tds[1].text
+
+    @property
+    def as_dict(self):
+        return {attr_name: getattr(self, attr_name) for attr_name in \
+                ('player_url',
+                 'player_name',
+                 'position',
+                 'dnp_reason',)}
+
+
+
+class BoxScoreTbody(tuple):
+    """tbody
+    """
+
+    def __new__(cls, tag):
+        lst = list()
+        for tr in tag.find_all('tr'):
+            tds = tr.find_all('td')
+            if len(tds) == 2:
+                box_score_tr = DNPBoxScoreTr(tds)
+            else:
+                box_score_tr = BoxScoreTr(tds)
+            lst.append(box_score_tr.as_dict)
+        return super(BoxScoreTbody, cls).__new__(cls, lst)
+
+
+
+class TeamBoxScore(dict):
+    """One of two box score tables
+    """
+
+    def __init__(self, starters_tbody, bench_tbody):
+        dict.__init__(self)
+        self['starters'] = BoxScoreTbody(starters_tbody)
+        self['bench'] = BoxScoreTbody(bench_tbody)
+
+
+
+class BoxScore(dict):
+    """box score
     """
 
     def __init__(self, tag):
-        for player_tr in tag.find_all(_is_player_tr):
-            f
-
-
-"""Utils"""
-
-def _tag_text_stripped(td):
-    return re.sub(r'[\n\s]+', u' ', td.text).strip()
-
-def _is_player_tr(tag):
-    return tag.name == 'tr' and \
-           tag.a is not None and \
-           tag.a.attrs.get('href', '')[:11] == '/playerfile'
+        dict.__init__(self)
+        mod_data = tag.find('table', {'class': 'mod-data'})
+        tbodies = mod_data.find_all('tbody')
+        print len(tbodies)
+        self['away'] = TeamBoxScore(*tbodies[:2])
+        self['home'] = TeamBoxScore(*tbodies[3:5])

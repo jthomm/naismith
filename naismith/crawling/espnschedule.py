@@ -123,9 +123,9 @@ class SchedulePage(tuple):
         game_page_date = _get_game_page_date(tag)
         for game_box_tag in tag.find_all(_is_game_box_tag):
             game_status_tag = game_box_tag.find(**{'class': 'game-status'})
-            if game_status_tag.p.text == u'Final':
+            if game_status_tag.p.text[:5] == u'Final':
                 game_box = GameBox(game_box_tag)
-                game_box['datetime'] = game_page_date
+                game_box['date'] = game_page_date
                 game_box['nba_id'] = _derive_nba_game_id(game_page_date,
                                                     game_box['away']['nickname'],
                                                     game_box['home']['nickname'])
@@ -151,10 +151,10 @@ def _generate_period_names():
 
 def _get_game_page_date(tag):
     _date_str = tag.find(**{'class': 'sc_logo'}).parent.find('h2').text
-    return datetime.datetime.strptime(_date_str, 'Scores for %B %d, %Y')
+    return datetime.datetime.strptime(_date_str, 'Scores for %B %d, %Y').date()
 
-def _derive_nba_game_id(game_datetime, away_nickname, home_nickname):
-    date_str = game_datetime.strftime('%Y%m%d')
+def _derive_nba_game_id(game_date, away_nickname, home_nickname):
+    date_str = game_date.strftime('%Y%m%d')
     away_abbr = find_team(nickname=away_nickname)['abbr']
     home_abbr = find_team(nickname=home_nickname)['abbr']
     return u''.join((date_str, away_abbr, home_abbr))
