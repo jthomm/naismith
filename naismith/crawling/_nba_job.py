@@ -7,6 +7,9 @@ from os import path
 import sys
 
 
+playbyplay_path = 'http://data.nba.com/10s/json/cms/noseason/game/20121126/0021200013/pbp_1.json'
+scoreboard_path = 'http://data.nba.com/5s/json/cms/noseason/scoreboard/20101225/games.json'
+
 
 def json_default(obj):
     try:
