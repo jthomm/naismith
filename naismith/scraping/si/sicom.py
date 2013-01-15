@@ -3,6 +3,10 @@ import datetime
 import re
 
 
+scoreboard_path = 'http://data.sportsillustrated.cnn.com/jsonp/basketball/nba/scoreboards/2013/01/14/scoreboard.json'
+playbyplay_path = 'http://data.sportsillustrated.cnn.com/jsonp/basketball/nba/gameflash/2013/01/03/32102_playbyplay.json'
+box_scores_path = 'http://data.sportsillustrated.cnn.com/jsonp/basketball/nba/gameflash/2013/01/03/32102_boxscore.json'
+
 
 class SICom(object):
     """Container for SI play-by-play feed
