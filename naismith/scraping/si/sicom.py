@@ -18,7 +18,6 @@ class SICom(object):
         JSON data will almost certainly be wrapped with 'callbackWrapper(' 
         on the left and ');' on the right.
         """
-
         mo = re.search(r'callbackWrapper\((.+?)\);$', response_string)
         game_json = response_string if mo is None else mo.groups(0)[0]
         self._raw_data = json.loads(game_json)
@@ -48,20 +47,20 @@ class SICom(object):
     @property
     def away(self):
         team = self._raw_data['playbyplay']['contest']['team']
-        raw_data = team[1] if team[1]['side'] == 'visiting' else team[0]
-        return {'nickname': raw_data['name'],
-                'location': raw_data['city'],
-                'abbr': raw_data['three-letter-abbr'],
-                'stats_inc_id': raw_data['id'],}
+        raw_team_data = team[1] if team[1]['side'] == 'visiting' else team[0]
+        return {'nickname': raw_team_data['name'],
+                'location': raw_team_data['city'],
+                'abbr': raw_team_data['three-letter-abbr'],
+                'stats_inc_id': raw_team_data['id'],}
 
     @property
     def home(self):
         team = self._raw_data['playbyplay']['contest']['team']
-        raw_data = team[0] if team[0]['side'] == 'home' else team[1]
-        return {'nickname': raw_data['name'],
-                'location': raw_data['city'],
-                'abbr': raw_data['three-letter-abbr'],
-                'stats_inc_id': raw_data['id'],}
+        raw_team_data = team[0] if team[0]['side'] == 'home' else team[1]
+        return {'nickname': raw_team_data['name'],
+                'location': raw_team_data['city'],
+                'abbr': raw_team_data['three-letter-abbr'],
+                'stats_inc_id': raw_team_data['id'],}
 
     @property
     def plays(self):
