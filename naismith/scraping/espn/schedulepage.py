@@ -2,14 +2,6 @@ import datetime
 
 
 
-PBP_URL = u'http://espn.go.com/nba/playbyplay?gameId=%s&period=0'
-META_URL = u'http://espn.go.com/nba/boxscore?gameId=%s'
-BOX_URL = u'http://espn.go.com/nba/boxscore?gameId=%s'
-SHOT_URL = u'http://sports.espn.go.com/nba/gamepackage/data/shot?gameId=%s'
-GF_URL = u'http://sports.espn.go.com/nba/gamepackage/data/gameflow?gameId=%s'
-
-
-
 class TeamRow(object):
     """Represents one of two rows from `GameBox` instance
     """
@@ -74,9 +66,9 @@ class GameBox(dict):
 
     >>> from espnschedule import SchedulePage
     >>> import bs4
-    >>>
+    >>> 
     >>> tag = bs4.BeautifulSoup(open('20121226.html', 'rb').read())
-    >>>
+    >>> 
     >>> games = SchedulePage(tag)
     >>> games[1]
     {'away': {'nickname': u'Heat',
@@ -97,23 +89,12 @@ class GameBox(dict):
               'roster_url': u'http://espn.go.com/nba/team/roster/_/name/cha/charlotte-bobcats',
               'stats_url': u'http://espn.go.com/nba/team/stats/_/name/cha/charlotte-bobcats',
               'url': u'http://espn.go.com/nba/team/_/name/cha/charlotte-bobcats'},
-     'espn_id': u'400278131',
-     'play_by_play_url': u'http://espn.go.com/nba/playbyplay?gameId=400278131&period=0',
-     'box_score_url': u'http://espn.go.com/nba/boxscore?gameId=400278131',
-     'game_meta_url': u'http://espn.go.com/nba/boxscore?gameId=400278131',
-     'game_flow_url': u'http://sports.espn.go.com/nba/gamepackage/data/gameflow?gameId=400278131',
-     'shot_chart_url': u'http://sports.espn.go.com/nba/gamepackage/data/shot?gameId=400278131'}
+     'espn_id': u'400278131'}
     """
 
     def __init__(self, tag):
         dict.__init__(self)
-        espn_id = unicode(tag.attrs['id'][:9])
-        self['espn_id'] = espn_id
-        self['play_by_play_url'] = PBP_URL % espn_id
-        self['game_meta_url'] = META_URL % espn_id
-        self['box_score_url'] = BOX_URL % espn_id
-        self['shot_chart_url'] = SHOT_URL % espn_id
-        self['game_flow_url'] =  GF_URL % espn_id
+        self['espn_id'] = unicode(tag.attrs['id'][:9])
         _team_rows = map(TeamRow, tag.find_all(_is_team_row_tag))
         self['away'] = _team_rows[0].as_dict
         self['home'] = _team_rows[1].as_dict
