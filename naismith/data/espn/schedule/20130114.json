@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2013-01-14",
+    "home": {
+      "url": "http://espn.go.com/nba/team/_/name/wsh/washington-wizards",
+      "nickname": "Wizards",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/wsh/washington-wizards",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/wsh/washington-wizards",
+      "scores": {
+        "Q1": 28,
+        "Q3": 37,
+        "Q2": 31,
+        "Final": 120,
+        "Q4": 24
+      }
+    },
+    "away": {
+      "url": "http://espn.go.com/nba/team/_/name/orl/orlando-magic",
+      "nickname": "Magic",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/orl/orlando-magic",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/orl/orlando-magic",
+      "scores": {
+        "Q1": 22,
+        "Q3": 24,
+        "Q2": 31,
+        "Final": 91,
+        "Q4": 14
+      }
+    },
+    "espn_id": "400278276"
+  },
+  {
+    "date": "2013-01-14",
+    "home": {
+      "url": "http://espn.go.com/nba/team/_/name/bos/boston-celtics",
+      "nickname": "Celtics",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/bos/boston-celtics",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/bos/boston-celtics",
+      "scores": {
+        "Q1": 28,
+        "Q3": 20,
+        "Q2": 28,
+        "Final": 100,
+        "Q4": 24
+      }
+    },
+    "away": {
+      "url": "http://espn.go.com/nba/team/_/name/cha/charlotte-bobcats",
+      "nickname": "Bobcats",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/cha/charlotte-bobcats",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/cha/charlotte-bobcats",
+      "scores": {
+        "Q1": 18,
+        "Q3": 25,
+        "Q2": 27,
+        "Final": 89,
+        "Q4": 19
+      }
+    },
+    "espn_id": "400278277"
+  },
+  {
+    "date": "2013-01-14",
+    "home": {
+      "url": "http://espn.go.com/nba/team/_/name/chi/chicago-bulls",
+      "nickname": "Bulls",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/chi/chicago-bulls",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/chi/chicago-bulls",
+      "scores": {
+        "Q1": 26,
+        "Q3": 23,
+        "Q2": 22,
+        "Final": 97,
+        "Q4": 26
+      }
+    },
+    "away": {
+      "url": "http://espn.go.com/nba/team/_/name/atl/atlanta-hawks",
+      "nickname": "Hawks",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/atl/atlanta-hawks",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/atl/atlanta-hawks",
+      "scores": {
+        "Q1": 15,
+        "Q3": 17,
+        "Q2": 5,
+        "Final": 58,
+        "Q4": 21
+      }
+    },
+    "espn_id": "400278278"
+  },
+  {
+    "date": "2013-01-14",
+    "home": {
+      "url": "http://espn.go.com/nba/team/_/name/mem/memphis-grizzlies",
+      "nickname": "Grizzlies",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/mem/memphis-grizzlies",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/mem/memphis-grizzlies",
+      "scores": {
+        "Q1": 19,
+        "Q3": 18,
+        "Q2": 15,
+        "Final": 73,
+        "Q4": 21
+      }
+    },
+    "away": {
+      "url": "http://espn.go.com/nba/team/_/name/lac/los-angeles-clippers",
+      "nickname": "Clippers",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/lac/los-angeles-clippers",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/lac/los-angeles-clippers",
+      "scores": {
+        "Q1": 25,
+        "Q3": 20,
+        "Q2": 28,
+        "Final": 99,
+        "Q4": 26
+      }
+    },
+    "espn_id": "400278279"
+  },
+  {
+    "date": "2013-01-14",
+    "home": {
+      "url": "http://espn.go.com/nba/team/_/name/dal/dallas-mavericks",
+      "nickname": "Mavericks",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/dal/dallas-mavericks",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/dal/dallas-mavericks",
+      "scores": {
+        "Q1": 26,
+        "Q3": 36,
+        "Q2": 29,
+        "Final": 113,
+        "Q4": 22
+      }
+    },
+    "away": {
+      "url": "http://espn.go.com/nba/team/_/name/min/minnesota-timberwolves",
+      "nickname": "Timberwolves",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/min/minnesota-timberwolves",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/min/minnesota-timberwolves",
+      "scores": {
+        "Q1": 19,
+        "Q3": 25,
+        "Q2": 26,
+        "Final": 98,
+        "Q4": 28
+      }
+    },
+    "espn_id": "400278280"
+  },
+  {
+    "date": "2013-01-14",
+    "home": {
+      "url": "http://espn.go.com/nba/team/_/name/utah/utah-jazz",
+      "nickname": "Jazz",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/utah/utah-jazz",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/utah/utah-jazz",
+      "scores": {
+        "Q1": 30,
+        "Q3": 25,
+        "Q2": 29,
+        "Final": 104,
+        "Q4": 20
+      }
+    },
+    "away": {
+      "url": "http://espn.go.com/nba/team/_/name/mia/miami-heat",
+      "nickname": "Heat",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/mia/miami-heat",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/mia/miami-heat",
+      "scores": {
+        "Q1": 25,
+        "Q3": 21,
+        "Q2": 19,
+        "Final": 97,
+        "Q4": 32
+      }
+    },
+    "espn_id": "400278281"
+  },
+  {
+    "date": "2013-01-14",
+    "home": {
+      "url": "http://espn.go.com/nba/team/_/name/phx/phoenix-suns",
+      "nickname": "Suns",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/phx/phoenix-suns",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/phx/phoenix-suns",
+      "scores": {
+        "Q1": 24,
+        "Q3": 23,
+        "Q2": 21,
+        "Final": 90,
+        "Q4": 22
+      }
+    },
+    "away": {
+      "url": "http://espn.go.com/nba/team/_/name/okc/oklahoma-city-thunder",
+      "nickname": "Thunder",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/okc/oklahoma-city-thunder",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/okc/oklahoma-city-thunder",
+      "scores": {
+        "Q1": 21,
+        "Q3": 21,
+        "Q2": 30,
+        "Final": 102,
+        "Q4": 30
+      }
+    },
+    "espn_id": "400278282"
+  },
+  {
+    "date": "2013-01-14",
+    "home": {
+      "url": "http://espn.go.com/nba/team/_/name/sac/sacramento-kings",
+      "nickname": "Kings",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/sac/sacramento-kings",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/sac/sacramento-kings",
+      "scores": {
+        "Q1": 31,
+        "Q3": 24,
+        "Q2": 38,
+        "Final": 124,
+        "Q4": 31
+      }
+    },
+    "away": {
+      "url": "http://espn.go.com/nba/team/_/name/cle/cleveland-cavaliers",
+      "nickname": "Cavaliers",
+      "roster_url": "http://espn.go.com/nba/team/roster/_/name/cle/cleveland-cavaliers",
+      "stats_url": "http://espn.go.com/nba/team/stats/_/name/cle/cleveland-cavaliers",
+      "scores": {
+        "Q1": 24,
+        "Q3": 30,
+        "Q2": 33,
+        "Final": 118,
+        "Q4": 31
+      }
+    },
+    "espn_id": "400278283"
+  }
+]

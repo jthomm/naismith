@@ -1,0 +1,67 @@
+[
+  {
+    "url": "http://www.nba.com/games/20130115/NOHPHI/gameinfo.html",
+    "home": {
+      "team_abbr": "PHI",
+      "final_score": 99
+    },
+    "away": {
+      "team_abbr": "NOH",
+      "final_score": 111
+    },
+    "nba_id": "20130115NOHPHI",
+    "time": "7:00 PM ET"
+  },
+  {
+    "url": "http://www.nba.com/games/20130115/INDCHA/gameinfo.html",
+    "home": {
+      "team_abbr": "CHA",
+      "final_score": 76
+    },
+    "away": {
+      "team_abbr": "IND",
+      "final_score": 103
+    },
+    "nba_id": "20130115INDCHA",
+    "time": "7:00 PM ET"
+  },
+  {
+    "url": "http://www.nba.com/games/20130115/TORBKN/gameinfo.html",
+    "home": {
+      "team_abbr": "BKN",
+      "final_score": 113
+    },
+    "away": {
+      "team_abbr": "TOR",
+      "final_score": 106
+    },
+    "nba_id": "20130115TORBKN",
+    "time": "7:30 PM ET"
+  },
+  {
+    "url": "http://www.nba.com/games/20130115/LACHOU/gameinfo.html",
+    "home": {
+      "team_abbr": "HOU",
+      "final_score": 109
+    },
+    "away": {
+      "team_abbr": "LAC",
+      "final_score": 117
+    },
+    "nba_id": "20130115LACHOU",
+    "time": "8:00 PM ET"
+  },
+  {
+    "url": "http://www.nba.com/games/20130115/MILLAL/gameinfo.html",
+    "home": {
+      "team_abbr": "LAL",
+      "final_score": 104
+    },
+    "away": {
+      "team_abbr": "MIL",
+      "final_score": 88
+    },
+    "nba_id": "20130115MILLAL",
+    "time": "10:30 PM ET"
+  }
+]
