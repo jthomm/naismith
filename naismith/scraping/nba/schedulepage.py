@@ -93,3 +93,14 @@ class SchedulePage(tuple):
         lst = [GameLine(game_line_tag).as_dict for game_line_tag in \
                tag.find_all('div', {'class': 'Recap GameLine'})]
         return super(SchedulePage, cls).__new__(cls, lst)
+
+
+
+"""Utils"""
+
+def _is_game_line_tag(tag):
+    classes = tag.attrs.get('class', list())
+    try:
+        return classes[0][:5] == 'Recap' and classes[1] == 'GameLine'
+    except IndexError:
+        return False
