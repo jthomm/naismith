@@ -5,13 +5,13 @@ import sys
 PKG_DIR = path.dirname(MODULE_DIR)
 sys.path.append(PKG_DIR)
 
-from datamanager import ResourceABC
+from resourceabc import ResourceABC
 
 import simplejson as json
 import re
 
 
-FILE_DIR = path.join(path.dirname(PKG_DIR), 'files', 'si')
+FILE_DIR = path.join(path.dirname(MODULE_DIR), 'files', 'si')
 
 
 class SchedulePage(ResourceABC):

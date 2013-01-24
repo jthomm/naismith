@@ -5,14 +5,14 @@ import sys
 PKG_DIR = path.dirname(MODULE_DIR)
 sys.path.append(PKG_DIR)
 
-from datamanager import ResourceABC
+from resourceabc import ResourceABC
 
 from scraping import espn
 
 import bs4
 
 
-FILE_DIR = path.join(path.dirname(PKG_DIR), 'files', 'espn')
+FILE_DIR = path.join(path.dirname(MODULE_DIR), 'files', 'espn')
 
 
 class SchedulePage(ResourceABC):
