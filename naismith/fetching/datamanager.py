@@ -19,49 +19,59 @@ class FetchRawException(Exception):
     your request."""
 
 
-class DataManager(object):
+class ResourceABC(object):
 
-    def load(self, data_id):
+    def __init__(self, resource_id):
+        self.resource_id = resource_id
+
+    def load(self):
         try:
-            return self.open_scraped(data_id)
+            return self.open_scraped()
         except IOError:
             try:
-                raw = self.open_raw(data_id)
+                raw = self.open_raw()
             except IOError:
                 try:
-                    raw = self.fetch_raw(data_id)
+                    raw = self.fetch_raw()
                 except:
-                    # TODO: differentiate between connection timeouts and 
+                    # TODO: differentiate between connection timeouts and
                     # bad URLs...
                     raise FetchRawException()
                 else:
-                    self.save_raw(raw, data_id)
+                    self.save_raw(raw)
             scraped = self.scrape(raw)
-            self.save_scraped(scraped, data_id)
+            self.save_scraped(scraped)
             return scraped
 
+    def fetch_raw(self):
+        """Required: implement `.url`
+        """
+        return requests.get(self.url).text
+
+    def open_raw(self):
+        """Required: implement `.raw_file_path`
+        """
+        return gzip.open(self.raw_file_path, 'rb').read()
+
+    def save_raw(self, raw):
+        with gzip.open(self.raw_file_path, 'wb') as f:
+            f.write(replace_out_of_range(raw))
+
+    def open_scraped(self):
+        """Required: implement `.scraped_file_path`
+        """
+        encoded = gzip.open(self.scraped_file_path, 'rb').read()
+        return self.decode(encoded)
+
+    def save_scraped(self, scraped):
+        encoded = self.encode(scraped)
+        with gzip.open(self.scraped_file_path, 'wb') as f:
+            f.write(replace_out_of_range(encoded))
+
     def encode(self, scraped):
-        return json.dumps(scraped, default=json_datetime_default)
+        """Optional: implement your own encode/decode protocol
+        """
+        return json.dumps(scraped, default=json_datetime_default, indent=2)
 
     def decode(self, encoded):
         return json.loads(encoded)
-
-    def fetch_raw(self, data_id):
-        return requests.get(self.url_for(data_id)).text
-
-    def open_raw(self, data_id):
-        return gzip.open(self.raw_file_path(data_id), 'rb').read()
-
-    def save_raw(self, raw, data_id):
-        with gzip.open(self.raw_file_path(data_id), 'wb') as f:
-            #f.write(raw)
-            f.write(replace_out_of_range(raw))
-
-    def open_scraped(self, data_id):
-        encoded = gzip.open(self.scraped_file_path(data_id), 'rb').read()
-        return self.decode(encoded)
-
-    def save_scraped(self, scraped, data_id):
-        encoded = self.encode(scraped)
-        with gzip.open(self.scraped_file_path(data_id), 'wb') as f:
-            f.write(encoded)
