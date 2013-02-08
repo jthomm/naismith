@@ -1,5 +1,33 @@
 (function () {
 
+/*
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>d3stuff</title>
+    <style>
+      #graph {
+        background-image:url('court-lines.gif');
+        width:470px;
+        height:300px;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div id="graph"></div>
+
+    <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="smartmatch.js"></script>
+    <script type="text/javascript" src="quarry.js"></script>
+    <script type="text/javascript" src="data.js"></script>
+    <script type="text/javascript" src="hexbin.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+  </body>
+</html>
+*/
+
+
   var root = this
 
     , origin = {x: 25, y: 29}
