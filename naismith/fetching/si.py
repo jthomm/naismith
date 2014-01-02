@@ -9,7 +9,7 @@ from resourceabc import ResourceABC
 
 import simplejson as json
 import re
-
+from scraping import si
 
 FILE_DIR = path.join(path.dirname(MODULE_DIR), 'files', 'si')
 
@@ -42,9 +42,10 @@ class SchedulePage(ResourceABC):
 class PlayByPlay(ResourceABC):
     
     def scrape(self, raw):
-        mo = re.search(r'callbackWrapper\((.+?)\);$', raw)
-        json_data = raw if mo is None else mo.group(1)
-        return json.loads(json_data)
+        return si.PlayByPlay(raw).as_dict
+        #mo = re.search(r'callbackWrapper\((.+?)\);$', raw)
+        #json_data = raw if mo is None else mo.group(1)
+        #return json.loads(json_data)
 
     @property
     def url(self):
