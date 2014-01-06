@@ -36,181 +36,241 @@ team_identifiers = (
       'abbr': u'ATL',
       'location': u'Atlanta',
       'nickname': u'Hawks',
-      'stats_inc_id': u'1'
+      'stats_inc_id': u'1',
+      'conference': u'Eastern',
+      'division': u'Southeast',
     },
     {
       'abbr': u'BKN',
       'location': u'Brooklyn',
       'nickname': u'Nets',
-      'stats_inc_id': u'17'
+      'stats_inc_id': u'17',
+      'conference': u'Eastern',
+      'division': u'Atlantic',
     },
     {
       'abbr': u'BOS',
       'location': u'Boston',
       'nickname': u'Celtics',
-      'stats_inc_id': u'2'
+      'stats_inc_id': u'2',
+      'conference': u'Eastern',
+      'division': u'Atlantic',
     },
     {
       'abbr': u'CHA',
       'location': u'Charlotte',
       'nickname': u'Bobcats',
-      'stats_inc_id': u'74'
+      'stats_inc_id': u'74',
+      'conference': u'Eastern',
+      'division': u'Southeast',
     },
     {
       'abbr': u'CHI',
       'location': u'Chicago',
       'nickname': u'Bulls',
-      'stats_inc_id': u'4'
+      'stats_inc_id': u'4',
+      'conference': u'Eastern',
+      'division': u'Central',
     },
     {
       'abbr': u'CLE',
       'location': u'Cleveland',
       'nickname': u'Cavaliers',
-      'stats_inc_id': u'5'
+      'stats_inc_id': u'5',
+      'conference': u'Eastern',
+      'division': u'Central',
     },
     {
       'abbr': u'DAL',
       'location': u'Dallas',
       'nickname': u'Mavericks',
-      'stats_inc_id': u'6'
+      'stats_inc_id': u'6',
+      'conference': u'Western',
+      'division': u'Southwest',
     },
     {
       'abbr': u'DEN',
       'location': u'Denver',
       'nickname': u'Nuggets',
-      'stats_inc_id': u'7'
+      'stats_inc_id': u'7',
+      'conference': u'Western',
+      'division': u'Northwest',
     },
     {
       'abbr': u'DET',
       'location': u'Detroit',
       'nickname': u'Pistons',
-      'stats_inc_id': u'8'
+      'stats_inc_id': u'8',
+      'conference': u'Eastern',
+      'division': u'Central',
     },
     {
       'abbr': u'GS',
       'location': u'Golden State',
       'nickname': u'Warriors',
-      'stats_inc_id': u'9'
+      'stats_inc_id': u'9',
+      'conference': u'Western',
+      'division': u'Pacific',
     },
     {
       'abbr': u'HOU',
       'location': u'Houston',
       'nickname': u'Rockets',
-      'stats_inc_id': u'10'
+      'stats_inc_id': u'10',
+      'conference': u'Western',
+      'division': u'Southwest',
     },
     {
       'abbr': u'IND',
       'location': u'Indiana',
       'nickname': u'Pacers',
-      'stats_inc_id': u'11'
+      'stats_inc_id': u'11',
+      'conference': u'Eastern',
+      'division': u'Central',
     },
     {
       'abbr': u'LAC',
       'location': u'Los Angeles',
       'nickname': u'Clippers',
-      'stats_inc_id': u'12'
+      'stats_inc_id': u'12',
+      'conference': u'Western',
+      'division': u'Pacific',
     },
     {
       'abbr': u'LAL',
       'location': u'Los Angeles',
       'nickname': u'Lakers',
-      'stats_inc_id': u'13'
+      'stats_inc_id': u'13',
+      'conference': u'Western',
+      'division': u'Pacific',
     },
     {
       'abbr': u'MEM',
       'location': u'Memphis',
       'nickname': u'Grizzlies',
-      'stats_inc_id': u'51'
+      'stats_inc_id': u'51',
+      'conference': u'Western',
+      'division': u'Southwest',
     },
     {
       'abbr': u'MIA',
       'location': u'Miami',
       'nickname': u'Heat',
-      'stats_inc_id': u'14'
+      'stats_inc_id': u'14',
+      'conference': u'Eastern',
+      'division': u'Southeast',
     },
     {
       'abbr': u'MIL',
       'location': u'Milwaukee',
       'nickname': u'Bucks',
-      'stats_inc_id': u'15'
+      'stats_inc_id': u'15',
+      'conference': u'Eastern',
+      'division': u'Central',
     },
     {
       'abbr': u'MIN',
       'location': u'Minnesota',
       'nickname': u'Timberwolves',
-      'stats_inc_id': u'16'
+      'stats_inc_id': u'16',
+      'conference': u'Western',
+      'division': u'Northwest',
     },
     {
       'abbr': u'NO',
       'location': u'New Orleans',
       'nickname': u'Pelicans',
-      'stats_inc_id': u'3'
+      'stats_inc_id': u'3',
+      'conference': u'Western',
+      'division': u'Southwest',
     },
     {
       'abbr': u'NY',
       'location': u'New York',
       'nickname': u'Knicks',
-      'stats_inc_id': u'18'
+      'stats_inc_id': u'18',
+      'conference': u'Eastern',
+      'division': u'Atlantic',
     },
     {
       'abbr': u'OKC',
       'location': u'Oklahoma City',
       'nickname': u'Thunder',
-      'stats_inc_id': u'25'
+      'stats_inc_id': u'25',
+      'conference': u'Western',
+      'division': u'Northwest',
     },
     {
       'abbr': u'ORL',
       'location': u'Orlando',
       'nickname': u'Magic',
-      'stats_inc_id': u'19'
+      'stats_inc_id': u'19',
+      'conference': u'Eastern',
+      'division': u'Southeast',
     },
     {
       'abbr': u'PHI',
       'location': u'Philadelphia',
       'nickname': u'76ers',
-      'stats_inc_id': u'20'
+      'stats_inc_id': u'20',
+      'conference': u'Eastern',
+      'division': u'Atlantic',
     },
     {
       'abbr': u'PHO',
       'location': u'Phoenix',
       'nickname': u'Suns',
-      'stats_inc_id': u'21'
+      'stats_inc_id': u'21',
+      'conference': u'Western',
+      'division': u'Pacific',
     },
     {
       'abbr': u'POR',
       'location': u'Portland',
       'nickname': u'Trail Blazers',
-      'stats_inc_id': u'22'
+      'stats_inc_id': u'22',
+      'conference': u'Western',
+      'division': u'Northwest',
     },
     {
       'abbr': u'SA',
       'location': u'San Antonio',
       'nickname': u'Spurs',
-      'stats_inc_id': u'24'
+      'stats_inc_id': u'24',
+      'conference': u'Western',
+      'division': u'Southwest',
     },
     {
       'abbr': u'SAC',
       'location': u'Sacramento',
       'nickname': u'Kings',
-      'stats_inc_id': u'23'
+      'stats_inc_id': u'23',
+      'conference': u'Western',
+      'division': u'Pacific',
     },
     {
       'abbr': u'TOR',
       'location': u'Toronto',
       'nickname': u'Raptors',
-      'stats_inc_id': u'50'
+      'stats_inc_id': u'50',
+      'conference': u'Eastern',
+      'division': u'Atlantic',
     },
     {
       'abbr': u'UTA',
       'location': u'Utah',
       'nickname': u'Jazz',
-      'stats_inc_id': u'26'
+      'stats_inc_id': u'26',
+      'conference': u'Western',
+      'division': u'Northwest',
     },
     {
       'abbr': u'WAS',
       'location': u'Washington',
       'nickname': u'Wizards',
-      'stats_inc_id': u'27'
+      'stats_inc_id': u'27',
+      'conference': u'Eastern',
+      'division': u'Southeast',
     }
 )
 
