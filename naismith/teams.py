@@ -31,6 +31,189 @@ team_identifiers = (
     {'nickname': u'Wizards', 'abbr': u'WAS', 'location': u'Washington'},
 )
 
+team_identifiers = (
+    {
+      'abbr': u'ATL',
+      'location': u'Atlanta',
+      'nickname': u'Hawks',
+      'stats_inc_id': u'1'
+    },
+    {
+      'abbr': u'BKN',
+      'location': u'Brooklyn',
+      'nickname': u'Nets',
+      'stats_inc_id': u'17'
+    },
+    {
+      'abbr': u'BOS',
+      'location': u'Boston',
+      'nickname': u'Celtics',
+      'stats_inc_id': u'2'
+    },
+    {
+      'abbr': u'CHA',
+      'location': u'Charlotte',
+      'nickname': u'Bobcats',
+      'stats_inc_id': u'74'
+    },
+    {
+      'abbr': u'CHI',
+      'location': u'Chicago',
+      'nickname': u'Bulls',
+      'stats_inc_id': u'4'
+    },
+    {
+      'abbr': u'CLE',
+      'location': u'Cleveland',
+      'nickname': u'Cavaliers',
+      'stats_inc_id': u'5'
+    },
+    {
+      'abbr': u'DAL',
+      'location': u'Dallas',
+      'nickname': u'Mavericks',
+      'stats_inc_id': u'6'
+    },
+    {
+      'abbr': u'DEN',
+      'location': u'Denver',
+      'nickname': u'Nuggets',
+      'stats_inc_id': u'7'
+    },
+    {
+      'abbr': u'DET',
+      'location': u'Detroit',
+      'nickname': u'Pistons',
+      'stats_inc_id': u'8'
+    },
+    {
+      'abbr': u'GS',
+      'location': u'Golden State',
+      'nickname': u'Warriors',
+      'stats_inc_id': u'9'
+    },
+    {
+      'abbr': u'HOU',
+      'location': u'Houston',
+      'nickname': u'Rockets',
+      'stats_inc_id': u'10'
+    },
+    {
+      'abbr': u'IND',
+      'location': u'Indiana',
+      'nickname': u'Pacers',
+      'stats_inc_id': u'11'
+    },
+    {
+      'abbr': u'LAC',
+      'location': u'Los Angeles',
+      'nickname': u'Clippers',
+      'stats_inc_id': u'12'
+    },
+    {
+      'abbr': u'LAL',
+      'location': u'Los Angeles',
+      'nickname': u'Lakers',
+      'stats_inc_id': u'13'
+    },
+    {
+      'abbr': u'MEM',
+      'location': u'Memphis',
+      'nickname': u'Grizzlies',
+      'stats_inc_id': u'51'
+    },
+    {
+      'abbr': u'MIA',
+      'location': u'Miami',
+      'nickname': u'Heat',
+      'stats_inc_id': u'14'
+    },
+    {
+      'abbr': u'MIL',
+      'location': u'Milwaukee',
+      'nickname': u'Bucks',
+      'stats_inc_id': u'15'
+    },
+    {
+      'abbr': u'MIN',
+      'location': u'Minnesota',
+      'nickname': u'Timberwolves',
+      'stats_inc_id': u'16'
+    },
+    {
+      'abbr': u'NO',
+      'location': u'New Orleans',
+      'nickname': u'Pelicans',
+      'stats_inc_id': u'3'
+    },
+    {
+      'abbr': u'NY',
+      'location': u'New York',
+      'nickname': u'Knicks',
+      'stats_inc_id': u'18'
+    },
+    {
+      'abbr': u'OKC',
+      'location': u'Oklahoma City',
+      'nickname': u'Thunder',
+      'stats_inc_id': u'25'
+    },
+    {
+      'abbr': u'ORL',
+      'location': u'Orlando',
+      'nickname': u'Magic',
+      'stats_inc_id': u'19'
+    },
+    {
+      'abbr': u'PHI',
+      'location': u'Philadelphia',
+      'nickname': u'76ers',
+      'stats_inc_id': u'20'
+    },
+    {
+      'abbr': u'PHO',
+      'location': u'Phoenix',
+      'nickname': u'Suns',
+      'stats_inc_id': u'21'
+    },
+    {
+      'abbr': u'POR',
+      'location': u'Portland',
+      'nickname': u'Trail Blazers',
+      'stats_inc_id': u'22'
+    },
+    {
+      'abbr': u'SA',
+      'location': u'San Antonio',
+      'nickname': u'Spurs',
+      'stats_inc_id': u'24'
+    },
+    {
+      'abbr': u'SAC',
+      'location': u'Sacramento',
+      'nickname': u'Kings',
+      'stats_inc_id': u'23'
+    },
+    {
+      'abbr': u'TOR',
+      'location': u'Toronto',
+      'nickname': u'Raptors',
+      'stats_inc_id': u'50'
+    },
+    {
+      'abbr': u'UTA',
+      'location': u'Utah',
+      'nickname': u'Jazz',
+      'stats_inc_id': u'26'
+    },
+    {
+      'abbr': u'WAS',
+      'location': u'Washington',
+      'nickname': u'Wizards',
+      'stats_inc_id': u'27'
+    }
+)
+
 def _keyvals_match(x, y):
     for k, v in x.iteritems():
         if k not in y or y[k] != v:
